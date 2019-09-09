@@ -188,6 +188,8 @@ prose:
                 value: 'line'
               - name: 'bar'
                 value: 'bar'
+              - name: 'scaled'
+                value: 'scaled'
             scope: graph
       - name: "graph_title"
         field: 
