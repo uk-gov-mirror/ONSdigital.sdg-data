@@ -3,6 +3,7 @@ import sdg
 import glob
 import json
 import lxml.etree as ET
+import pandas as pd
 
 def csv2mapping(csv):
     df=pd.read_csv(csv)
