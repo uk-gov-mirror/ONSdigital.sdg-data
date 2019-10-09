@@ -102,10 +102,25 @@ prose:
             element: textarea
             label: "Definitions"
             scope: national
+      - name: "rationale_interpretation"
+        field:
+            element: textarea
+            label: "Rationale and interpretation"
+            scope: national
       - name: "computation_calculations"
         field:
             element: text
             label: "Calculations"
+            scope: national
+      - name: "quality_assurance"
+        field:
+            element: text
+            label: "Quality assurance methods"
+            scope: national
+      - name: "comparability"
+        field:
+            element: text
+            label: "Comparability with international data/standards"
             scope: national
       - name: "comments_limitations"
         field:
@@ -132,6 +147,58 @@ prose:
             element: hidden
             label: "Metadata last updated"
             scope: national
+       ######### Data Reporter #########
+       - name: "data_reporter_organization"
+         field:
+             element: text
+             label: "Organization"
+             scope: data_reporter
+       - name: "data_reporter_person"
+         field:
+             element: text
+             label: "Contact person(s)/Focal point"
+             scope: data_reporter
+       - name: "data_reporter_email"
+         field:
+             element: text
+             label: "Email"
+             scope: data_reporter
+       - name: "data_reporter_phone"
+         field:
+             element: text
+             label: "Telephone"
+             scope: data_reporter
+       - name: "data_reporter_website"
+         field:
+             element: text
+             label: "Website"
+             scope: data_reporter
+       ######### Institutional Aspects and Stakeholders ##########
+       - name: "legal_mandate"
+         field:
+             element: text
+             label: "Legal mandate"
+             scope: institutional_aspects_stakeholders
+       - name: "data_sharing_arrangements"
+         field:
+             element: text
+             label: "Data sharing arrangements"
+             scope: institutional_aspects_stakeholders
+       - name: "other_coordination_mechanisms"
+         field:
+             element: text
+             label: "Other coordination mechanisms"
+             scope: institutional_aspects_stakeholders
+       - name: "key_users"
+         field:
+             element: text
+             label: "Key users"
+             scope: institutional_aspects_stakeholders
+       - name: "user_engagement_approaches"
+         field:
+             element: text
+             label: "User engagement approaches"
+             scope: institutional_aspects_stakeholders               
        ######### Data Info #########
       - name: "reporting_status"
         field: 
@@ -143,8 +210,7 @@ prose:
                 translation_key: 'status.reported_online'
               - name: 'notstarted'
                 value: 'notstarted'
-                translation_key: 'status.exploring_data_sources'
-                
+                translation_key: 'status.exploring_data_sources'        
             scope: data
       - name: data_non_statistical
         field:
@@ -262,6 +328,11 @@ prose:
             element: textarea
             label: "Other information"
             scope: source_1
+      - name: "source_collection_methods_1"
+        field:
+            element: text
+            label: "Data collection methods"
+            scope: source_1
       ## Source 2
       - name: source_active_2
         field:
@@ -328,6 +399,11 @@ prose:
         field:
             element: textarea
             label: "Other information"
+            scope: source_2
+      - name: "source_collection_methods_2"
+        field:
+            element: text
+            label: "Data collection methods"
             scope: source_2
       ## Source 3
       - name: source_active_3
@@ -396,6 +472,11 @@ prose:
             element: textarea
             label: "Other information"
             scope: source_3
+      - name: "source_collection_methods_3"
+        field:
+            element: text
+            label: "Data collection methods"
+            scope: source_3
       ## Source 4
       - name: source_active_4
         field:
@@ -462,6 +543,11 @@ prose:
         field:
             element: textarea
             label: "Other information"
+            scope: source_4
+      - name: "source_collection_methods_4"
+        field:
+            element: text
+            label: "Data collection methods"
             scope: source_4
 ## Source 5
       - name: source_active_5
@@ -530,6 +616,11 @@ prose:
             element: textarea
             label: "Other information"
             scope: source_5
+      - name: "source_collection_methods_5"
+        field:
+            element: text
+            label: "Data collection methods"
+            scope: source_5
 ## Source 6
       - name: source_active_6
         field:
@@ -596,6 +687,11 @@ prose:
         field:
             element: textarea
             label: "Other information"
+            scope: source_6
+      - name: "source_collection_methods_6"
+        field:
+            element: text
+            label: "Data collection methods"
             scope: source_6
 ## Source 7
       - name: source_active_7
@@ -664,6 +760,11 @@ prose:
             element: textarea
             label: "Other information"
             scope: source_7
+      - name: "source_collection_methods_7"
+        field:
+            element: text
+            label: "Data collection methods"
+            scope: source_7
 ## Source 8
       - name: source_active_8
         field:
@@ -731,6 +832,11 @@ prose:
             element: textarea
             label: "Other information"
             scope: source_8
+      - name: "source_collection_methods_8"
+        field:
+            element: text
+            label: "Data collection methods"
+            scope: source_8
 ## Source 9
       - name: source_active_9
         field:
@@ -797,4 +903,9 @@ prose:
         field:
             element: textarea
             label: "Other information"
+            scope: source_9
+      - name: "source_collection_methods_9"
+        field:
+            element: text
+            label: "Data collection methods"
             scope: source_9
