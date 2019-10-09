@@ -132,6 +132,12 @@ prose:
             element: hidden
             label: "Metadata last updated"
             scope: national
+      - name: "test_tab_field"
+        field:
+            element: text
+            label: "Test field"
+            scope: test_tab
+            
        ######### Data Info #########
       - name: "reporting_status"
         field: 
@@ -143,8 +149,7 @@ prose:
                 translation_key: 'status.reported_online'
               - name: 'notstarted'
                 value: 'notstarted'
-                translation_key: 'status.exploring_data_sources'
-                
+                translation_key: 'status.exploring_data_sources'               
             scope: data
       - name: data_non_statistical
         field:
