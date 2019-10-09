@@ -148,58 +148,58 @@ prose:
             label: "Metadata last updated"
             scope: national
        ######### Data Reporter #########
-       - name: "data_reporter_organization"
-         field:
-             element: text
-             label: "Organization"
-             scope: data_reporter
-       - name: "data_reporter_person"
-         field:
-             element: text
-             label: "Contact person(s)/Focal point"
-             scope: data_reporter
-       - name: "data_reporter_email"
-         field:
-             element: text
-             label: "Email"
-             scope: data_reporter
-       - name: "data_reporter_phone"
-         field:
-             element: text
-             label: "Telephone"
-             scope: data_reporter
-       - name: "data_reporter_website"
-         field:
-             element: text
-             label: "Website"
-             scope: data_reporter
-       ######### Institutional Aspects and Stakeholders ##########
-       - name: "legal_mandate"
-         field:
-             element: text
-             label: "Legal mandate"
-             scope: institutional_aspects_stakeholders
-       - name: "data_sharing_arrangements"
-         field:
-             element: text
-             label: "Data sharing arrangements"
-             scope: institutional_aspects_stakeholders
-       - name: "other_coordination_mechanisms"
-         field:
-             element: text
-             label: "Other coordination mechanisms"
-             scope: institutional_aspects_stakeholders
-       - name: "key_users"
-         field:
-             element: text
-             label: "Key users"
-             scope: institutional_aspects_stakeholders
-       - name: "user_engagement_approaches"
-         field:
-             element: text
-             label: "User engagement approaches"
-             scope: institutional_aspects_stakeholders               
-       ######### Data Info #########
+      - name: "data_reporter_organization"
+        field:
+            element: text
+            label: "Organization"
+            scope: data_reporter
+      - name: "data_reporter_person"
+        field:
+            element: text
+            label: "Contact person(s)/Focal point"
+            scope: data_reporter
+      - name: "data_reporter_email"
+        field:
+            element: text
+            label: "Email"
+            scope: data_reporter
+      - name: "data_reporter_phone"
+        field:
+            element: text
+            label: "Telephone"
+            scope: data_reporter
+      - name: "data_reporter_website"
+        field:
+            element: text
+            label: "Website"
+            scope: data_reporter
+      ######### Institutional Aspects and Stakeholders ##########
+      - name: "legal_mandate"
+        field:
+            element: text
+            label: "Legal mandate"
+            scope: institutional_aspects_stakeholders
+      - name: "data_sharing_arrangements"
+        field:
+            element: text
+            label: "Data sharing arrangements"
+            scope: institutional_aspects_stakeholders
+      - name: "other_coordination_mechanisms"
+        field:
+            element: text
+            label: "Other coordination mechanisms"
+            scope: institutional_aspects_stakeholders
+      - name: "key_users"
+        field:
+            element: text
+            label: "Key users"
+            scope: institutional_aspects_stakeholders
+      - name: "user_engagement_approaches"
+        field:
+            element: text
+            label: "User engagement approaches"
+            scope: institutional_aspects_stakeholders               
+      ######### Data Info #########
       - name: "reporting_status"
         field: 
             element: select 
