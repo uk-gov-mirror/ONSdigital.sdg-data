@@ -24,7 +24,7 @@ def get_file_type(file):
 def fix_data(df):
     # For "Reference area", we want "Kyrgyzstan" to be the default.
     if 'Reference area' in df:
-        df['Reference area'] = df['Reference area'].replace('Kyrgyzstan', '')
+        df['Reference area'] = df['Reference area'].replace('Kyrgyzstan', None)
     # For "Source details", we want to drop the whole column.
     if 'Source details' in df:
         del df['Source details']
