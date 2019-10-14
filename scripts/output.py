@@ -4,6 +4,7 @@ import glob
 import json
 import lxml.etree as ET
 import pandas as pd
+import numpy as np
 
 def csv2mapping(csv):
     df=pd.read_csv(csv)
@@ -24,7 +25,7 @@ def get_file_type(file):
 def fix_data(df):
     # For "Reference area", we want "Kyrgyzstan" to be the default.
     if 'Reference area' in df:
-        df['Reference area'] = df['Reference area'].replace('Kyrgyzstan', None)
+        df['Reference area'] = df['Reference area'].replace('Kyrgyzstan', np.nan)
     # For "Source details", we want to drop the whole column.
     if 'Source details' in df:
         del df['Source details']
