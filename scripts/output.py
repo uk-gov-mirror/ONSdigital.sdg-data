@@ -21,8 +21,13 @@ def get_file_type(file):
     file_type=ET.parse(file).getroot().tag.split('}')[1]
     return file_type
 
-def remove_kg(df):
-    df=df.replace("Kyrgyzstan", "")
+def fix_data(df):
+    # For "Reference area", we want "Kyrgyzstan" to be the default.
+    if 'Reference area' in df:
+        df['Reference area'] = df['Reference area'].replace('Kyrgyzstan', '')
+    # For "Source details", we want to drop the whole column.
+    if 'Source details' in df:
+        del df['Source details']
     return df
 
 # Control how the SDMX dimensions are mapped to Open SDG output. Because the
