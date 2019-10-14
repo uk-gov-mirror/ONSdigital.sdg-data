@@ -21,6 +21,10 @@ def get_file_type(file):
     file_type=ET.parse(file).getroot().tag.split('}')[1]
     return file_type
 
+def remove_kg(df):
+    df=df.replace("Kyrgyzstan", "")
+    return df
+
 # Control how the SDMX dimensions are mapped to Open SDG output. Because the
 # Open SDG platform relies on a particular "Units" column, we control that here.
 dimension_map = {
@@ -67,6 +71,7 @@ for sdmx_file in sdmx_files:
             indicator_id_xpath=indicator_id_xpath,
             indicator_name_xpath=indicator_name_xpath
         )
+    data_input.add_data_alteration(remove_kg)
     inputs.append(data_input)
     
 # Use .md files for metadata
