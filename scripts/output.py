@@ -76,7 +76,7 @@ for sdmx_file in sdmx_files:
             indicator_id_xpath=indicator_id_xpath,
             indicator_name_xpath=indicator_name_xpath
         )
-    data_input.add_data_alteration(remove_kg)
+    data_input.add_data_alteration(fix_data)
     inputs.append(data_input)
     
 # Use .md files for metadata
