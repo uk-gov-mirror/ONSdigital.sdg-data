@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
-<!--Created with SDMX Converter v7.5.3-->
+<!--Created with SDMX Converter v7.5.8-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KG_NSC:SDG(1.0):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
     <message:ID>JD014</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2019-05-27T03:15:34Z</message:Prepared>
+    <message:Prepared>2019-10-24T15:05:10Z</message:Prepared>
     <message:Sender id="BIS">
       <message:Contact></message:Contact>
     </message:Sender>
