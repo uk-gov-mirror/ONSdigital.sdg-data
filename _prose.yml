@@ -65,17 +65,6 @@ prose:
             element: text
             label: "UN custodian agency"
             scope: global
-      - name: "goal_meta_link"
-        field:
-            element: text
-            label: "Link to UN metadata"
-            scope: global
-      - name: "goal_meta_link_text"
-        field:
-            element: text
-            label: "Link to UN metadata text"
-            value: "UN metadata"
-            scope: global
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
@@ -136,6 +125,17 @@ prose:
         field:
             element: hidden
             label: "Metadata last updated"
+            scope: national
+      - name: "goal_meta_link"
+        field:
+            element: text
+            label: "Link to UN metadata"
+            scope: national
+      - name: "goal_meta_link_text"
+        field:
+            element: text
+            label: "Link to UN metadata text"
+            value: "UN metadata"
             scope: national
        ######### Data Info #########
       - name: "reporting_status"
