@@ -26,3 +26,10 @@ opensdg_output = sdg.outputs.OutputOpenSdg(
     output_folder='_site',
     translations=translations,
     reporting_status_extra_fields=['un_designated_tier'])
+
+# Validate the indicators.
+validation_successful = opensdg_output.validate()
+
+# If everything was valid, perform the build.
+if validation_successful:
+    opensdg_output.execute()
