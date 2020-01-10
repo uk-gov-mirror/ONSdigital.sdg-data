@@ -112,7 +112,7 @@ prose:
             element: text
             label: "Calculations"
             scope: national
-      - name: "comments__limitations"
+      - name: "comments_limitations"
         field:
             element: text
             label: "Comments and limitations"
