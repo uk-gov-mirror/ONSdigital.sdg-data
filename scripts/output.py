@@ -17,7 +17,6 @@ schema_path = os.path.join('_prose.yml')
 schema = sdg.schemas.SchemaInputOpenSdg(schema_path=schema_path)
 
 # Use SDG Translations for translations
-translations = sdg.translations.TranslationInputSdgTranslations('0.8.2')
 
 # Indicate any extra fields for the reporting stats, if needed.
 reporting_status_extra_fields = ['un_designated_tier']
@@ -26,7 +25,7 @@ opensdg_output = sdg.outputs.OutputOpenSdg(
     inputs=inputs,
     schema=schema,
     output_folder='_site',
-    translations=translations,
+    translations=None,
     reporting_status_extra_fields=reporting_status_extra_fields)
 
 # Validate the indicators.
