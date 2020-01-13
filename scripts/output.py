@@ -20,12 +20,15 @@ schema = sdg.schemas.SchemaInputOpenSdg(schema_path=schema_path)
 tag = '0.8.2'
 translations = sdg.translations.TranslationInputSdgTranslations(tag=tag)
 
+# Indicate any extra fields for the reporting stats, if needed.
+reporting_status_extra_fields = ['un_designated_tier']
+
 opensdg_output = sdg.outputs.OutputOpenSdg(
     inputs=inputs,
     schema=schema,
     output_folder='_site',
     translations=translations,
-    reporting_status_extra_fields=['un_designated_tier'])
+    reporting_status_extra_fields=reporting_status_extra_fields)
 
 # Validate the indicators.
 validation_successful = opensdg_output.validate()
