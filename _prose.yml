@@ -29,6 +29,7 @@ prose:
         field:
             element: text
             label: "Indicator name"
+            translation_key: my_custom_translations.indicator_name
             scope: global
       - name: "indicator"
         field:
