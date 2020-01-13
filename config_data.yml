@@ -12,7 +12,7 @@ site_dir: _site
 schema_file: _prose.yml
 
 # The parent folder of the 'meta' and 'data' folders.
-src_dir: 'sdg-data'
+src_dir: ''
 
 # Links to Git repositories with translation data.
 translations:
