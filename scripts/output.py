@@ -20,7 +20,7 @@ schema = sdg.schemas.SchemaInputOpenSdg(schema_path=schema_path)
 all_translations = [sdg.translations.TranslationInputSdgTranslations(source='https://github.com/open-sdg/translations-un-sdg.git', tag='1.0.0-rc1')]
 
 # Indicate any extra fields for the reporting stats, if needed.
-reporting_status_extra_fields = ['un_designated_tier']
+reporting_status_extra_fields = ['un_designated_tier', 'un_custodian_agency']
 
 opensdg_output = sdg.outputs.OutputOpenSdg(
     inputs=inputs,
