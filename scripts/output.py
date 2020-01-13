@@ -16,11 +16,28 @@ inputs = [data_input, meta_input]
 schema_path = os.path.join('_prose.yml')
 schema = sdg.schemas.SchemaInputOpenSdg(schema_path=schema_path)
 
-# Use SDG Translations for translations
-all_translations = [sdg.translations.TranslationInputSdgTranslations(source='https://github.com/open-sdg/translations-un-sdg.git', tag='1.0.0-rc1')]
+# Pull in remote translations if needed.
+    all_translations = []
+    if 'translations' in options:
+        for repo in options['translations']:
+            # Support an "@" syntax for pinning to a git tag/branch/commit.
+            parts = repo.split('@')
+            tag = None
+            if len(parts) == 2:
+                repo = parts[0]
+                tag = parts[1]
+            all_translations.append(sdg.translations.TranslationInputSdgTranslations(
+                source=repo, tag=tag
+            ))
+    # Also include local translations from a 'translation' folder if present.
+    translation_dir = os.path.join(options['src_dir'], 'translations')
+    if os.path.isdir(translation_dir):
+        all_translations.append(sdg.translations.TranslationInputYaml(source=translation_dir))
 
-# Indicate any extra fields for the reporting stats, if needed.
-reporting_status_extra_fields = ['un_designated_tier', 'un_custodian_agency']
+    # Indicate any extra fields for the reporting stats, if needed.
+    reporting_status_extra_fields = []
+    if 'reporting_status_extra_fields' in options:
+        reporting_status_extra_fields = options['reporting_status_extra_fields']
 
 opensdg_output = sdg.outputs.OutputOpenSdg(
     inputs=inputs,
