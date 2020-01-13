@@ -17,7 +17,7 @@ schema_path = os.path.join('_prose.yml')
 schema = sdg.schemas.SchemaInputOpenSdg(schema_path=schema_path)
 
 # Use SDG Translations for translations
-all_translations = [sdg.translations.TranslationInputSdgTranslations(source='https://github.com/open-sdg/translations-un-sdg.git', repo='1.0.0-rc1')]
+all_translations = [sdg.translations.TranslationInputSdgTranslations(source='https://github.com/open-sdg/translations-un-sdg.git', tag='1.0.0-rc1')]
 
 # Indicate any extra fields for the reporting stats, if needed.
 reporting_status_extra_fields = ['un_designated_tier']
