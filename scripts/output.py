@@ -24,8 +24,7 @@ opensdg_output = sdg.outputs.OutputOpenSdg(
     inputs=inputs,
     schema=schema,
     output_folder='_site',
-    translations=translations,
-    reporting_status_extra_fields=['un_designated_tier'])
+    translations=translations)
 
 # Validate the indicators.
 validation_successful = opensdg_output.validate()
