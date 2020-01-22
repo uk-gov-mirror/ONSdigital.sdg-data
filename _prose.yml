@@ -183,6 +183,20 @@ prose:
             help: If this box is checked then the prescence of a GeoCode field will trigger a map
             value: false
             scope: data
+      - name: "data_start_values"
+        field:
+            scope: data
+            element: multiselect
+            label: "Starting values"
+            options:
+              - name: 'Area 1 overarching legal frameworks and public life'
+                value: 'Area 1 overarching legal frameworks and public life'
+              - name: 'Area 2 violence against women'
+                value: 'Area 2 violence against women'
+              - name: 'Area 3 employment and economic benefits'
+                value: 'Area 3 employment and economic benefits'
+              - name: 'Area 4 marriage and family'
+                value: 'Area 4 marriage and family'
       ######### Chart Info #########
       - name: "graph_type"
         field: 
