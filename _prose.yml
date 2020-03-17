@@ -193,6 +193,8 @@ prose:
                 value: 'line'
               - name: 'bar'
                 value: 'bar'
+              - name: 'stacked_bar'
+                value: 'stacked_bar'
             scope: graph
       - name: "graph_title"
         field: 
