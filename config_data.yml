@@ -74,12 +74,6 @@ map_layers:
     id_property: lad16cd
     output_subfolder: local_authority
     filename_prefix: indicator_
-#County (link: https://hub.arcgis.com/datasets/b7507e654334481e8e0787f42c9028c1_3)
-  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/b7507e654334481e8e0787f42c9028c1_3.geojson
-    name_property: cty18nm
-    id_property: cty18cd
-    output_subfolder: county
-    filename_prefix: indicator_
  
 # Git
 # ---
