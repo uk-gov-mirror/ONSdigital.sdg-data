@@ -57,14 +57,14 @@ reporting_status_extra_fields: []
 #    output_subfolder: regions
 #    filename_prefix: indicator_
 #Country (https://hub.arcgis.com/datasets/c362832ce5d14728a6fb2b079525be0b_4/data)
-#  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/c362832ce5d14728a6fb2b079525be0b_4.geojson
-#    name_property: ctry17nm
-#    id_property: ctry17cd
-#    output_subfolder: country
-#    filename_prefix: indicator_
-#    min_zoom: 5
-#    max_zoom: 10
-#    staticBorders: true
+ - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/c362832ce5d14728a6fb2b079525be0b_4.geojson
+   name_property: ctry17nm
+   id_property: ctry17cd
+   output_subfolder: country
+   filename_prefix: indicator_
+   min_zoom: 5
+   max_zoom: 10
+   staticBorders: true
 #Region (link: https://hub.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4)
   - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
     name_property: rgn17nm
@@ -84,13 +84,13 @@ reporting_status_extra_fields: []
     max_zoom: 10
     staticBorders: false
 #County (link: https://hub.arcgis.com/datasets/b7507e654334481e8e0787f42c9028c1_3)
-#  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/b7507e654334481e8e0787f42c9028c1_3.geojson
-#    name_property: cty18nm
-#    id_property: cty18cd
-#    output_subfolder: county
-#    filename_prefix: indicator_
-#    min_zoom: 8
-#    max_zoom: 9
+  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/b7507e654334481e8e0787f42c9028c1_3.geojson
+    name_property: cty18nm
+    id_property: cty18cd
+    output_subfolder: county
+    filename_prefix: indicator_
+    min_zoom: 8
+    max_zoom: 9
  
 # Git
 # ---
