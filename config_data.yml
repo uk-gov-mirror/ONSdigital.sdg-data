@@ -72,7 +72,7 @@ map_layers:
   - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/686603e943f948acaa13fb5d2b0f1275_4.geojson
     name_property: lad16nm
     id_property: lad16cd
-    output_subfolder: local_authority
+    output_subfolder: local_authorities
     filename_prefix: indicator_
  
 # Git
