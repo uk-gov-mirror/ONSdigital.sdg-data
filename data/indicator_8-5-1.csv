@@ -1,4 +1,4 @@
-Year,Units,Sex,Working Pattern,Age,Occupation,Equality Act Disabled/ Not Equality Act Disabled,Country,Region,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+Year,Series,Sex,Working Pattern,Age,Occupation,Equality Act Disabled/ Not Equality Act Disabled,Country,Region,Observation status,Unit multiplier,Unit measure,GeoCode,Value
 1997,1. Annual survey of hours and earnings (ASHE),Men,Full Time,,,,England,,Undefined,Units,GBP (£),E92000001,10.19
 1997,1. Annual survey of hours and earnings (ASHE),Men,Part Time,,,,England,,Undefined,Units,GBP (£),E92000001,7.06
 1997,1. Annual survey of hours and earnings (ASHE),Women,Full Time,,,,England,,Undefined,Units,GBP (£),E92000001,8.14
