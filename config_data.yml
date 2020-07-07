@@ -86,4 +86,7 @@ git: true
 git_data_dir: data
 
 docs_branding: UK SDG data: disaggregation report
+docs_intro: This is a list of examples of endpoints and output that are
+  available on this service. Click each of the links below for more information
+  on the available output.
 docs_indicator_url: https://sdgdata.gov.uk/[id]
