@@ -85,4 +85,5 @@ git: true
 # to be converted/processed/etc in some way before being processed by sdg-build.
 git_data_dir: data
 
+docs_branding: UK SDG data: disaggregation report
 docs_indicator_url: https://sdgdata.gov.uk/[id]
