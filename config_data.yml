@@ -85,7 +85,7 @@ git: true
 # to be converted/processed/etc in some way before being processed by sdg-build.
 git_data_dir: data
 
-docs_branding: UK SDG data: disaggregation report
+docs_branding: UK SDG data
 docs_intro: This is a list of examples of endpoints and output that are
   available on this service. Click each of the links below for more information
   on the available output.
