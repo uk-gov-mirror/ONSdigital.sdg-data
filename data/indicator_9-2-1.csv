@@ -1253,6 +1253,72 @@ Year,Units,Industry higher sub-category,Industry middle sub-category,Industry lo
 2018,Percentage (%) of GDP,Other manufacturing and repair,Repair and installation of machinery and equipment,Repair and maintenance of ships and boats,Undefined,Units,Percentage (%),0.027262919325043853
 2018,Percentage (%) of GDP,Other manufacturing and repair,Repair and installation of machinery and equipment,Repair and maintenance of aircraft and spacecraft,Undefined,Units,Percentage (%),0.0976517021375681
 2018,Percentage (%) of GDP,Other manufacturing and repair,Repair and installation of machinery and equipment,Rest of repair; installation,Undefined,Units,Percentage (%),0.2614717707508654
+2019,Percentage (%) of GDP,,,,Undefined,Units,Percentage (%),8.79858339487772
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",,,Undefined,Units,Percentage (%),1.4176096032204615
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of food products,,Undefined,Units,Percentage (%),1.1092339541344436
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of food products,Processing and preserving of meat and production of meat products,Undefined,Units,Percentage (%),0.22667786583195895
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of food products,"Processing and preserving of fish, crustaceans, molluscs, fruit and vegetables",Undefined,Units,Percentage (%),0.1289083875115276
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of food products,Manufacture of vegetable and animal oils and fats,Undefined,Units,Percentage (%),0.003539599508665322
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of food products,Manufacture of dairy products,Undefined,Units,Percentage (%),0.10188306693860996
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of food products,"Manufacture of grain mill products, starches and starch products",Undefined,Units,Percentage (%),0.06476510452341684
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of food products,Manufacture of bakery and farinaceous products,Undefined,Units,Percentage (%),0.18477666083748837
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of food products,Manufacture of other food products,Undefined,Units,Percentage (%),0.35075517833841635
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of food products,Manufacture of prepared animal feeds,Undefined,Units,Percentage (%),0.0480715879217385
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of beverages,,Undefined,Units,Percentage (%),0.2915864676327541
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of beverages,Manufacture of alcoholic beverages,Undefined,Units,Percentage (%),0.1828633638057774
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of beverages,Manufacture of soft drinks; production of mineral waters and other bottled waters,Undefined,Units,Percentage (%),0.1087709362527695
+2019,Percentage (%) of GDP,"Manufacture of food products, beverages and tobacco",Manufacture of beverages,Manufacture of tobacco products,Undefined,Units,Percentage (%),0.016693516601678345
+2019,Percentage (%) of GDP,"Manufacture of textiles, wearing apparel and leather products",,,Undefined,Units,Percentage (%),0.25494682947548875
+2019,Percentage (%) of GDP,"Manufacture of textiles, wearing apparel and leather products",Manufacture of textiles,,Undefined,Units,Percentage (%),0.15540755140072476
+2019,Percentage (%) of GDP,"Manufacture of textiles, wearing apparel and leather products",Manufacture of wearing apparel,,Undefined,Units,Percentage (%),0.07921049711283479
+2019,Percentage (%) of GDP,"Manufacture of textiles, wearing apparel and leather products",Manufacture of leather and related products,,Undefined,Units,Percentage (%),0.02047227823930754
+2019,Percentage (%) of GDP,"Manufacture of wood and paper products, and printing",,,Undefined,Units,Percentage (%),0.6252176375373572
+2019,Percentage (%) of GDP,"Manufacture of wood and paper products, and printing","Manufacture of wood and products of wood and cork, except furniture; manufacture of articles of straw",,Undefined,Units,Percentage (%),0.1687049657711161
+2019,Percentage (%) of GDP,"Manufacture of wood and paper products, and printing",Manufacture of paper and paper products,,Undefined,Units,Percentage (%),0.2267735306835445
+2019,Percentage (%) of GDP,"Manufacture of wood and paper products, and printing",Printing and reproduction of recorded media,,Undefined,Units,Percentage (%),0.2295478113795254
+2019,Percentage (%) of GDP,"Manufacture of coke, and refined petroleum products",,,Undefined,Units,Percentage (%),0.09475603549548654
+2019,Percentage (%) of GDP,"Manufacture of coke, and refined petroleum products",Manufacture of coke and refined petroleum products,,Undefined,Units,Percentage (%),0.09475603549548654
+2019,Percentage (%) of GDP,Manufacture of chemicals and chemical products,,,Undefined,Units,Percentage (%),0.5559084525636266
+2019,Percentage (%) of GDP,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,,Undefined,Units,Percentage (%),0.5559084525636266
+2019,Percentage (%) of GDP,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,"Manufacture of industrial gases, inorganics and fertilisers (inorganic chemicals)",Undefined,Units,Percentage (%),0.03692663271202201
+2019,Percentage (%) of GDP,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,Manufacture of petrochemicals,Undefined,Units,Percentage (%),0.14431042861680105
+2019,Percentage (%) of GDP,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,"Manufacture of dyestuffs, agro-chemicals",Undefined,Units,Percentage (%),0.03252604953908674
+2019,Percentage (%) of GDP,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",Undefined,Units,Percentage (%),0.04496248024520815
+2019,Percentage (%) of GDP,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,"Manufacture of soap and detergents, cleaning and polishing, perfumes and toilet preparations",Undefined,Units,Percentage (%),0.19955688040745576
+2019,Percentage (%) of GDP,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,Manufacture of other chemical products,Undefined,Units,Percentage (%),0.0976738134688458
+2019,Percentage (%) of GDP,Manufacture of basic pharmaceutical products and pharmaceutical preparations,,,Undefined,Units,Percentage (%),0.6656838697580445
+2019,Percentage (%) of GDP,Manufacture of basic pharmaceutical products and pharmaceutical preparations,Manufacture of basic pharmaceutical products and pharmaceutical preparations,,Undefined,Units,Percentage (%),0.6656838697580445
+2019,Percentage (%) of GDP,"Manufacture of rubber and plastics products, and other non-metallic mineral products",,,Undefined,Units,Percentage (%),0.6156033199530094
+2019,Percentage (%) of GDP,"Manufacture of rubber and plastics products, and other non-metallic mineral products",Manufacture of rubber and plastic products,,Undefined,Units,Percentage (%),0.36988814865552616
+2019,Percentage (%) of GDP,"Manufacture of rubber and plastics products, and other non-metallic mineral products",Manufacture of other non-metallic mineral products,,Undefined,Units,Percentage (%),0.24566733887169048
+2019,Percentage (%) of GDP,"Manufacture of rubber and plastics products, and other non-metallic mineral products",Manufacture of other non-metallic mineral products,"Manufacture of glass, refractory, clay, porcelain, ceramic, stone products",Undefined,Units,Percentage (%),0.10523133674410418
+2019,Percentage (%) of GDP,"Manufacture of rubber and plastics products, and other non-metallic mineral products",Manufacture of other non-metallic mineral products,"Manufacture of cement, lime, plaster and articles of concrete, cement and plaster",Undefined,Units,Percentage (%),0.14043600212758628
+2019,Percentage (%) of GDP,Manufacture of basic metals and metal products,,,Undefined,Units,Percentage (%),0.9486605007480992
+2019,Percentage (%) of GDP,Manufacture of basic metals and metal products,Manufacture of basic metals,,Undefined,Units,Percentage (%),0.19960471283324852
+2019,Percentage (%) of GDP,Manufacture of basic metals and metal products,Manufacture of basic metals,Manufacture of basic iron and steel,Undefined,Units,Percentage (%),0.13273498157494956
+2019,Percentage (%) of GDP,Manufacture of basic metals and metal products,Manufacture of basic metals,Manufacture of other basic metals and casting,Undefined,Units,Percentage (%),0.06667840155512783
+2019,Percentage (%) of GDP,Manufacture of basic metals and metal products,"Manufacture of fabricated metal products, except machinery and equipment",,Undefined,Units,Percentage (%),0.7490557879148507
+2019,Percentage (%) of GDP,Manufacture of basic metals and metal products,"Manufacture of fabricated metal products, except machinery and equipment","Manufacture of fabricated metal products, excluding weapons and ammunition",Undefined,Units,Percentage (%),0.6982099192971312
+2019,Percentage (%) of GDP,Manufacture of basic metals and metal products,"Manufacture of fabricated metal products, except machinery and equipment",Manufacture of weapons and ammunition,Undefined,Units,Percentage (%),0.0507023713403411
+2019,Percentage (%) of GDP,"Manufacturing of computer, electronic and optical products",,,Undefined,Units,Percentage (%),0.7178212138721688
+2019,Percentage (%) of GDP,"Manufacturing of computer, electronic and optical products","Manufacture of computer, electronic and optical products",,Undefined,Units,Percentage (%),0.7178212138721688
+2019,Percentage (%) of GDP,Manufacture of electrical equipment,,,Undefined,Units,Percentage (%),0.22098580716261876
+2019,Percentage (%) of GDP,Manufacture of electrical equipment,Manufacture of electrical equipment,,Undefined,Units,Percentage (%),0.22098580716261876
+2019,Percentage (%) of GDP,Manufacture of machinery and equipment not elsewhere classified,,,Undefined,Units,Percentage (%),0.6952921413237719
+2019,Percentage (%) of GDP,Manufacture of machinery and equipment not elsewhere classified,Manufacture of machinery and equipmentnot elsewhere classified,,Undefined,Units,Percentage (%),0.6952921413237719
+2019,Percentage (%) of GDP,Manufacture of transport equipment,,,Undefined,Units,Percentage (%),1.2070512648806677
+2019,Percentage (%) of GDP,Manufacture of transport equipment,"Manufacture of motor vehicles, trailers and semi-trailers",,Undefined,Units,Percentage (%),0.7103115230227032
+2019,Percentage (%) of GDP,Manufacture of transport equipment,Manufacture of other transport equipment,,Undefined,Units,Percentage (%),0.49669190943217173
+2019,Percentage (%) of GDP,Manufacture of transport equipment,Manufacture of other transport equipment,Building of ships and boats,Undefined,Units,Percentage (%),0.08987712806462353
+2019,Percentage (%) of GDP,Manufacture of transport equipment,Manufacture of other transport equipment,Manufacture of air and spacecraft and related machinery,Undefined,Units,Percentage (%),0.3485070543261559
+2019,Percentage (%) of GDP,Manufacture of transport equipment,Manufacture of other transport equipment,Manufacture of other transport equipment,Undefined,Units,Percentage (%),0.05845122431877059
+2019,Percentage (%) of GDP,Other manufacturing and repair,,,Undefined,Units,Percentage (%),0.778903221609542
+2019,Percentage (%) of GDP,Other manufacturing and repair,Manufacture of furniture,,Undefined,Units,Percentage (%),0.2017093395681306
+2019,Percentage (%) of GDP,Other manufacturing and repair,Other manufacturing,,Undefined,Units,Percentage (%),0.2410275935697913
+2019,Percentage (%) of GDP,Other manufacturing and repair,Repair and installation of machinery and equipment,,Undefined,Units,Percentage (%),0.33635761817479115
+2019,Percentage (%) of GDP,Other manufacturing and repair,Repair and installation of machinery and equipment,Repair and maintenance of ships and boats,Undefined,Units,Percentage (%),0.028795120327250324
+2019,Percentage (%) of GDP,Other manufacturing and repair,Repair and installation of machinery and equipment,Repair and maintenance of aircraft and spacecraft,Undefined,Units,Percentage (%),0.08069330231241079
+2019,Percentage (%) of GDP,Other manufacturing and repair,Repair and installation of machinery and equipment,Rest of repair; installation,Undefined,Units,Percentage (%),0.22706052523830114
 2000,GBP per capita,,,,Undefined,Units,GBP per capita,3203.9139966817297
 2000,GBP per capita,"Manufacture of food products, beverages and tobacco",,,Undefined,Units,GBP per capita,462.3501980942871
 2000,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of food products,,Undefined,Units,GBP per capita,346.0918620862988
@@ -2507,3 +2573,69 @@ Year,Units,Industry higher sub-category,Industry middle sub-category,Industry lo
 2018,GBP per capita,Other manufacturing and repair,Repair and installation of machinery and equipment,Repair and maintenance of ships and boats,Undefined,Units,GBP per capita,8.459320003130852
 2018,GBP per capita,Other manufacturing and repair,Repair and installation of machinery and equipment,Repair and maintenance of aircraft and spacecraft,Undefined,Units,GBP per capita,30.300019868865487
 2018,GBP per capita,Other manufacturing and repair,Repair and installation of machinery and equipment,Rest of repair; installation,Undefined,Units,GBP per capita,81.13120074177098
+2019,GBP per capita,,,,Undefined,Units,GBP per capita,2753.8145539906104
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",,,Undefined,Units,GBP per capita,443.6889192296637
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of food products,,Undefined,Units,GBP per capita,347.1723196320782
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of food products,Processing and preserving of meat and production of meat products,Undefined,Units,GBP per capita,70.94651240778002
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of food products,"Processing and preserving of fish, crustaceans, molluscs, fruit and vegetables",Undefined,Units,GBP per capita,40.3462441314554
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of food products,Manufacture of vegetable and animal oils and fats,Undefined,Units,GBP per capita,1.1078375011976622
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of food products,Manufacture of dairy products,Undefined,Units,GBP per capita,31.887755102040817
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of food products,"Manufacture of grain mill products, starches and starch products",Undefined,Units,GBP per capita,20.270432116508577
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of food products,Manufacture of bakery and farinaceous products,Undefined,Units,GBP per capita,57.83211171792661
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of food products,Manufacture of other food products,Undefined,Units,GBP per capita,109.78070805787104
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of food products,Manufacture of prepared animal feeds,Undefined,Units,GBP per capita,15.045630928427709
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of beverages,,Undefined,Units,GBP per capita,91.26185685541823
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of beverages,Manufacture of alcoholic beverages,Undefined,Units,GBP per capita,57.23328063619814
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of beverages,Manufacture of soft drinks; production of mineral waters and other bottled waters,Undefined,Units,GBP per capita,34.043546996263295
+2019,GBP per capita,"Manufacture of food products, beverages and tobacco",Manufacture of beverages,Manufacture of tobacco products,Undefined,Units,GBP per capita,5.224801188080866
+2019,GBP per capita,"Manufacture of textiles, wearing apparel and leather products",,,Undefined,Units,GBP per capita,79.7942416403181
+2019,GBP per capita,"Manufacture of textiles, wearing apparel and leather products",Manufacture of textiles,,Undefined,Units,GBP per capita,48.64005461339465
+2019,GBP per capita,"Manufacture of textiles, wearing apparel and leather products",Manufacture of wearing apparel,,Undefined,Units,GBP per capita,24.791606783558493
+2019,GBP per capita,"Manufacture of textiles, wearing apparel and leather products",Manufacture of leather and related products,,Undefined,Units,GBP per capita,6.4074925744945865
+2019,GBP per capita,"Manufacture of wood and paper products, and printing",,,Undefined,Units,GBP per capita,195.6830267318195
+2019,GBP per capita,"Manufacture of wood and paper products, and printing","Manufacture of wood and products of wood and cork, except furniture; manufacture of articles of straw",,Undefined,Units,GBP per capita,52.801930631407494
+2019,GBP per capita,"Manufacture of wood and paper products, and printing",Manufacture of paper and paper products,,Undefined,Units,GBP per capita,70.97645396186644
+2019,GBP per capita,"Manufacture of wood and paper products, and printing",Printing and reproduction of recorded media,,Undefined,Units,GBP per capita,71.84475903037271
+2019,GBP per capita,"Manufacture of coke, and refined petroleum products",,,Undefined,Units,GBP per capita,29.65710932260228
+2019,GBP per capita,"Manufacture of coke, and refined petroleum products",Manufacture of coke and refined petroleum products,,Undefined,Units,GBP per capita,29.65710932260228
+2019,GBP per capita,Manufacture of chemicals and chemical products,,,Undefined,Units,GBP per capita,173.9903707962058
+2019,GBP per capita,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,,Undefined,Units,GBP per capita,173.9903707962058
+2019,GBP per capita,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,"Manufacture of industrial gases, inorganics and fertilisers (inorganic chemicals)",Undefined,Units,GBP per capita,11.557439877359394
+2019,GBP per capita,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,Manufacture of petrochemicals,Undefined,Units,GBP per capita,45.16683433936955
+2019,GBP per capita,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,"Manufacture of dyestuffs, agro-chemicals",Undefined,Units,GBP per capita,10.180128389383922
+2019,GBP per capita,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",Undefined,Units,GBP per capita,14.072530420618952
+2019,GBP per capita,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,"Manufacture of soap and detergents, cleaning and polishing, perfumes and toilet preparations",Undefined,Units,GBP per capita,62.458081824279006
+2019,GBP per capita,Manufacture of chemicals and chemical products,Manufacture of chemicals and chemical products,Manufacture of other chemical products,Undefined,Units,GBP per capita,30.570326722238192
+2019,GBP per capita,Manufacture of basic pharmaceutical products and pharmaceutical preparations,,,Undefined,Units,GBP per capita,208.34830411037655
+2019,GBP per capita,Manufacture of basic pharmaceutical products and pharmaceutical preparations,Manufacture of basic pharmaceutical products and pharmaceutical preparations,,Undefined,Units,GBP per capita,208.34830411037655
+2019,GBP per capita,"Manufacture of rubber and plastics products, and other non-metallic mineral products",,,Undefined,Units,GBP per capita,192.67390054613395
+2019,GBP per capita,"Manufacture of rubber and plastics products, and other non-metallic mineral products",Manufacture of rubber and plastic products,,Undefined,Units,GBP per capita,115.7690188751557
+2019,GBP per capita,"Manufacture of rubber and plastics products, and other non-metallic mineral products",Manufacture of other non-metallic mineral products,,Undefined,Units,GBP per capita,76.88991089393504
+2019,GBP per capita,"Manufacture of rubber and plastics products, and other non-metallic mineral products",Manufacture of other non-metallic mineral products,"Manufacture of glass, refractory, clay, porcelain, ceramic, stone products",Undefined,Units,GBP per capita,32.93570949506563
+2019,GBP per capita,"Manufacture of rubber and plastics products, and other non-metallic mineral products",Manufacture of other non-metallic mineral products,"Manufacture of cement, lime, plaster and articles of concrete, cement and plaster",Undefined,Units,GBP per capita,43.95420139886941
+2019,GBP per capita,Manufacture of basic metals and metal products,,,Undefined,Units,GBP per capita,296.9154210980167
+2019,GBP per capita,Manufacture of basic metals and metal products,Manufacture of basic metals,,Undefined,Units,GBP per capita,62.473052601322216
+2019,GBP per capita,Manufacture of basic metals and metal products,Manufacture of basic metals,Manufacture of basic iron and steel,Undefined,Units,GBP per capita,41.54390629491233
+2019,GBP per capita,Manufacture of basic metals and metal products,Manufacture of basic metals,Manufacture of other basic metals and casting,Undefined,Units,GBP per capita,20.869263198237043
+2019,GBP per capita,Manufacture of basic metals and metal products,"Manufacture of fabricated metal products, except machinery and equipment",,Undefined,Units,GBP per capita,234.44236849669446
+2019,GBP per capita,Manufacture of basic metals and metal products,"Manufacture of fabricated metal products, except machinery and equipment","Manufacture of fabricated metal products, excluding weapons and ammunition",Undefined,Units,GBP per capita,218.52843249976047
+2019,GBP per capita,Manufacture of basic metals and metal products,"Manufacture of fabricated metal products, except machinery and equipment",Manufacture of weapons and ammunition,Undefined,Units,GBP per capita,15.86902366580435
+2019,GBP per capita,"Manufacturing of computer, electronic and optical products",,,Undefined,Units,GBP per capita,224.66645108747724
+2019,GBP per capita,"Manufacturing of computer, electronic and optical products","Manufacture of computer, electronic and optical products",,Undefined,Units,GBP per capita,224.66645108747724
+2019,GBP per capita,Manufacture of electrical equipment,,,Undefined,Units,GBP per capita,69.16498993963782
+2019,GBP per capita,Manufacture of electrical equipment,Manufacture of electrical equipment,,Undefined,Units,GBP per capita,69.16498993963782
+2019,GBP per capita,Manufacture of machinery and equipment not elsewhere classified,,,Undefined,Units,GBP per capita,217.61521510012454
+2019,GBP per capita,Manufacture of machinery and equipment not elsewhere classified,Manufacture of machinery and equipmentnot elsewhere classified,,Undefined,Units,GBP per capita,217.61521510012454
+2019,GBP per capita,Manufacture of transport equipment,,,Undefined,Units,GBP per capita,377.787558685446
+2019,GBP per capita,Manufacture of transport equipment,"Manufacture of motor vehicles, trailers and semi-trailers",,Undefined,Units,GBP per capita,222.31603909169303
+2019,GBP per capita,Manufacture of transport equipment,Manufacture of other transport equipment,,Undefined,Units,GBP per capita,155.45654881670978
+2019,GBP per capita,Manufacture of transport equipment,Manufacture of other transport equipment,Building of ships and boats,Undefined,Units,GBP per capita,28.130090064194693
+2019,GBP per capita,Manufacture of transport equipment,Manufacture of other transport equipment,Manufacture of air and spacecraft and related machinery,Undefined,Units,GBP per capita,109.07708153684008
+2019,GBP per capita,Manufacture of transport equipment,Manufacture of other transport equipment,Manufacture of other transport equipment,Undefined,Units,GBP per capita,18.294289546804638
+2019,GBP per capita,Other manufacturing and repair,,,Undefined,Units,GBP per capita,243.78413337165853
+2019,GBP per capita,Other manufacturing and repair,Manufacture of furniture,,Undefined,Units,GBP per capita,63.131766791223534
+2019,GBP per capita,Other manufacturing and repair,Other manufacturing,,Undefined,Units,GBP per capita,75.4377455207435
+2019,GBP per capita,Other manufacturing and repair,Repair and installation of machinery and equipment,,Undefined,Units,GBP per capita,105.27450416786432
+2019,GBP per capita,Other manufacturing and repair,Repair and installation of machinery and equipment,Repair and maintenance of ships and boats,Undefined,Units,GBP per capita,9.012407780013413
+2019,GBP per capita,Other manufacturing and repair,Repair and installation of machinery and equipment,Repair and maintenance of aircraft and spacecraft,Undefined,Units,GBP per capita,25.255700871898053
+2019,GBP per capita,Other manufacturing and repair,Repair and installation of machinery and equipment,Rest of repair; installation,Undefined,Units,GBP per capita,71.0662786241257
