@@ -90,3 +90,10 @@ docs_intro: This is a list of outputs that are
   available on this service. Click each of the links below for more information
   on the available output.
 docs_indicator_url: https://sdgdata.gov.uk/[id]
+
+
+ indicator_downloads:
+   - button_label: indicator.download_source
+     source_pattern: data/indicator_*.csv
+     indicator_id_pattern: indicator_(.*)
+     output_folder: data-csv
