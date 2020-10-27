@@ -31,6 +31,8 @@ inputs:
     path_pattern: meta/*-*.md
   - class: InputYamlMeta
     path_pattern: yamlmeta/*-*.yml
+  - class: InputCsvData
+    path_pattern: data/*-*.csv
 
 # Translation repositories
 # ------------------------
