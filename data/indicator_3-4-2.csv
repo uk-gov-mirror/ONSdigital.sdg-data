@@ -6936,3 +6936,129 @@ Year,Sex,Age,Country,Region,Observation status,Unit multiplier,Unit measure,GeoC
 2018,Female,70 to 74,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,9.9
 2018,Female,75 to 79,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,9.2
 2018,Female,85 to 89,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,9.4
+2019,,,England,,Undefined,Units,"Rate per 100,000 population",E92000001,10.8
+2019,Male,,England,,Undefined,Units,"Rate per 100,000 population",E92000001,16.7
+2019,Female,,England,,Undefined,Units,"Rate per 100,000 population",E92000001,5.2
+2019,,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,11.5
+2019,,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,11.1
+2019,,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,13.8
+2019,,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,10.8
+2019,,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,10.5
+2019,,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,11.6
+2019,,,England,London,Undefined,Units,"Rate per 100,000 population",E12000007,8.1
+2019,,,England,South East,Undefined,Units,"Rate per 100,000 population",E12000008,10.8
+2019,,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,12.0
+2019,Male,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,19.1
+2019,Male,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,17.3
+2019,Male,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,20.6
+2019,Male,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,16.7
+2019,Male,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,16.4
+2019,Male,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,17.5
+2019,Male,,England,London,Undefined,Units,"Rate per 100,000 population",E12000007,11.8
+2019,Male,,England,South East,Undefined,Units,"Rate per 100,000 population",E12000008,16.8
+2019,Male,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,19.4
+2019,Female,,England,North East,Undefined,Units,"Rate per 100,000 population",E12000001,4.1
+2019,Female,,England,North West,Undefined,Units,"Rate per 100,000 population",E12000002,5.2
+2019,Female,,England,Yorkshire and The Humber,Undefined,Units,"Rate per 100,000 population",E12000003,7.3
+2019,Female,,England,East Midlands,Undefined,Units,"Rate per 100,000 population",E12000004,5.2
+2019,Female,,England,West Midlands,Undefined,Units,"Rate per 100,000 population",E12000005,4.8
+2019,Female,,England,East of England,Undefined,Units,"Rate per 100,000 population",E12000006,5.9
+2019,Female,,England,London,Undefined,Units,"Rate per 100,000 population",E12000007,4.6
+2019,Female,,England,South East,Undefined,Units,"Rate per 100,000 population",E12000008,4.9
+2019,Female,,England,South West,Undefined,Units,"Rate per 100,000 population",E12000009,4.9
+2019,,,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,12.2
+2019,Male,,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,18.8
+2019,Female,,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,5.8
+2019,,10 to 14,England,,Undefined,Units,"Rate per 100,000 population",E92000001,0.3
+2019,,15 to 19,England,,Undefined,Units,"Rate per 100,000 population",E92000001,5.7
+2019,,20 to 24,England,,Undefined,Units,"Rate per 100,000 population",E92000001,10.9
+2019,,25 to 29,England,,Undefined,Units,"Rate per 100,000 population",E92000001,12.2
+2019,,30 to 34,England,,Undefined,Units,"Rate per 100,000 population",E92000001,12.8
+2019,,35 to 39,England,,Undefined,Units,"Rate per 100,000 population",E92000001,12.7
+2019,,40 to 44,England,,Undefined,Units,"Rate per 100,000 population",E92000001,14.2
+2019,,45 to 49,England,,Undefined,Units,"Rate per 100,000 population",E92000001,15.9
+2019,,50 to 54,England,,Undefined,Units,"Rate per 100,000 population",E92000001,15.0
+2019,,55 to 59,England,,Undefined,Units,"Rate per 100,000 population",E92000001,12.9
+2019,,60 to 64,England,,Undefined,Units,"Rate per 100,000 population",E92000001,11.5
+2019,,65 to 69,England,,Undefined,Units,"Rate per 100,000 population",E92000001,7.8
+2019,,70 to 74,England,,Undefined,Units,"Rate per 100,000 population",E92000001,8.1
+2019,,75 to 79,England,,Undefined,Units,"Rate per 100,000 population",E92000001,7.7
+2019,,80 to 84,England,,Undefined,Units,"Rate per 100,000 population",E92000001,8.3
+2019,,85 to 89,England,,Undefined,Units,"Rate per 100,000 population",E92000001,9.4
+2019,,90 and over,England,,Undefined,Units,"Rate per 100,000 population",E92000001,7.7
+2019,Male,10 to 14,England,,Undefined,Units,"Rate per 100,000 population",E92000001,0.3
+2019,Male,15 to 19,England,,Undefined,Units,"Rate per 100,000 population",E92000001,7.4
+2019,Male,20 to 24,England,,Undefined,Units,"Rate per 100,000 population",E92000001,16.6
+2019,Male,25 to 29,England,,Undefined,Units,"Rate per 100,000 population",E92000001,18.1
+2019,Male,30 to 34,England,,Undefined,Units,"Rate per 100,000 population",E92000001,20.0
+2019,Male,35 to 39,England,,Undefined,Units,"Rate per 100,000 population",E92000001,19.5
+2019,Male,40 to 44,England,,Undefined,Units,"Rate per 100,000 population",E92000001,21.9
+2019,Male,45 to 49,England,,Undefined,Units,"Rate per 100,000 population",E92000001,25.0
+2019,Male,50 to 54,England,,Undefined,Units,"Rate per 100,000 population",E92000001,22.7
+2019,Male,55 to 59,England,,Undefined,Units,"Rate per 100,000 population",E92000001,19.7
+2019,Male,60 to 64,England,,Undefined,Units,"Rate per 100,000 population",E92000001,17.9
+2019,Male,65 to 69,England,,Undefined,Units,"Rate per 100,000 population",E92000001,11.3
+2019,Male,70 to 74,England,,Undefined,Units,"Rate per 100,000 population",E92000001,12.7
+2019,Male,75 to 79,England,,Undefined,Units,"Rate per 100,000 population",E92000001,12.1
+2019,Male,80 to 84,England,,Undefined,Units,"Rate per 100,000 population",E92000001,13.7
+2019,Male,85 to 89,England,,Undefined,Units,"Rate per 100,000 population",E92000001,17.7
+2019,Male,90 and over,England,,Undefined,Units,"Rate per 100,000 population",E92000001,16.2
+2019,Female,10 to 14,England,,Undefined,Units,"Rate per 100,000 population",E92000001,0.3
+2019,Female,15 to 19,England,,Undefined,Units,"Rate per 100,000 population",E92000001,3.9
+2019,Female,20 to 24,England,,Undefined,Units,"Rate per 100,000 population",E92000001,4.8
+2019,Female,25 to 29,England,,Undefined,Units,"Rate per 100,000 population",E92000001,6.2
+2019,Female,30 to 34,England,,Undefined,Units,"Rate per 100,000 population",E92000001,5.6
+2019,Female,35 to 39,England,,Undefined,Units,"Rate per 100,000 population",E92000001,5.9
+2019,Female,40 to 44,England,,Undefined,Units,"Rate per 100,000 population",E92000001,6.7
+2019,Female,45 to 49,England,,Undefined,Units,"Rate per 100,000 population",E92000001,6.9
+2019,Female,50 to 54,England,,Undefined,Units,"Rate per 100,000 population",E92000001,7.5
+2019,Female,55 to 59,England,,Undefined,Units,"Rate per 100,000 population",E92000001,6.2
+2019,Female,60 to 64,England,,Undefined,Units,"Rate per 100,000 population",E92000001,5.4
+2019,Female,65 to 69,England,,Undefined,Units,"Rate per 100,000 population",E92000001,4.5
+2019,Female,70 to 74,England,,Undefined,Units,"Rate per 100,000 population",E92000001,3.9
+2019,Female,75 to 79,England,,Undefined,Units,"Rate per 100,000 population",E92000001,3.9
+2019,Female,80 to 84,England,,Undefined,Units,"Rate per 100,000 population",E92000001,4.0
+2019,Female,85 to 89,England,,Undefined,Units,"Rate per 100,000 population",E92000001,4.0
+2019,Female,90 and over,England,,Undefined,Units,"Rate per 100,000 population",E92000001,3.7
+2019,,15 to 19,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,3.5
+2019,,20 to 24,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,10.9
+2019,,25 to 29,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,14.9
+2019,,30 to 34,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,14.5
+2019,,35 to 39,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,17.8
+2019,,40 to 44,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,23.0
+2019,,45 to 49,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,17.1
+2019,,50 to 54,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,14.5
+2019,,55 to 59,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,14.7
+2019,,60 to 64,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,9.9
+2019,,65 to 69,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,6.0
+2019,,70 to 74,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,10.0
+2019,,75 to 79,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,6.3
+2019,,80 to 84,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,10.0
+2019,,85 to 89,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,5.6
+2019,,90 and over,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,13.1
+2019,Male,20 to 24,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,14.1
+2019,Male,25 to 29,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,21.6
+2019,Male,30 to 34,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,22.9
+2019,Male,35 to 39,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,27.3
+2019,Male,40 to 44,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,40.6
+2019,Male,45 to 49,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,26.8
+2019,Male,50 to 54,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,24.2
+2019,Male,55 to 59,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,17.9
+2019,Male,60 to 64,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,17.0
+2019,Male,65 to 69,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,9.0
+2019,Male,70 to 74,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,13.9
+2019,Male,75 to 79,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,11.8
+2019,Male,80 to 84,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,17.6
+2019,Male,85 to 89,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,14.0
+2019,Female,15 to 19,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,4.8
+2019,Female,20 to 24,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,7.3
+2019,Female,25 to 29,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,7.9
+2019,Female,30 to 34,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,6.2
+2019,Female,35 to 39,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,8.6
+2019,Female,40 to 44,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,5.8
+2019,Female,45 to 49,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,7.8
+2019,Female,50 to 54,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,5.3
+2019,Female,55 to 59,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,11.6
+2019,Female,60 to 64,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,3.0
+2019,Female,65 to 69,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,3.2
+2019,Female,70 to 74,Wales,,Undefined,Units,"Rate per 100,000 population",W92000004,6.5
