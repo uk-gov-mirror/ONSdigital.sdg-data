@@ -305,3 +305,37 @@ Year,Country,Sex,Observation status,Unit multiplier,Unit measure,GeoCode,Value
 2016,Northern Ireland,,Undefined,Units,"Rate per 1,000 live births",N92000002,5.150357202
 2016,Northern Ireland,Male,Undefined,Units,"Rate per 1,000 live births",N92000002,5.070422535
 2016,Northern Ireland,Female,Undefined,Units,"Rate per 1,000 live births",N92000002,5.235602094
+2017,,,Undefined,Units,"Rate per 1,000 live births",,4.38
+2017,,Male,Undefined,Units,"Rate per 1,000 live births",,4.88
+2017,,Female,Undefined,Units,"Rate per 1,000 live births",,3.87
+2017,England and Wales,,Undefined,Units,"Rate per 1,000 live births",K04000001,4.42
+2017,England and Wales,Male,Undefined,Units,"Rate per 1,000 live births",K04000001,4.92
+2017,England and Wales,Female,Undefined,Units,"Rate per 1,000 live births",K04000001,3.9
+2017,England,,Undefined,Units,"Rate per 1,000 live births",E92000001,4.4
+2017,England,Male,Undefined,Units,"Rate per 1,000 live births",E92000001,4.88
+2017,England,Female,Undefined,Units,"Rate per 1,000 live births",E92000001,3.9
+2017,Wales,,Undefined,Units,"Rate per 1,000 live births",W92000004,4.01
+2017,Wales,Male,Undefined,Units,"Rate per 1,000 live births",W92000004,4.62
+2017,Wales,Female,Undefined,Units,"Rate per 1,000 live births",W92000004,3.37
+2017,Scotland,,Undefined,Units,"Rate per 1,000 live births",S92000003,3.86
+2017,Scotland,Male,Undefined,Units,"Rate per 1,000 live births",S92000003,4.41
+2017,Scotland,Female,Undefined,Units,"Rate per 1,000 live births",S92000003,3.28
+2017,Northern Ireland,,Undefined,Units,"Rate per 1,000 live births",N92000002,4.55
+2017,Northern Ireland,Male,Undefined,Units,"Rate per 1,000 live births",N92000002,4.79
+2017,Northern Ireland,Female,Undefined,Units,"Rate per 1,000 live births",N92000002,4.29
+2018,,,Undefined,Units,"Rate per 1,000 live births",,4.31
+2018,,Male,Undefined,Units,"Rate per 1,000 live births",,4.62
+2018,,Female,Undefined,Units,"Rate per 1,000 live births",,3.98
+2018,England and Wales,,Undefined,Units,"Rate per 1,000 live births",K04000001,4.34
+2018,England,,Undefined,Units,"Rate per 1,000 live births",E92000001,4.32
+2018,England,Male,Undefined,Units,"Rate per 1,000 live births",E92000001,4.68
+2018,England,Female,Undefined,Units,"Rate per 1,000 live births",E92000001,3.94
+2018,Wales,,Undefined,Units,"Rate per 1,000 live births",W92000004,4.25
+2018,Wales,Male,Undefined,Units,"Rate per 1,000 live births",W92000004,4.5
+2018,Wales,Female,Undefined,Units,"Rate per 1,000 live births",W92000004,3.99
+2018,Scotland,,Undefined,Units,"Rate per 1,000 live births",S92000003,3.72
+2018,Scotland,Male,Undefined,Units,"Rate per 1,000 live births",S92000003,3.68
+2018,Scotland,Female,Undefined,Units,"Rate per 1,000 live births",S92000003,3.76
+2018,Northern Ireland,,Undefined,Units,"Rate per 1,000 live births",N92000002,4.69
+2018,Northern Ireland,Male,Undefined,Units,"Rate per 1,000 live births",N92000002,4.56
+2018,Northern Ireland,Female,Undefined,Units,"Rate per 1,000 live births",N92000002,4.81
