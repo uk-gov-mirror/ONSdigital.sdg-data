@@ -35,7 +35,7 @@ src_dir: ''
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: jw-translated-page-titles
+    tag: uk-svg
   - class: TranslationInputYaml
     source: translations
 
