@@ -35,7 +35,9 @@ src_dir: ''
 translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: uk-svg
+    tag: jw-translated-page-titles
+  - class: TranslationInputYaml
+    source: translations
 
 # Reporting status extra fields
 # -----------------------------
