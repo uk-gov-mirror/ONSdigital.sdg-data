@@ -5,6 +5,6 @@ graph_type: line
 indicator_name: 'My standalone indicator title'
 standalone: true
 reporting_status: complete
-permalink: Covid-19-indicators
+permalink: covid-19-indicators/covid-indicator-1
 ---
 My standalone indicator content
