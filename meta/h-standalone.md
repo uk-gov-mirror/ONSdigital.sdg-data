@@ -8,6 +8,6 @@ reporting_status: complete
 permalink: covid-19-indicators/h-standalone
 national_geographical_coverage: United Kingdom
 computation_units: Percentage (%)
-sort: 1
+sort: a
 ---
 My standalone indicator content h
