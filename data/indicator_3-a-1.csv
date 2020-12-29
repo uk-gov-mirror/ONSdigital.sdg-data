@@ -6,7 +6,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2011,,55 to 64,England,,,,,Undefined,Units,Percentage (%),E92000001,17.8303
 2011,,65 and over,England,,,,,Undefined,Units,Percentage (%),E92000001,9.756
 2011,,,England,,,,,Undefined,Units,Percentage (%),E92000001,19.842
-2011,,18 to 24,Wales,,,,,Undefined,Units,Percentage (%),W92000004,26.5419999999999
+2011,,18 to 24,Wales,,,,,Undefined,Units,Percentage (%),W92000004,26.542
 2011,,25 to 34,Wales,,,,,Undefined,Units,Percentage (%),W92000004,29.8677
 2011,,35 to 44,Wales,,,,,Undefined,Units,Percentage (%),W92000004,27.4124
 2011,,45 to 54,Wales,,,,,Undefined,Units,Percentage (%),W92000004,24.6571
@@ -28,12 +28,12 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2011,,65 and over,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,11.6095
 2011,,,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,18.8534
 2011,,18 to 24,,,,,,Undefined,Units,Percentage (%),,25.6667
-2011,,25 to 34,,,,,,Undefined,Units,Percentage (%),,25.8209999999999
+2011,,25 to 34,,,,,,Undefined,Units,Percentage (%),,25.821
 2011,,35 to 44,,,,,,Undefined,Units,Percentage (%),,23.3485
 2011,,45 to 54,,,,,,Undefined,Units,Percentage (%),,21.6195
 2011,,55 to 64,,,,,,Undefined,Units,Percentage (%),,18.4625
 2011,,65 and over,,,,,,Undefined,Units,Percentage (%),,10.2187
-2011,,,,,,,,Undefined,Units,Percentage (%),,20.2377
+2011-2012,,,,,,,,Undefined,Units,Percentage (%),,20.2377
 2011,Male,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,27.8857
 2011,Male,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,29.578
 2011,Male,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,25.7048
@@ -138,7 +138,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2012,,45 to 54,,,,,,Undefined,Units,Percentage (%),,21.0006
 2012,,55 to 64,,,,,,Undefined,Units,Percentage (%),,18.0496
 2012,,65 and over,,,,,,Undefined,Units,Percentage (%),,10.0768
-2012,,,,,,,,Undefined,Units,Percentage (%),,19.5983
+2011-2012,,,,,,,,Undefined,Units,Percentage (%),,19.5983
 2012,Male,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,27.3875
 2012,Male,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,28.8003
 2012,Male,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,25.7627
@@ -237,20 +237,20 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2013,,55 to 64,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,20.1492
 2013,,65 and over,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,11.9034
 2013,,,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,18.5465
-2013,,18 to 24,,,,,,Undefined,Units,Percentage (%),,23.4659999999999
+2013,,18 to 24,,,,,,Undefined,Units,Percentage (%),,23.466
 2013,,25 to 34,,,,,,Undefined,Units,Percentage (%),,24.574
 2013,,35 to 44,,,,,,Undefined,Units,Percentage (%),,21.1525
 2013,,45 to 54,,,,,,Undefined,Units,Percentage (%),,20.3056
 2013,,55 to 64,,,,,,Undefined,Units,Percentage (%),,17.0583
 2013,,65 and over,,,,,,Undefined,Units,Percentage (%),,9.7692
-2013,,,,,,,,Undefined,Units,Percentage (%),,18.7534
+2012-2013,,,,,,,,Undefined,Units,Percentage (%),,18.7534
 2013,Male,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,25.8739
 2013,Male,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,28.0116
 2013,Male,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,23.7946
 2013,Male,45 to 54,England,,,,,Undefined,Units,Percentage (%),E92000001,21.4777
 2013,Male,55 to 64,England,,,,,Undefined,Units,Percentage (%),E92000001,17.9393
 2013,Male,65 and over,England,,,,,Undefined,Units,Percentage (%),E92000001,10.0683
-2013,Male,,England,,,,,Undefined,Units,Percentage (%),E92000001,20.6809999999999
+2013,Male,,England,,,,,Undefined,Units,Percentage (%),E92000001,20.681
 2013,Male,18 to 24,Wales,,,,,Undefined,Units,Percentage (%),W92000004,25.4119
 2013,Male,25 to 34,Wales,,,,,Undefined,Units,Percentage (%),W92000004,30.3179
 2013,Male,35 to 44,Wales,,,,,Undefined,Units,Percentage (%),W92000004,28.088
@@ -348,12 +348,12 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2014,,45 to 54,,,,,,Undefined,Units,Percentage (%),,19.5986
 2014,,55 to 64,,,,,,Undefined,Units,Percentage (%),,16.7279
 2014,,65 and over,,,,,,Undefined,Units,Percentage (%),,9.3216
-2014,,,,,,,,Undefined,Units,Percentage (%),,18.1411
+2014-2015,,,,,,,,Undefined,Units,Percentage (%),,18.1411
 2014,Male,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,25.993
 2014,Male,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,27.9041
 2014,Male,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,23.0864
 2014,Male,45 to 54,England,,,,,Undefined,Units,Percentage (%),E92000001,20.9651
-2014,Male,55 to 64,England,,,,,Undefined,Units,Percentage (%),E92000001,17.5129999999999
+2014,Male,55 to 64,England,,,,,Undefined,Units,Percentage (%),E92000001,17.513
 2014,Male,65 and over,England,,,,,Undefined,Units,Percentage (%),E92000001,9.503
 2014,Male,,England,,,,,Undefined,Units,Percentage (%),E92000001,20.2132
 2014,Male,18 to 24,Wales,,,,,Undefined,Units,Percentage (%),W92000004,26.119
@@ -453,7 +453,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2015,,45 to 54,,,,,,Undefined,Units,Percentage (%),,18.9686
 2015,,55 to 64,,,,,,Undefined,Units,Percentage (%),,16.0189
 2015,,65 and over,,,,,,Undefined,Units,Percentage (%),,8.8298
-2015,,,,,,,,Undefined,Units,Percentage (%),,17.2207
+2015-2016,,,,,,,,Undefined,Units,Percentage (%),,17.2207
 2015,Male,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,22.266
 2015,Male,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,26.4957
 2015,Male,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,22.046
@@ -486,7 +486,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2015,Male,25 to 34,,,,,,Undefined,Units,Percentage (%),,26.4185
 2015,Male,35 to 44,,,,,,Undefined,Units,Percentage (%),,22.5411
 2015,Male,45 to 54,,,,,,Undefined,Units,Percentage (%),,20.7238
-2015,Male,55 to 64,,,,,,Undefined,Units,Percentage (%),,17.5559999999999
+2015,Male,55 to 64,,,,,,Undefined,Units,Percentage (%),,17.556
 2015,Male,65 and over,,,,,,Undefined,Units,Percentage (%),,9.2244
 2015,Male,,,,,,,Undefined,Units,Percentage (%),,19.2783
 2015,Female,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,19.2878
@@ -558,7 +558,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2016,,45 to 54,,,,,,Undefined,Units,Percentage (%),,17.2793
 2016,,55 to 64,,,,,,Undefined,Units,Percentage (%),,15.0996
 2016,,65 and over,,,,,,Undefined,Units,Percentage (%),,8.2655
-2016,,,,,,,,Undefined,Units,Percentage (%),,15.8438
+2016-2017,,,,,,,,Undefined,Units,Percentage (%),,15.8438
 2016,Male,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,21.7055
 2016,Male,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,23.1196
 2016,Male,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,20.666
@@ -629,7 +629,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2016,Female,55 to 64,,,,,,Undefined,Units,Percentage (%),,14.113
 2016,Female,65 and over,,,,,,Undefined,Units,Percentage (%),,7.7744
 2016,Female,,,,,,,Undefined,Units,Percentage (%),,14.0731
-2017,,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,18.0559999999999
+2017,,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,18.056
 2017,,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,19.6151
 2017,,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,16.4641
 2017,,45 to 54,England,,,,,Undefined,Units,Percentage (%),E92000001,16.3933
@@ -663,7 +663,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2017,,45 to 54,,,,,,Undefined,Units,Percentage (%),,16.7195
 2017,,55 to 64,,,,,,Undefined,Units,Percentage (%),,14.8969
 2017,,65 and over,,,,,,Undefined,Units,Percentage (%),,8.0799
-2017,,,,,,,,Undefined,Units,Percentage (%),,15.1005
+2017-2018,,,,,,,,Undefined,Units,Percentage (%),,15.1005
 2017,Male,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,20.8659
 2017,Male,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,22.2025
 2017,Male,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,19.5629
@@ -734,111 +734,111 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2017,Female,55 to 64,,,,,,Undefined,Units,Percentage (%),,14.0955
 2017,Female,65 and over,,,,,,Undefined,Units,Percentage (%),,7.7166
 2017,Female,,,,,,,Undefined,Units,Percentage (%),,13.3196
-2018,,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,17.0122295730781
-2018,,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,19.0383835719625
-2018,,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,16.2004185239972
-2018,,45 to 54,England,,,,,Undefined,Units,Percentage (%),E92000001,16.3378293266709
-2018,,55 to 64,England,,,,,Undefined,Units,Percentage (%),E92000001,14.0491692610359
-2018,,65 and over,England,,,,,Undefined,Units,Percentage (%),E92000001,7.60359502014581
-2018,,,England,,,,,Undefined,Units,Percentage (%),E92000001,14.4493116721904
-2018,,18 to 24,Wales,,,,,Undefined,Units,Percentage (%),W92000004,18.7919738991018
-2018,,25 to 34,Wales,,,,,Undefined,Units,Percentage (%),W92000004,23.8977798955895
-2018,,35 to 44,Wales,,,,,Undefined,Units,Percentage (%),W92000004,17.3713682605764
-2018,,45 to 54,Wales,,,,,Undefined,Units,Percentage (%),W92000004,18.4558186368719
-2018,,55 to 64,Wales,,,,,Undefined,Units,Percentage (%),W92000004,14.6849974257416
-2018,,65 and over,Wales,,,,,Undefined,Units,Percentage (%),W92000004,7.96696471904382
-2018,,,Wales,,,,,Undefined,Units,Percentage (%),W92000004,15.9295005106516
-2018,,18 to 24,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,15.0562275135145
-2018,,25 to 34,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,19.4719324017952
-2018,,35 to 44,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,18.1811442504645
-2018,,45 to 54,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,19.370119566796
-2018,,55 to 64,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,17.4117667415011
-2018,,65 and over,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,10.3150125132634
-2018,,,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,16.3095175056443
-2018,,18 to 24,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,13.0306317337575
-2018,,25 to 34,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,16.8902415794308
-2018,,35 to 44,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,16.6216764278768
-2018,,45 to 54,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,19.8385858876577
-2018,,55 to 64,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,16.6370789529648
-2018,,65 and over,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,10.2836211120744
-2018,,,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,15.5171535486763
-2018,,18 to 24,,,,,,Undefined,Units,Percentage (%),,16.8212728520742
-2018,,25 to 34,,,,,,Undefined,Units,Percentage (%),,19.2368701508357
-2018,,35 to 44,,,,,,Undefined,Units,Percentage (%),,16.4231535740639
-2018,,45 to 54,,,,,,Undefined,Units,Percentage (%),,16.8023553620835
-2018,,55 to 64,,,,,,Undefined,Units,Percentage (%),,14.46310553277
-2018,,65 and over,,,,,,Undefined,Units,Percentage (%),,7.92142196917384
-2018,,,,,,,,Undefined,Units,Percentage (%),,14.7107837594615
-2018,Male,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,19.2417543246926
-2018,Male,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,21.6146685692212
-2018,Male,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,19.0113592960565
-2018,Male,45 to 54,England,,,,,Undefined,Units,Percentage (%),E92000001,18.2131779238734
-2018,Male,55 to 64,England,,,,,Undefined,Units,Percentage (%),E92000001,15.0788167325756
-2018,Male,65 and over,England,,,,,Undefined,Units,Percentage (%),E92000001,8.42049783751363
-2018,Male,,England,,,,,Undefined,Units,Percentage (%),E92000001,16.4049810340965
-2018,Male,18 to 24,Wales,,,,,Undefined,Units,Percentage (%),W92000004,20.2686220206918
-2018,Male,25 to 34,Wales,,,,,Undefined,Units,Percentage (%),W92000004,25.1514058932033
-2018,Male,35 to 44,Wales,,,,,Undefined,Units,Percentage (%),W92000004,19.2223605592523
-2018,Male,45 to 54,Wales,,,,,Undefined,Units,Percentage (%),W92000004,19.5058782591405
-2018,Male,55 to 64,Wales,,,,,Undefined,Units,Percentage (%),W92000004,15.5835120573312
-2018,Male,65 and over,Wales,,,,,Undefined,Units,Percentage (%),W92000004,7.91808946408161
-2018,Male,,Wales,,,,,Undefined,Units,Percentage (%),W92000004,17.0540004690132
-2018,Male,18 to 24,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,16.7622473434522
-2018,Male,25 to 34,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,20.8271381233761
-2018,Male,35 to 44,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,19.8027561016105
-2018,Male,45 to 54,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,20.4785964634811
-2018,Male,55 to 64,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,17.8044484913109
-2018,Male,65 and over,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,10.6983772909211
-2018,Male,,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,17.4439454639442
-2018,Male,18 to 24,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,14.7759370944347
-2018,Male,25 to 34,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,17.3957595061011
-2018,Male,35 to 44,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,20.3264255234872
-2018,Male,45 to 54,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,20.9164407237818
-2018,Male,55 to 64,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,17.8338579136691
-2018,Male,65 and over,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,11.1421046774731
-2018,Male,,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,17.0277127680997
-2018,Male,18 to 24,,,,,,Undefined,Units,Percentage (%),,18.9551689175366
-2018,Male,25 to 34,,,,,,Undefined,Units,Percentage (%),,21.5944563423186
-2018,Male,35 to 44,,,,,,Undefined,Units,Percentage (%),,19.1212977588584
-2018,Male,45 to 54,,,,,,Undefined,Units,Percentage (%),,18.5437569825604
-2018,Male,55 to 64,,,,,,Undefined,Units,Percentage (%),,15.4288036231581
-2018,Male,65 and over,,,,,,Undefined,Units,Percentage (%),,8.64935310392796
-2018,Male,,,,,,,Undefined,Units,Percentage (%),,16.5409290037508
-2018,Female,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,14.6415814519741
-2018,Female,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,16.433371544259
-2018,Female,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,13.4544640691868
-2018,Female,45 to 54,England,,,,,Undefined,Units,Percentage (%),E92000001,14.5191126385696
-2018,Female,55 to 64,England,,,,,Undefined,Units,Percentage (%),E92000001,13.0574868418382
-2018,Female,65 and over,England,,,,,Undefined,Units,Percentage (%),E92000001,6.90306722240034
-2018,Female,,England,,,,,Undefined,Units,Percentage (%),E92000001,12.574971516327
-2018,Female,18 to 24,Wales,,,,,Undefined,Units,Percentage (%),W92000004,17.1865615176405
-2018,Female,25 to 34,Wales,,,,,Undefined,Units,Percentage (%),W92000004,22.6248713350383
-2018,Female,35 to 44,Wales,,,,,Undefined,Units,Percentage (%),W92000004,15.5776080543577
-2018,Female,45 to 54,Wales,,,,,Undefined,Units,Percentage (%),W92000004,17.4592990616729
-2018,Female,55 to 64,Wales,,,,,Undefined,Units,Percentage (%),W92000004,13.8311727044976
-2018,Female,65 and over,Wales,,,,,Undefined,Units,Percentage (%),W92000004,8.00918699959829
-2018,Female,,Wales,,,,,Undefined,Units,Percentage (%),W92000004,14.8566742436692
-2018,Female,18 to 24,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,13.3060768522884
-2018,Female,25 to 34,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,18.1743307001926
-2018,Female,35 to 44,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,16.6520019664267
-2018,Female,45 to 54,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,18.3444570460923
-2018,Female,55 to 64,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,17.0472523042275
-2018,Female,65 and over,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,10.0102905031242
-2018,Female,,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,15.2757101611421
-2018,Female,18 to 24,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,11.11684687827
-2018,Female,25 to 34,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,16.3932912497482
-2018,Female,35 to 44,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,13.1408223163913
-2018,Female,45 to 54,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,18.8112395868304
-2018,Female,55 to 64,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,15.4709093232561
-2018,Female,65 and over,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,9.54673391153733
-2018,Female,,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,14.0780582772611
-2018,Female,18 to 24,,,,,,Undefined,Units,Percentage (%),,14.5546284027741
-2018,Female,25 to 34,,,,,,Undefined,Units,Percentage (%),,16.8653191255629
-2018,Female,35 to 44,,,,,,Undefined,Units,Percentage (%),,13.7987894940739
-2018,Female,45 to 54,,,,,,Undefined,Units,Percentage (%),,15.1229416127813
-2018,Female,55 to 64,,,,,,Undefined,Units,Percentage (%),,13.5364776723697
-2018,Female,65 and over,,,,,,Undefined,Units,Percentage (%),,7.30092766302987
-2018,Female,,,,,,,Undefined,Units,Percentage (%),,12.964945848656
+2018,,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,17.01222957
+2018,,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,19.03838357
+2018,,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,16.20041852
+2018,,45 to 54,England,,,,,Undefined,Units,Percentage (%),E92000001,16.33782933
+2018,,55 to 64,England,,,,,Undefined,Units,Percentage (%),E92000001,14.04916926
+2018,,65 and over,England,,,,,Undefined,Units,Percentage (%),E92000001,7.60359502
+2018,,,England,,,,,Undefined,Units,Percentage (%),E92000001,14.44931167
+2018,,18 to 24,Wales,,,,,Undefined,Units,Percentage (%),W92000004,18.7919739
+2018,,25 to 34,Wales,,,,,Undefined,Units,Percentage (%),W92000004,23.8977799
+2018,,35 to 44,Wales,,,,,Undefined,Units,Percentage (%),W92000004,17.37136826
+2018,,45 to 54,Wales,,,,,Undefined,Units,Percentage (%),W92000004,18.45581864
+2018,,55 to 64,Wales,,,,,Undefined,Units,Percentage (%),W92000004,14.68499743
+2018,,65 and over,Wales,,,,,Undefined,Units,Percentage (%),W92000004,7.966964719
+2018,,,Wales,,,,,Undefined,Units,Percentage (%),W92000004,15.92950051
+2018,,18 to 24,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,15.05622751
+2018,,25 to 34,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,19.4719324
+2018,,35 to 44,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,18.18114425
+2018,,45 to 54,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,19.37011957
+2018,,55 to 64,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,17.41176674
+2018,,65 and over,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,10.31501251
+2018,,,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,16.30951751
+2018,,18 to 24,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,13.03063173
+2018,,25 to 34,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,16.89024158
+2018,,35 to 44,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,16.62167643
+2018,,45 to 54,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,19.83858589
+2018,,55 to 64,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,16.63707895
+2018,,65 and over,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,10.28362111
+2018,,,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,15.51715355
+2018,,18 to 24,,,,,,Undefined,Units,Percentage (%),,16.82127285
+2018,,25 to 34,,,,,,Undefined,Units,Percentage (%),,19.23687015
+2018,,35 to 44,,,,,,Undefined,Units,Percentage (%),,16.42315357
+2018,,45 to 54,,,,,,Undefined,Units,Percentage (%),,16.80235536
+2018,,55 to 64,,,,,,Undefined,Units,Percentage (%),,14.46310553
+2018,,65 and over,,,,,,Undefined,Units,Percentage (%),,7.921421969
+2018-2019,,,,,,,,Undefined,Units,Percentage (%),,14.71078376
+2018,Male,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,19.24175432
+2018,Male,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,21.61466857
+2018,Male,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,19.0113593
+2018,Male,45 to 54,England,,,,,Undefined,Units,Percentage (%),E92000001,18.21317792
+2018,Male,55 to 64,England,,,,,Undefined,Units,Percentage (%),E92000001,15.07881673
+2018,Male,65 and over,England,,,,,Undefined,Units,Percentage (%),E92000001,8.420497838
+2018,Male,,England,,,,,Undefined,Units,Percentage (%),E92000001,16.40498103
+2018,Male,18 to 24,Wales,,,,,Undefined,Units,Percentage (%),W92000004,20.26862202
+2018,Male,25 to 34,Wales,,,,,Undefined,Units,Percentage (%),W92000004,25.15140589
+2018,Male,35 to 44,Wales,,,,,Undefined,Units,Percentage (%),W92000004,19.22236056
+2018,Male,45 to 54,Wales,,,,,Undefined,Units,Percentage (%),W92000004,19.50587826
+2018,Male,55 to 64,Wales,,,,,Undefined,Units,Percentage (%),W92000004,15.58351206
+2018,Male,65 and over,Wales,,,,,Undefined,Units,Percentage (%),W92000004,7.918089464
+2018,Male,,Wales,,,,,Undefined,Units,Percentage (%),W92000004,17.05400047
+2018,Male,18 to 24,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,16.76224734
+2018,Male,25 to 34,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,20.82713812
+2018,Male,35 to 44,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,19.8027561
+2018,Male,45 to 54,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,20.47859646
+2018,Male,55 to 64,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,17.80444849
+2018,Male,65 and over,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,10.69837729
+2018,Male,,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,17.44394546
+2018,Male,18 to 24,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,14.77593709
+2018,Male,25 to 34,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,17.39575951
+2018,Male,35 to 44,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,20.32642552
+2018,Male,45 to 54,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,20.91644072
+2018,Male,55 to 64,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,17.83385791
+2018,Male,65 and over,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,11.14210468
+2018,Male,,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,17.02771277
+2018,Male,18 to 24,,,,,,Undefined,Units,Percentage (%),,18.95516892
+2018,Male,25 to 34,,,,,,Undefined,Units,Percentage (%),,21.59445634
+2018,Male,35 to 44,,,,,,Undefined,Units,Percentage (%),,19.12129776
+2018,Male,45 to 54,,,,,,Undefined,Units,Percentage (%),,18.54375698
+2018,Male,55 to 64,,,,,,Undefined,Units,Percentage (%),,15.42880362
+2018,Male,65 and over,,,,,,Undefined,Units,Percentage (%),,8.649353104
+2018,Male,,,,,,,Undefined,Units,Percentage (%),,16.540929
+2018,Female,18 to 24,England,,,,,Undefined,Units,Percentage (%),E92000001,14.64158145
+2018,Female,25 to 34,England,,,,,Undefined,Units,Percentage (%),E92000001,16.43337154
+2018,Female,35 to 44,England,,,,,Undefined,Units,Percentage (%),E92000001,13.45446407
+2018,Female,45 to 54,England,,,,,Undefined,Units,Percentage (%),E92000001,14.51911264
+2018,Female,55 to 64,England,,,,,Undefined,Units,Percentage (%),E92000001,13.05748684
+2018,Female,65 and over,England,,,,,Undefined,Units,Percentage (%),E92000001,6.903067222
+2018,Female,,England,,,,,Undefined,Units,Percentage (%),E92000001,12.57497152
+2018,Female,18 to 24,Wales,,,,,Undefined,Units,Percentage (%),W92000004,17.18656152
+2018,Female,25 to 34,Wales,,,,,Undefined,Units,Percentage (%),W92000004,22.62487134
+2018,Female,35 to 44,Wales,,,,,Undefined,Units,Percentage (%),W92000004,15.57760805
+2018,Female,45 to 54,Wales,,,,,Undefined,Units,Percentage (%),W92000004,17.45929906
+2018,Female,55 to 64,Wales,,,,,Undefined,Units,Percentage (%),W92000004,13.8311727
+2018,Female,65 and over,Wales,,,,,Undefined,Units,Percentage (%),W92000004,8.009187
+2018,Female,,Wales,,,,,Undefined,Units,Percentage (%),W92000004,14.85667424
+2018,Female,18 to 24,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,13.30607685
+2018,Female,25 to 34,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,18.1743307
+2018,Female,35 to 44,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,16.65200197
+2018,Female,45 to 54,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,18.34445705
+2018,Female,55 to 64,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,17.0472523
+2018,Female,65 and over,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,10.0102905
+2018,Female,,Scotland,,,,,Undefined,Units,Percentage (%),S92000003,15.27571016
+2018,Female,18 to 24,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,11.11684688
+2018,Female,25 to 34,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,16.39329125
+2018,Female,35 to 44,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,13.14082232
+2018,Female,45 to 54,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,18.81123959
+2018,Female,55 to 64,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,15.47090932
+2018,Female,65 and over,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,9.546733912
+2018,Female,,Northern Ireland,,,,,Undefined,Units,Percentage (%),N92000002,14.07805828
+2018,Female,18 to 24,,,,,,Undefined,Units,Percentage (%),,14.5546284
+2018,Female,25 to 34,,,,,,Undefined,Units,Percentage (%),,16.86531913
+2018,Female,35 to 44,,,,,,Undefined,Units,Percentage (%),,13.79878949
+2018,Female,45 to 54,,,,,,Undefined,Units,Percentage (%),,15.12294161
+2018,Female,55 to 64,,,,,,Undefined,Units,Percentage (%),,13.53647767
+2018,Female,65 and over,,,,,,Undefined,Units,Percentage (%),,7.300927663
+2018,Female,,,,,,,Undefined,Units,Percentage (%),,12.96494585
 2011,,18 to 24,England,North East,,,,Undefined,Units,Percentage (%),E12000001,25.9158
 2011,,25 to 34,England,North East,,,,Undefined,Units,Percentage (%),E12000001,27.4821
 2011,,35 to 44,England,North East,,,,Undefined,Units,Percentage (%),E12000001,24.7266
@@ -853,13 +853,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2011,,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,20.2909
 2011,,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,10.9378
 2011,,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,21.8723
-2011,,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,27.6949
-2011,,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,30.7432
-2011,,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,25.2367
-2011,,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.8985
-2011,,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.0583
-2011,,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,10.2761
-2011,,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,21.8847
+2011,,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,27.6949
+2011,,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,30.7432
+2011,,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,25.2367
+2011,,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.8985
+2011,,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.0583
+2011,,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,10.2761
+2011,,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,21.8847
 2011,,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,27.8712
 2011,,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,27.0277
 2011,,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,22.8395
@@ -916,13 +916,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2011,Male,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,20.9404
 2011,Male,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,12.1008
 2011,Male,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,23.4826
-2011,Male,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,29.788
-2011,Male,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,34.8178
-2011,Male,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,28.2348
-2011,Male,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.6454
-2011,Male,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.2163
-2011,Male,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,10.4465
-2011,Male,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.7774
+2011,Male,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,29.788
+2011,Male,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,34.8178
+2011,Male,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,28.2348
+2011,Male,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.6454
+2011,Male,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.2163
+2011,Male,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,10.4465
+2011,Male,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.7774
 2011,Male,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,28.5987
 2011,Male,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,29.8417
 2011,Male,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,24.6654
@@ -979,13 +979,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2011,Female,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,19.6513
 2011,Female,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,9.9867
 2011,Female,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,20.354
-2011,Female,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,25.6718
-2011,Female,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,26.6929
-2011,Female,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.2432
-2011,Female,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.1645
-2011,Female,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,18.9043
-2011,Female,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,10.1372
-2011,Female,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,20.0941
+2011,Female,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,25.6718
+2011,Female,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,26.6929
+2011,Female,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.2432
+2011,Female,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.1645
+2011,Female,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,18.9043
+2011,Female,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,10.1372
+2011,Female,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,20.0941
 2011,Female,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,27.1675
 2011,Female,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,24.2981
 2011,Female,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,21.061
@@ -1042,13 +1042,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2012,,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,19.9995
 2012,,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,11.1764
 2012,,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,21.14
-2012,,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,26.9378
-2012,,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,28.0405
-2012,,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,26.8528
-2012,,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.1225
-2012,,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,20.0405
-2012,,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,11.0389
-2012,,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,21.9156
+2012,,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,26.9378
+2012,,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,28.0405
+2012,,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,26.8528
+2012,,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.1225
+2012,,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,20.0405
+2012,,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,11.0389
+2012,,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,21.9156
 2012,,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,25.8751
 2012,,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,27.6731
 2012,,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,22.8144
@@ -1075,7 +1075,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2012,,35 to 44,England,London,,,,Undefined,Units,Percentage (%),E12000007,19.6574
 2012,,45 to 54,England,London,,,,Undefined,Units,Percentage (%),E12000007,17.9359
 2012,,55 to 64,England,London,,,,Undefined,Units,Percentage (%),E12000007,17.5016
-2012,,65 and over,England,London,,,,Undefined,Units,Percentage (%),E12000007,10.5279999999999
+2012,,65 and over,England,London,,,,Undefined,Units,Percentage (%),E12000007,10.528
 2012,,,England,London,,,,Undefined,Units,Percentage (%),E12000007,18.1985
 2012,,18 to 24,England,South East,,,,Undefined,Units,Percentage (%),E12000008,24.4227
 2012,,25 to 34,England,South East,,,,Undefined,Units,Percentage (%),E12000008,24.7464
@@ -1098,20 +1098,20 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2012,Male,55 to 64,England,North East,,,,Undefined,Units,Percentage (%),E12000001,21.3717
 2012,Male,65 and over,England,North East,,,,Undefined,Units,Percentage (%),E12000001,10.2428
 2012,Male,,England,North East,,,,Undefined,Units,Percentage (%),E12000001,22.7994
-2012,Male,18 to 24,England,North West,,,,Undefined,Units,Percentage (%),E12000002,26.6169999999999
+2012,Male,18 to 24,England,North West,,,,Undefined,Units,Percentage (%),E12000002,26.617
 2012,Male,25 to 34,England,North West,,,,Undefined,Units,Percentage (%),E12000002,29.8234
 2012,Male,35 to 44,England,North West,,,,Undefined,Units,Percentage (%),E12000002,26.9477
 2012,Male,45 to 54,England,North West,,,,Undefined,Units,Percentage (%),E12000002,23.2561
 2012,Male,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,21.0178
 2012,Male,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,11.4998
 2012,Male,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,22.6483
-2012,Male,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,29.7016
-2012,Male,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,31.6794
-2012,Male,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,29.9516
-2012,Male,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,24.2905
-2012,Male,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,21.9051
-2012,Male,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,11.8813
-2012,Male,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,24.3067
+2012,Male,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,29.7016
+2012,Male,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,31.6794
+2012,Male,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,29.9516
+2012,Male,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,24.2905
+2012,Male,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,21.9051
+2012,Male,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,11.8813
+2012,Male,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,24.3067
 2012,Male,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,25.6605
 2012,Male,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,29.6171
 2012,Male,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,27.5841
@@ -1168,13 +1168,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2012,Female,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,19.0005
 2012,Female,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,10.9082
 2012,Female,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,19.7159
-2012,Female,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,24.2256
-2012,Female,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,24.4378
-2012,Female,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.7504
-2012,Female,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,21.9694
-2012,Female,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,18.2028
-2012,Female,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,10.3545
-2012,Female,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.6485
+2012,Female,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,24.2256
+2012,Female,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,24.4378
+2012,Female,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.7504
+2012,Female,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,21.9694
+2012,Female,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,18.2028
+2012,Female,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,10.3545
+2012,Female,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.6485
 2012,Female,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,26.0972
 2012,Female,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,25.7992
 2012,Female,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,18.2165
@@ -1231,13 +1231,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2013,,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,19.0742
 2013,,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,11.2588
 2013,,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,20.0117
-2013,,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,26.3163
-2013,,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,27.908
-2013,,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.6173
-2013,,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.6775
-2013,,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.8947
-2013,,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,10.1173
-2013,,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,20.4787
+2013,,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,26.3163
+2013,,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,27.908
+2013,,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.6173
+2013,,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.6775
+2013,,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.8947
+2013,,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,10.1173
+2013,,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,20.4787
 2013,,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,24.6826
 2013,,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,27.9378
 2013,,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,20.7974
@@ -1294,13 +1294,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2013,Male,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,19.7636
 2013,Male,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,11.754
 2013,Male,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,21.5016
-2013,Male,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,27.7013
-2013,Male,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,32.5953
-2013,Male,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,27.3269
-2013,Male,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.3956
-2013,Male,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,17.5287
-2013,Male,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,10.5108
-2013,Male,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.3823
+2013,Male,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,27.7013
+2013,Male,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,32.5953
+2013,Male,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,27.3269
+2013,Male,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.3956
+2013,Male,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,17.5287
+2013,Male,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,10.5108
+2013,Male,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.3823
 2013,Male,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,26.6837
 2013,Male,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,30.1206
 2013,Male,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,24.1254
@@ -1357,13 +1357,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2013,Female,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,18.395
 2013,Female,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,10.8431
 2013,Female,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,18.5983
-2013,Female,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,24.8891
-2013,Female,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.3573
-2013,Female,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.9394
-2013,Female,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.9544
-2013,Female,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.2754
-2013,Female,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,9.7907
-2013,Female,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,18.6687
+2013,Female,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,24.8891
+2013,Female,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.3573
+2013,Female,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.9394
+2013,Female,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.9544
+2013,Female,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.2754
+2013,Female,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,9.7907
+2013,Female,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,18.6687
 2013,Female,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,22.5786
 2013,Female,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,25.8226
 2013,Female,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.585
@@ -1420,13 +1420,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2014,,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,18.0038
 2014,,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,10.7574
 2014,,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,19.6271
-2014,,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,25.1887
-2014,,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,26.6119
-2014,,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.4428
-2014,,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,21.5572
-2014,,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,17.9551
-2014,,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,10.2046
-2014,,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.8648
+2014,,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,25.1887
+2014,,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,26.6119
+2014,,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.4428
+2014,,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,21.5572
+2014,,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,17.9551
+2014,,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,10.2046
+2014,,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.8648
 2014,,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,24.7314
 2014,,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,25.5569
 2014,,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,19.84
@@ -1478,18 +1478,18 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2014,Male,,England,North East,,,,Undefined,Units,Percentage (%),E12000001,20.7664
 2014,Male,18 to 24,England,North West,,,,Undefined,Units,Percentage (%),E12000002,25.7623
 2014,Male,25 to 34,England,North West,,,,Undefined,Units,Percentage (%),E12000002,28.6039
-2014,Male,35 to 44,England,North West,,,,Undefined,Units,Percentage (%),E12000002,26.2309999999999
+2014,Male,35 to 44,England,North West,,,,Undefined,Units,Percentage (%),E12000002,26.231
 2014,Male,45 to 54,England,North West,,,,Undefined,Units,Percentage (%),E12000002,22.7822
 2014,Male,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,19.1716
 2014,Male,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,11.5117
 2014,Male,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,21.7628
-2014,Male,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,27.3207
-2014,Male,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,29.29
-2014,Male,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,24.4315
-2014,Male,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.2595
-2014,Male,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,18.5135
-2014,Male,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,10.525
-2014,Male,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,21.5425
+2014,Male,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,27.3207
+2014,Male,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,29.29
+2014,Male,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,24.4315
+2014,Male,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.2595
+2014,Male,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,18.5135
+2014,Male,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,10.525
+2014,Male,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,21.5425
 2014,Male,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,26.5303
 2014,Male,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,30.3686
 2014,Male,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,22.1506
@@ -1546,13 +1546,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2014,Female,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.8702
 2014,Female,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,10.1153
 2014,Female,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,17.5966
-2014,Female,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.0261
-2014,Female,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.989
-2014,Female,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,20.4527
-2014,Female,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.8999
-2014,Female,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,17.4127
-2014,Female,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,9.934
-2014,Female,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,18.2669
+2014,Female,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.0261
+2014,Female,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.989
+2014,Female,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,20.4527
+2014,Female,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.8999
+2014,Female,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,17.4127
+2014,Female,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,9.934
+2014,Female,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,18.2669
 2014,Female,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,22.8729
 2014,Female,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,20.9997
 2014,Female,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.5963
@@ -1571,7 +1571,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2014,Female,25 to 34,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,18.1438
 2014,Female,35 to 44,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,16.0383
 2014,Female,45 to 54,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,17.4092
-2014,Female,55 to 64,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,15.3959999999999
+2014,Female,55 to 64,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,15.396
 2014,Female,65 and over,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,8.3457
 2014,Female,,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,15.1692
 2014,Female,18 to 24,England,London,,,,Undefined,Units,Percentage (%),E12000007,18.0301
@@ -1609,13 +1609,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2015,,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,17.8614
 2015,,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,10.342
 2015,,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,18.6307
-2015,,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.4589
-2015,,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,26.0948
-2015,,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,20.2471
-2015,,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,20.522
-2015,,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,17.1005
-2015,,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,9.5577
-2015,,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,18.6212
+2015,,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.4589
+2015,,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,26.0948
+2015,,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,20.2471
+2015,,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,20.522
+2015,,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,17.1005
+2015,,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,9.5577
+2015,,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,18.6212
 2015,,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,21.7272
 2015,,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,25.1254
 2015,,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,21.3594
@@ -1672,13 +1672,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2015,Male,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,18.6681
 2015,Male,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,10.8179
 2015,Male,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,20.5226
-2015,Male,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.4548
-2015,Male,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,28.7754
-2015,Male,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.8947
-2015,Male,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,21.2818
-2015,Male,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,18.088
-2015,Male,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,9.8078
-2015,Male,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,20.1274
+2015,Male,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.4548
+2015,Male,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,28.7754
+2015,Male,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.8947
+2015,Male,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,21.2818
+2015,Male,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,18.088
+2015,Male,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,9.8078
+2015,Male,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,20.1274
 2015,Male,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,23.897
 2015,Male,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,28.2333
 2015,Male,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,23.8487
@@ -1735,13 +1735,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2015,Female,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,17.0788
 2015,Female,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,9.9334
 2015,Female,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.8264
-2015,Female,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,21.4442
-2015,Female,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.4667
-2015,Female,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,17.6038
-2015,Female,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.7758
-2015,Female,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.1359
-2015,Female,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,9.3471
-2015,Female,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,17.1841
+2015,Female,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,21.4442
+2015,Female,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.4667
+2015,Female,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,17.6038
+2015,Female,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.7758
+2015,Female,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.1359
+2015,Female,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,9.3471
+2015,Female,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,17.1841
 2015,Female,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,19.42
 2015,Female,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,22.1047
 2015,Female,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,18.93
@@ -1766,7 +1766,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2015,Female,18 to 24,England,London,,,,Undefined,Units,Percentage (%),E12000007,15.1672
 2015,Female,25 to 34,England,London,,,,Undefined,Units,Percentage (%),E12000007,13.8274
 2015,Female,35 to 44,England,London,,,,Undefined,Units,Percentage (%),E12000007,12.3441
-2015,Female,45 to 54,England,London,,,,Undefined,Units,Percentage (%),E12000007,13.8259999999999
+2015,Female,45 to 54,England,London,,,,Undefined,Units,Percentage (%),E12000007,13.826
 2015,Female,55 to 64,England,London,,,,Undefined,Units,Percentage (%),E12000007,12.1781
 2015,Female,65 and over,England,London,,,,Undefined,Units,Percentage (%),E12000007,7.2937
 2015,Female,,England,London,,,,Undefined,Units,Percentage (%),E12000007,12.449
@@ -1798,15 +1798,15 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2016,,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.0289
 2016,,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,9.4927
 2016,,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.8349
-2016,,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.0108
-2016,,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,24.3696
-2016,,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.9487
-2016,,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,18.1323
-2016,,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.4952
-2016,,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,8.984
-2016,,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,17.6556
+2016,,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.0108
+2016,,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,24.3696
+2016,,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.9487
+2016,,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,18.1323
+2016,,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.4952
+2016,,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,8.984
+2016,,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,17.6556
 2016,,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,19.9603
-2016,,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,21.2269999999999
+2016,,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,21.227
 2016,,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,19.9339
 2016,,45 to 54,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,16.9729
 2016,,55 to 64,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,15.1985
@@ -1819,7 +1819,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2016,,55 to 64,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,14.2023
 2016,,65 and over,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,8.6822
 2016,,,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,15.3995
-2016,,18 to 24,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,17.4459999999999
+2016,,18 to 24,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,17.446
 2016,,25 to 34,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,21.0198
 2016,,35 to 44,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,16.0105
 2016,,45 to 54,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,16.826
@@ -1833,7 +1833,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2016,,55 to 64,England,London,,,,Undefined,Units,Percentage (%),E12000007,14.5388
 2016,,65 and over,England,London,,,,Undefined,Units,Percentage (%),E12000007,7.7131
 2016,,,England,London,,,,Undefined,Units,Percentage (%),E12000007,15.1584
-2016,,18 to 24,England,South East,,,,Undefined,Units,Percentage (%),E12000008,22.1059999999999
+2016,,18 to 24,England,South East,,,,Undefined,Units,Percentage (%),E12000008,22.106
 2016,,25 to 34,England,South East,,,,Undefined,Units,Percentage (%),E12000008,21.4262
 2016,,35 to 44,England,South East,,,,Undefined,Units,Percentage (%),E12000008,15.4821
 2016,,45 to 54,England,South East,,,,Undefined,Units,Percentage (%),E12000008,15.8601
@@ -1861,19 +1861,19 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2016,Male,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,17.9082
 2016,Male,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,9.3649
 2016,Male,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,17.9458
-2016,Male,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,26.2434
-2016,Male,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,25.7919
-2016,Male,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.7307
-2016,Male,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,18.3848
-2016,Male,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.8933
-2016,Male,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,9.6566
-2016,Male,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.1482
+2016,Male,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,26.2434
+2016,Male,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,25.7919
+2016,Male,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.7307
+2016,Male,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,18.3848
+2016,Male,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.8933
+2016,Male,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,9.6566
+2016,Male,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.1482
 2016,Male,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,21.8554
 2016,Male,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,22.8293
 2016,Male,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,22.8688
 2016,Male,45 to 54,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.5323
 2016,Male,55 to 64,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,15.5584
-2016,Male,65 and over,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,9.59799999999999
+2016,Male,65 and over,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,9.598
 2016,Male,,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.4972
 2016,Male,18 to 24,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,19.296
 2016,Male,25 to 34,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,24.7883
@@ -1924,13 +1924,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2016,Female,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,14.2095
 2016,Female,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,9.6029
 2016,Female,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,15.7738
-2016,Female,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.7001
-2016,Female,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.935
-2016,Female,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,17.1934
-2016,Female,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,17.8879999999999
-2016,Female,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.1059
-2016,Female,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,8.408
-2016,Female,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.2247
+2016,Female,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.7001
+2016,Female,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.935
+2016,Female,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,17.1934
+2016,Female,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,17.888
+2016,Female,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.1059
+2016,Female,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,8.408
+2016,Female,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.2247
 2016,Female,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.8888
 2016,Female,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,19.6516
 2016,Female,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.1321
@@ -1987,13 +1987,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2017,,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,15.9719
 2017,,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,10.4153
 2017,,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.0589
-2017,,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,21.4041
-2017,,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.6769
-2017,,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,20.2514
-2017,,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,17.7317
-2017,,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.04
-2017,,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,8.7788
-2017,,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.9856
+2017,,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,21.4041
+2017,,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.6769
+2017,,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,20.2514
+2017,,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,17.7317
+2017,,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.04
+2017,,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,8.7788
+2017,,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.9856
 2017,,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,19.075
 2017,,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,20.2607
 2017,,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,18.1333
@@ -2016,7 +2016,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2017,,65 and over,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,8.1583
 2017,,,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,14.2402
 2017,,18 to 24,England,London,,,,Undefined,Units,Percentage (%),E12000007,16.0679
-2017,,25 to 34,England,London,,,,Undefined,Units,Percentage (%),E12000007,17.3409999999999
+2017,,25 to 34,England,London,,,,Undefined,Units,Percentage (%),E12000007,17.341
 2017,,35 to 44,England,London,,,,Undefined,Units,Percentage (%),E12000007,15.67
 2017,,45 to 54,England,London,,,,Undefined,Units,Percentage (%),E12000007,15.981
 2017,,55 to 64,England,London,,,,Undefined,Units,Percentage (%),E12000007,13.5999
@@ -2031,7 +2031,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2017,,,England,South East,,,,Undefined,Units,Percentage (%),E12000008,13.6623
 2017,,18 to 24,England,South West,,,,Undefined,Units,Percentage (%),E12000009,19.292
 2017,,25 to 34,England,South West,,,,Undefined,Units,Percentage (%),E12000009,20.7023
-2017,,35 to 44,England,South West,,,,Undefined,Units,Percentage (%),E12000009,16.6059999999999
+2017,,35 to 44,England,South West,,,,Undefined,Units,Percentage (%),E12000009,16.606
 2017,,45 to 54,England,South West,,,,Undefined,Units,Percentage (%),E12000009,15.6425
 2017,,55 to 64,England,South West,,,,Undefined,Units,Percentage (%),E12000009,12.7194
 2017,,65 and over,England,South West,,,,Undefined,Units,Percentage (%),E12000009,5.5849
@@ -2050,13 +2050,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2017,Male,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.7421
 2017,Male,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,10.2013
 2017,Male,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,17.6413
-2017,Male,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,25.7738
-2017,Male,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.6761
-2017,Male,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,23.9719999999999
-2017,Male,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.329
-2017,Male,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,15.8024
-2017,Male,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,9.5298
-2017,Male,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,18.6608
+2017,Male,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,25.7738
+2017,Male,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.6761
+2017,Male,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,23.972
+2017,Male,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.329
+2017,Male,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,15.8024
+2017,Male,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,9.5298
+2017,Male,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,18.6608
 2017,Male,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,20.0941
 2017,Male,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,23.4123
 2017,Male,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,18.7094
@@ -2078,11 +2078,11 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2017,Male,55 to 64,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,13.4494
 2017,Male,65 and over,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,9.2064
 2017,Male,,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,16.3999
-2017,Male,18 to 24,England,London,,,,Undefined,Units,Percentage (%),E12000007,18.7509999999999
+2017,Male,18 to 24,England,London,,,,Undefined,Units,Percentage (%),E12000007,18.751
 2017,Male,25 to 34,England,London,,,,Undefined,Units,Percentage (%),E12000007,22.1276
 2017,Male,35 to 44,England,London,,,,Undefined,Units,Percentage (%),E12000007,20.3835
 2017,Male,45 to 54,England,London,,,,Undefined,Units,Percentage (%),E12000007,18.6429
-2017,Male,55 to 64,England,London,,,,Undefined,Units,Percentage (%),E12000007,15.9159999999999
+2017,Male,55 to 64,England,London,,,,Undefined,Units,Percentage (%),E12000007,15.916
 2017,Male,65 and over,England,London,,,,Undefined,Units,Percentage (%),E12000007,7.6222
 2017,Male,,England,London,,,,Undefined,Units,Percentage (%),E12000007,18.0522
 2017,Male,18 to 24,England,South East,,,,Undefined,Units,Percentage (%),E12000008,19.4029
@@ -2113,13 +2113,13 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2017,Female,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,15.2348
 2017,Female,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,10.6006
 2017,Female,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,14.5477
-2017,Female,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.8424
-2017,Female,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.6777
-2017,Female,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.5996
-2017,Female,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.1817
-2017,Female,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.2718
-2017,Female,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,8.1391
-2017,Female,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,15.3825
+2017,Female,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.8424
+2017,Female,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.6777
+2017,Female,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.5996
+2017,Female,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.1817
+2017,Female,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.2718
+2017,Female,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,8.1391
+2017,Female,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,15.3825
 2017,Female,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,18.0529
 2017,Female,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.1373
 2017,Female,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.5772
@@ -2162,195 +2162,195 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2017,Female,55 to 64,England,South West,,,,Undefined,Units,Percentage (%),E12000009,11.8964
 2017,Female,65 and over,England,South West,,,,Undefined,Units,Percentage (%),E12000009,5.4218
 2017,Female,,England,South West,,,,Undefined,Units,Percentage (%),E12000009,12.5569
-2018,,18 to 24,England,North East,,,,Undefined,Units,Percentage (%),E12000001,18.9497817362529
-2018,,25 to 34,England,North East,,,,Undefined,Units,Percentage (%),E12000001,21.919109198534
-2018,,35 to 44,England,North East,,,,Undefined,Units,Percentage (%),E12000001,18.4266702362249
-2018,,45 to 54,England,North East,,,,Undefined,Units,Percentage (%),E12000001,16.5111524271226
-2018,,55 to 64,England,North East,,,,Undefined,Units,Percentage (%),E12000001,15.7188456584275
-2018,,65 and over,England,North East,,,,Undefined,Units,Percentage (%),E12000001,8.93354893673336
-2018,,,England,North East,,,,Undefined,Units,Percentage (%),E12000001,15.9623320145834
-2018,,18 to 24,England,North West,,,,Undefined,Units,Percentage (%),E12000002,17.1099208315645
-2018,,25 to 34,England,North West,,,,Undefined,Units,Percentage (%),E12000002,19.0972363816713
-2018,,35 to 44,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.0964463509179
-2018,,45 to 54,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.1917268825283
-2018,,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,15.1051424000674
-2018,,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,8.24662081226595
-2018,,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,14.7232532133908
-2018,,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.7041521256088
-2018,,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.7682784131657
-2018,,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.5436219014351
-2018,,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,19.5308498602565
-2018,,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,14.6584365165494
-2018,,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,8.398217151157
-2018,,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.6733199966583
-2018,,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,18.1053222258059
-2018,,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,20.8968280844339
-2018,,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,18.1719348473711
-2018,,45 to 54,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,18.5549762979446
-2018,,55 to 64,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,14.8993072912946
-2018,,65 and over,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,9.07346274648557
-2018,,,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,15.8392437025729
-2018,,18 to 24,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,14.4308768835706
-2018,,25 to 34,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,18.8642498611821
-2018,,35 to 44,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,14.6832420799056
-2018,,45 to 54,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,17.679901566921
-2018,,55 to 64,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,14.8318642654865
-2018,,65 and over,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,8.62349508335224
-2018,,,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,14.4689920444014
-2018,,18 to 24,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,17.0240943768829
-2018,,25 to 34,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,18.5451043523256
-2018,,35 to 44,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,16.1918375665835
-2018,,45 to 54,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,16.8048893490068
-2018,,55 to 64,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,13.5840716668211
-2018,,65 and over,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,6.9903340964084
-2018,,,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,13.9613702180976
-2018,,18 to 24,England,London,,,,Undefined,Units,Percentage (%),E12000007,13.6905829060441
-2018,,25 to 34,England,London,,,,Undefined,Units,Percentage (%),E12000007,15.7982095689241
-2018,,35 to 44,England,London,,,,Undefined,Units,Percentage (%),E12000007,15.8547418703033
-2018,,45 to 54,England,London,,,,Undefined,Units,Percentage (%),E12000007,15.0917068152372
-2018,,55 to 64,England,London,,,,Undefined,Units,Percentage (%),E12000007,13.3714700919962
-2018,,65 and over,England,London,,,,Undefined,Units,Percentage (%),E12000007,7.60892781949074
-2018,,,England,London,,,,Undefined,Units,Percentage (%),E12000007,13.8959445821063
-2018,,18 to 24,England,South East,,,,Undefined,Units,Percentage (%),E12000008,17.7171541011846
-2018,,25 to 34,England,South East,,,,Undefined,Units,Percentage (%),E12000008,18.2867382576492
-2018,,35 to 44,England,South East,,,,Undefined,Units,Percentage (%),E12000008,13.573616588653
-2018,,45 to 54,England,South East,,,,Undefined,Units,Percentage (%),E12000008,13.8876281581305
-2018,,55 to 64,England,South East,,,,Undefined,Units,Percentage (%),E12000008,13.5236372536272
-2018,,65 and over,England,South East,,,,Undefined,Units,Percentage (%),E12000008,6.28659099664184
-2018,,,England,South East,,,,Undefined,Units,Percentage (%),E12000008,12.920383590975
-2018,,18 to 24,England,South West,,,,Undefined,Units,Percentage (%),E12000009,19.1173992776857
-2018,,25 to 34,England,South West,,,,Undefined,Units,Percentage (%),E12000009,21.8518929497332
-2018,,35 to 44,England,South West,,,,Undefined,Units,Percentage (%),E12000009,17.3525109290311
-2018,,45 to 54,England,South West,,,,Undefined,Units,Percentage (%),E12000009,15.4843704635633
-2018,,55 to 64,England,South West,,,,Undefined,Units,Percentage (%),E12000009,12.0103295264421
-2018,,65 and over,England,South West,,,,Undefined,Units,Percentage (%),E12000009,6.17158294253617
-2018,,,England,South West,,,,Undefined,Units,Percentage (%),E12000009,13.856234272433
-2018,Male,18 to 24,England,North East,,,,Undefined,Units,Percentage (%),E12000001,19.6629936114565
-2018,Male,25 to 34,England,North East,,,,Undefined,Units,Percentage (%),E12000001,21.8061783139693
-2018,Male,35 to 44,England,North East,,,,Undefined,Units,Percentage (%),E12000001,19.2140339681203
-2018,Male,45 to 54,England,North East,,,,Undefined,Units,Percentage (%),E12000001,18.3254400857832
-2018,Male,55 to 64,England,North East,,,,Undefined,Units,Percentage (%),E12000001,15.6358268677109
-2018,Male,65 and over,England,North East,,,,Undefined,Units,Percentage (%),E12000001,9.50245137654221
-2018,Male,,England,North East,,,,Undefined,Units,Percentage (%),E12000001,16.7123123939999
-2018,Male,18 to 24,England,North West,,,,Undefined,Units,Percentage (%),E12000002,20.120215751448
-2018,Male,25 to 34,England,North West,,,,Undefined,Units,Percentage (%),E12000002,21.5217655038546
-2018,Male,35 to 44,England,North West,,,,Undefined,Units,Percentage (%),E12000002,18.4065961406407
-2018,Male,45 to 54,England,North West,,,,Undefined,Units,Percentage (%),E12000002,17.703488184557
-2018,Male,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,15.5598868579306
-2018,Male,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,8.35176456830234
-2018,Male,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.3065481537983
-2018,Male,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,20.8834816345465
-2018,Male,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,24.6797730220297
-2018,Male,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,22.4641024852257
-2018,Male,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,21.8088373984443
-2018,Male,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,15.1875046620764
-2018,Male,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,8.70188701613436
-2018,Male,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,18.2939229210835
-2018,Male,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,20.2682874664888
-2018,Male,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,23.7678873155195
-2018,Male,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,20.9791064067906
-2018,Male,45 to 54,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,19.2436201477006
-2018,Male,55 to 64,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,16.4173172359224
-2018,Male,65 and over,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,10.1045753221673
-2018,Male,,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.6772917864505
-2018,Male,18 to 24,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,16.7207766869059
-2018,Male,25 to 34,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,21.7453205135185
-2018,Male,35 to 44,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,16.8933871891298
-2018,Male,45 to 54,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,19.8705416329395
-2018,Male,55 to 64,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,17.2710804251974
-2018,Male,65 and over,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,9.64408822720832
-2018,Male,,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,16.6751291254487
-2018,Male,18 to 24,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,20.9157127991675
-2018,Male,25 to 34,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,22.4292554259009
-2018,Male,35 to 44,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,19.3941414649446
-2018,Male,45 to 54,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,20.1780780173264
-2018,Male,55 to 64,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,14.5839259099132
-2018,Male,65 and over,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,9.02386301805919
-2018,Male,,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,16.8551840153742
-2018,Male,18 to 24,England,London,,,,Undefined,Units,Percentage (%),E12000007,16.2785851645898
-2018,Male,25 to 34,England,London,,,,Undefined,Units,Percentage (%),E12000007,18.9005450696449
-2018,Male,35 to 44,England,London,,,,Undefined,Units,Percentage (%),E12000007,19.9040157924755
-2018,Male,45 to 54,England,London,,,,Undefined,Units,Percentage (%),E12000007,16.8875895001324
-2018,Male,55 to 64,England,London,,,,Undefined,Units,Percentage (%),E12000007,14.4931076068206
-2018,Male,65 and over,England,London,,,,Undefined,Units,Percentage (%),E12000007,8.55990741908176
-2018,Male,,England,London,,,,Undefined,Units,Percentage (%),E12000007,16.4867052363973
-2018,Male,18 to 24,England,South East,,,,Undefined,Units,Percentage (%),E12000008,19.9936386019061
-2018,Male,25 to 34,England,South East,,,,Undefined,Units,Percentage (%),E12000008,19.8175651266406
-2018,Male,35 to 44,England,South East,,,,Undefined,Units,Percentage (%),E12000008,16.1645736324726
-2018,Male,45 to 54,England,South East,,,,Undefined,Units,Percentage (%),E12000008,15.7862890009799
-2018,Male,55 to 64,England,South East,,,,Undefined,Units,Percentage (%),E12000008,14.4928663215335
-2018,Male,65 and over,England,South East,,,,Undefined,Units,Percentage (%),E12000008,7.09808645510376
-2018,Male,,England,South East,,,,Undefined,Units,Percentage (%),E12000008,14.6565077225652
-2018,Male,18 to 24,England,South West,,,,Undefined,Units,Percentage (%),E12000009,19.7526840669317
-2018,Male,25 to 34,England,South West,,,,Undefined,Units,Percentage (%),E12000009,25.1409278429466
-2018,Male,35 to 44,England,South West,,,,Undefined,Units,Percentage (%),E12000009,19.3681232970736
-2018,Male,45 to 54,England,South West,,,,Undefined,Units,Percentage (%),E12000009,16.6172123596204
-2018,Male,55 to 64,England,South West,,,,Undefined,Units,Percentage (%),E12000009,13.014112153702
-2018,Male,65 and over,England,South West,,,,Undefined,Units,Percentage (%),E12000009,6.5840974177105
-2018,Male,,England,South West,,,,Undefined,Units,Percentage (%),E12000009,15.3668884013346
-2018,Female,18 to 24,England,North East,,,,Undefined,Units,Percentage (%),E12000001,18.1980060199036
-2018,Female,25 to 34,England,North East,,,,Undefined,Units,Percentage (%),E12000001,22.0333038996498
-2018,Female,35 to 44,England,North East,,,,Undefined,Units,Percentage (%),E12000001,17.6829602433077
-2018,Female,45 to 54,England,North East,,,,Undefined,Units,Percentage (%),E12000001,14.7947768554055
-2018,Female,55 to 64,England,North East,,,,Undefined,Units,Percentage (%),E12000001,15.7978782089622
-2018,Female,65 and over,England,North East,,,,Undefined,Units,Percentage (%),E12000001,8.44782115366923
-2018,Female,,England,North East,,,,Undefined,Units,Percentage (%),E12000001,15.2534796480033
-2018,Female,18 to 24,England,North West,,,,Undefined,Units,Percentage (%),E12000002,13.9786690038059
-2018,Female,25 to 34,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.675991805625898
-2018,Female,35 to 44,England,North West,,,,Undefined,Units,Percentage (%),E12000002,13.8383867861208
-2018,Female,45 to 54,England,North West,,,,Undefined,Units,Percentage (%),E12000002,14.7431300792905
-2018,Female,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,14.6647453132481
-2018,Female,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,8.15524227699278
-2018,Female,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,13.2095931900553
-2018,Female,18 to 24,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,18.4616136528234
-2018,Female,25 to 34,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,20.8611828294283
-2018,Female,35 to 44,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,16.7092378323868
-2018,Female,45 to 54,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,17.3008729629921
-2018,Female,55 to 64,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,14.1443553673171
-2018,Female,65 and over,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,8.13919117589863
-2018,Female,,England,Yorkshire and the Humber,,,,Undefined,Units,Percentage (%),E12000003,15.1237952088712
-2018,Female,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,15.6935278132105
-2018,Female,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.9879711550115
-2018,Female,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,15.4651984588377
-2018,Female,45 to 54,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.8906438926294
-2018,Female,55 to 64,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,13.4430323955043
-2018,Female,65 and over,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,8.15401744133154
-2018,Female,,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,14.0613599151318
-2018,Female,18 to 24,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,11.9190501057245
-2018,Female,25 to 34,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,15.9262014746379
-2018,Female,35 to 44,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,12.5268393444405
-2018,Female,45 to 54,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,15.5494414963869
-2018,Female,55 to 64,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,12.4583888904006
-2018,Female,65 and over,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,7.7456718893808
-2018,Female,,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,12.3380900210113
-2018,Female,18 to 24,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,12.9000430452846
-2018,Female,25 to 34,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,14.6401291326781
-2018,Female,35 to 44,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,13.1472551679673
-2018,Female,45 to 54,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,13.5941285727518
-2018,Female,55 to 64,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,12.6080751653404
-2018,Female,65 and over,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,5.23140314620555
-2018,Female,,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,11.2132154152846
-2018,Female,18 to 24,England,London,,,,Undefined,Units,Percentage (%),E12000007,11.0830508982934
-2018,Female,25 to 34,England,London,,,,Undefined,Units,Percentage (%),E12000007,12.6176059493117
-2018,Female,35 to 44,England,London,,,,Undefined,Units,Percentage (%),E12000007,11.5672067950729
-2018,Female,45 to 54,England,London,,,,Undefined,Units,Percentage (%),E12000007,13.3047147042025
-2018,Female,55 to 64,England,London,,,,Undefined,Units,Percentage (%),E12000007,12.3191899710703
-2018,Female,65 and over,England,London,,,,Undefined,Units,Percentage (%),E12000007,6.82532438379138
-2018,Female,,England,London,,,,Undefined,Units,Percentage (%),E12000007,11.357122818725
-2018,Female,18 to 24,England,South East,,,,Undefined,Units,Percentage (%),E12000008,15.2654032194116
-2018,Female,25 to 34,England,South East,,,,Undefined,Units,Percentage (%),E12000008,16.7529654958848
-2018,Female,35 to 44,England,South East,,,,Undefined,Units,Percentage (%),E12000008,11.1615076136019
-2018,Female,45 to 54,England,South East,,,,Undefined,Units,Percentage (%),E12000008,12.0298723959918
-2018,Female,55 to 64,England,South East,,,,Undefined,Units,Percentage (%),E12000008,12.5857576869174
-2018,Female,65 and over,England,South East,,,,Undefined,Units,Percentage (%),E12000008,5.59710424408108
-2018,Female,,England,South East,,,,Undefined,Units,Percentage (%),E12000008,11.2749505643559
-2018,Female,18 to 24,England,South West,,,,Undefined,Units,Percentage (%),E12000009,18.4166876357641
-2018,Female,25 to 34,England,South West,,,,Undefined,Units,Percentage (%),E12000009,18.4972236844339
-2018,Female,35 to 44,England,South West,,,,Undefined,Units,Percentage (%),E12000009,15.4325206956786
-2018,Female,45 to 54,England,South West,,,,Undefined,Units,Percentage (%),E12000009,14.3993200666941
-2018,Female,55 to 64,England,South West,,,,Undefined,Units,Percentage (%),E12000009,11.049086481637
-2018,Female,65 and over,England,South West,,,,Undefined,Units,Percentage (%),E12000009,5.81862937027029
-2018,Female,,England,South West,,,,Undefined,Units,Percentage (%),E12000009,12.4225926102807
+2018,,18 to 24,England,North East,,,,Undefined,Units,Percentage (%),E12000001,18.94978174
+2018,,25 to 34,England,North East,,,,Undefined,Units,Percentage (%),E12000001,21.9191092
+2018,,35 to 44,England,North East,,,,Undefined,Units,Percentage (%),E12000001,18.42667024
+2018,,45 to 54,England,North East,,,,Undefined,Units,Percentage (%),E12000001,16.51115243
+2018,,55 to 64,England,North East,,,,Undefined,Units,Percentage (%),E12000001,15.71884566
+2018,,65 and over,England,North East,,,,Undefined,Units,Percentage (%),E12000001,8.933548937
+2018,,,England,North East,,,,Undefined,Units,Percentage (%),E12000001,15.96233201
+2018,,18 to 24,England,North West,,,,Undefined,Units,Percentage (%),E12000002,17.10992083
+2018,,25 to 34,England,North West,,,,Undefined,Units,Percentage (%),E12000002,19.09723638
+2018,,35 to 44,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.09644635
+2018,,45 to 54,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.19172688
+2018,,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,15.1051424
+2018,,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,8.246620812
+2018,,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,14.72325321
+2018,,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.70415213
+2018,,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.76827841
+2018,,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.5436219
+2018,,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,19.53084986
+2018,,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,14.65843652
+2018,,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,8.398217151
+2018,,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.67332
+2018,,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,18.10532223
+2018,,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,20.89682808
+2018,,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,18.17193485
+2018,,45 to 54,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,18.5549763
+2018,,55 to 64,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,14.89930729
+2018,,65 and over,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,9.073462746
+2018,,,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,15.8392437
+2018,,18 to 24,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,14.43087688
+2018,,25 to 34,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,18.86424986
+2018,,35 to 44,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,14.68324208
+2018,,45 to 54,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,17.67990157
+2018,,55 to 64,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,14.83186427
+2018,,65 and over,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,8.623495083
+2018,,,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,14.46899204
+2018,,18 to 24,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,17.02409438
+2018,,25 to 34,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,18.54510435
+2018,,35 to 44,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,16.19183757
+2018,,45 to 54,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,16.80488935
+2018,,55 to 64,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,13.58407167
+2018,,65 and over,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,6.990334096
+2018,,,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,13.96137022
+2018,,18 to 24,England,London,,,,Undefined,Units,Percentage (%),E12000007,13.69058291
+2018,,25 to 34,England,London,,,,Undefined,Units,Percentage (%),E12000007,15.79820957
+2018,,35 to 44,England,London,,,,Undefined,Units,Percentage (%),E12000007,15.85474187
+2018,,45 to 54,England,London,,,,Undefined,Units,Percentage (%),E12000007,15.09170682
+2018,,55 to 64,England,London,,,,Undefined,Units,Percentage (%),E12000007,13.37147009
+2018,,65 and over,England,London,,,,Undefined,Units,Percentage (%),E12000007,7.608927819
+2018,,,England,London,,,,Undefined,Units,Percentage (%),E12000007,13.89594458
+2018,,18 to 24,England,South East,,,,Undefined,Units,Percentage (%),E12000008,17.7171541
+2018,,25 to 34,England,South East,,,,Undefined,Units,Percentage (%),E12000008,18.28673826
+2018,,35 to 44,England,South East,,,,Undefined,Units,Percentage (%),E12000008,13.57361659
+2018,,45 to 54,England,South East,,,,Undefined,Units,Percentage (%),E12000008,13.88762816
+2018,,55 to 64,England,South East,,,,Undefined,Units,Percentage (%),E12000008,13.52363725
+2018,,65 and over,England,South East,,,,Undefined,Units,Percentage (%),E12000008,6.286590997
+2018,,,England,South East,,,,Undefined,Units,Percentage (%),E12000008,12.92038359
+2018,,18 to 24,England,South West,,,,Undefined,Units,Percentage (%),E12000009,19.11739928
+2018,,25 to 34,England,South West,,,,Undefined,Units,Percentage (%),E12000009,21.85189295
+2018,,35 to 44,England,South West,,,,Undefined,Units,Percentage (%),E12000009,17.35251093
+2018,,45 to 54,England,South West,,,,Undefined,Units,Percentage (%),E12000009,15.48437046
+2018,,55 to 64,England,South West,,,,Undefined,Units,Percentage (%),E12000009,12.01032953
+2018,,65 and over,England,South West,,,,Undefined,Units,Percentage (%),E12000009,6.171582943
+2018,,,England,South West,,,,Undefined,Units,Percentage (%),E12000009,13.85623427
+2018,Male,18 to 24,England,North East,,,,Undefined,Units,Percentage (%),E12000001,19.66299361
+2018,Male,25 to 34,England,North East,,,,Undefined,Units,Percentage (%),E12000001,21.80617831
+2018,Male,35 to 44,England,North East,,,,Undefined,Units,Percentage (%),E12000001,19.21403397
+2018,Male,45 to 54,England,North East,,,,Undefined,Units,Percentage (%),E12000001,18.32544009
+2018,Male,55 to 64,England,North East,,,,Undefined,Units,Percentage (%),E12000001,15.63582687
+2018,Male,65 and over,England,North East,,,,Undefined,Units,Percentage (%),E12000001,9.502451377
+2018,Male,,England,North East,,,,Undefined,Units,Percentage (%),E12000001,16.71231239
+2018,Male,18 to 24,England,North West,,,,Undefined,Units,Percentage (%),E12000002,20.12021575
+2018,Male,25 to 34,England,North West,,,,Undefined,Units,Percentage (%),E12000002,21.5217655
+2018,Male,35 to 44,England,North West,,,,Undefined,Units,Percentage (%),E12000002,18.40659614
+2018,Male,45 to 54,England,North West,,,,Undefined,Units,Percentage (%),E12000002,17.70348818
+2018,Male,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,15.55988686
+2018,Male,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,8.351764568
+2018,Male,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.30654815
+2018,Male,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,20.88348163
+2018,Male,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,24.67977302
+2018,Male,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,22.46410249
+2018,Male,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,21.8088374
+2018,Male,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,15.18750466
+2018,Male,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,8.701887016
+2018,Male,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,18.29392292
+2018,Male,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,20.26828747
+2018,Male,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,23.76788732
+2018,Male,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,20.97910641
+2018,Male,45 to 54,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,19.24362015
+2018,Male,55 to 64,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,16.41731724
+2018,Male,65 and over,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,10.10457532
+2018,Male,,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.67729179
+2018,Male,18 to 24,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,16.72077669
+2018,Male,25 to 34,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,21.74532051
+2018,Male,35 to 44,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,16.89338719
+2018,Male,45 to 54,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,19.87054163
+2018,Male,55 to 64,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,17.27108043
+2018,Male,65 and over,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,9.644088227
+2018,Male,,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,16.67512913
+2018,Male,18 to 24,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,20.9157128
+2018,Male,25 to 34,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,22.42925543
+2018,Male,35 to 44,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,19.39414146
+2018,Male,45 to 54,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,20.17807802
+2018,Male,55 to 64,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,14.58392591
+2018,Male,65 and over,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,9.023863018
+2018,Male,,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,16.85518402
+2018,Male,18 to 24,England,London,,,,Undefined,Units,Percentage (%),E12000007,16.27858516
+2018,Male,25 to 34,England,London,,,,Undefined,Units,Percentage (%),E12000007,18.90054507
+2018,Male,35 to 44,England,London,,,,Undefined,Units,Percentage (%),E12000007,19.90401579
+2018,Male,45 to 54,England,London,,,,Undefined,Units,Percentage (%),E12000007,16.8875895
+2018,Male,55 to 64,England,London,,,,Undefined,Units,Percentage (%),E12000007,14.49310761
+2018,Male,65 and over,England,London,,,,Undefined,Units,Percentage (%),E12000007,8.559907419
+2018,Male,,England,London,,,,Undefined,Units,Percentage (%),E12000007,16.48670524
+2018,Male,18 to 24,England,South East,,,,Undefined,Units,Percentage (%),E12000008,19.9936386
+2018,Male,25 to 34,England,South East,,,,Undefined,Units,Percentage (%),E12000008,19.81756513
+2018,Male,35 to 44,England,South East,,,,Undefined,Units,Percentage (%),E12000008,16.16457363
+2018,Male,45 to 54,England,South East,,,,Undefined,Units,Percentage (%),E12000008,15.786289
+2018,Male,55 to 64,England,South East,,,,Undefined,Units,Percentage (%),E12000008,14.49286632
+2018,Male,65 and over,England,South East,,,,Undefined,Units,Percentage (%),E12000008,7.098086455
+2018,Male,,England,South East,,,,Undefined,Units,Percentage (%),E12000008,14.65650772
+2018,Male,18 to 24,England,South West,,,,Undefined,Units,Percentage (%),E12000009,19.75268407
+2018,Male,25 to 34,England,South West,,,,Undefined,Units,Percentage (%),E12000009,25.14092784
+2018,Male,35 to 44,England,South West,,,,Undefined,Units,Percentage (%),E12000009,19.3681233
+2018,Male,45 to 54,England,South West,,,,Undefined,Units,Percentage (%),E12000009,16.61721236
+2018,Male,55 to 64,England,South West,,,,Undefined,Units,Percentage (%),E12000009,13.01411215
+2018,Male,65 and over,England,South West,,,,Undefined,Units,Percentage (%),E12000009,6.584097418
+2018,Male,,England,South West,,,,Undefined,Units,Percentage (%),E12000009,15.3668884
+2018,Female,18 to 24,England,North East,,,,Undefined,Units,Percentage (%),E12000001,18.19800602
+2018,Female,25 to 34,England,North East,,,,Undefined,Units,Percentage (%),E12000001,22.0333039
+2018,Female,35 to 44,England,North East,,,,Undefined,Units,Percentage (%),E12000001,17.68296024
+2018,Female,45 to 54,England,North East,,,,Undefined,Units,Percentage (%),E12000001,14.79477686
+2018,Female,55 to 64,England,North East,,,,Undefined,Units,Percentage (%),E12000001,15.79787821
+2018,Female,65 and over,England,North East,,,,Undefined,Units,Percentage (%),E12000001,8.447821154
+2018,Female,,England,North East,,,,Undefined,Units,Percentage (%),E12000001,15.25347965
+2018,Female,18 to 24,England,North West,,,,Undefined,Units,Percentage (%),E12000002,13.978669
+2018,Female,25 to 34,England,North West,,,,Undefined,Units,Percentage (%),E12000002,16.67599181
+2018,Female,35 to 44,England,North West,,,,Undefined,Units,Percentage (%),E12000002,13.83838679
+2018,Female,45 to 54,England,North West,,,,Undefined,Units,Percentage (%),E12000002,14.74313008
+2018,Female,55 to 64,England,North West,,,,Undefined,Units,Percentage (%),E12000002,14.66474531
+2018,Female,65 and over,England,North West,,,,Undefined,Units,Percentage (%),E12000002,8.155242277
+2018,Female,,England,North West,,,,Undefined,Units,Percentage (%),E12000002,13.20959319
+2018,Female,18 to 24,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,18.46161365
+2018,Female,25 to 34,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,20.86118283
+2018,Female,35 to 44,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,16.70923783
+2018,Female,45 to 54,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,17.30087296
+2018,Female,55 to 64,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,14.14435537
+2018,Female,65 and over,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,8.139191176
+2018,Female,,England,Yorkshire and The Humber,,,,Undefined,Units,Percentage (%),E12000003,15.12379521
+2018,Female,18 to 24,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,15.69352781
+2018,Female,25 to 34,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.98797116
+2018,Female,35 to 44,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,15.46519846
+2018,Female,45 to 54,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,17.89064389
+2018,Female,55 to 64,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,13.4430324
+2018,Female,65 and over,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,8.154017441
+2018,Female,,England,East Midlands,,,,Undefined,Units,Percentage (%),E12000004,14.06135992
+2018,Female,18 to 24,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,11.91905011
+2018,Female,25 to 34,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,15.92620147
+2018,Female,35 to 44,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,12.52683934
+2018,Female,45 to 54,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,15.5494415
+2018,Female,55 to 64,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,12.45838889
+2018,Female,65 and over,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,7.745671889
+2018,Female,,England,West Midlands,,,,Undefined,Units,Percentage (%),E12000005,12.33809002
+2018,Female,18 to 24,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,12.90004305
+2018,Female,25 to 34,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,14.64012913
+2018,Female,35 to 44,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,13.14725517
+2018,Female,45 to 54,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,13.59412857
+2018,Female,55 to 64,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,12.60807517
+2018,Female,65 and over,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,5.231403146
+2018,Female,,England,East of England,,,,Undefined,Units,Percentage (%),E12000006,11.21321542
+2018,Female,18 to 24,England,London,,,,Undefined,Units,Percentage (%),E12000007,11.0830509
+2018,Female,25 to 34,England,London,,,,Undefined,Units,Percentage (%),E12000007,12.61760595
+2018,Female,35 to 44,England,London,,,,Undefined,Units,Percentage (%),E12000007,11.5672068
+2018,Female,45 to 54,England,London,,,,Undefined,Units,Percentage (%),E12000007,13.3047147
+2018,Female,55 to 64,England,London,,,,Undefined,Units,Percentage (%),E12000007,12.31918997
+2018,Female,65 and over,England,London,,,,Undefined,Units,Percentage (%),E12000007,6.825324384
+2018,Female,,England,London,,,,Undefined,Units,Percentage (%),E12000007,11.35712282
+2018,Female,18 to 24,England,South East,,,,Undefined,Units,Percentage (%),E12000008,15.26540322
+2018,Female,25 to 34,England,South East,,,,Undefined,Units,Percentage (%),E12000008,16.7529655
+2018,Female,35 to 44,England,South East,,,,Undefined,Units,Percentage (%),E12000008,11.16150761
+2018,Female,45 to 54,England,South East,,,,Undefined,Units,Percentage (%),E12000008,12.0298724
+2018,Female,55 to 64,England,South East,,,,Undefined,Units,Percentage (%),E12000008,12.58575769
+2018,Female,65 and over,England,South East,,,,Undefined,Units,Percentage (%),E12000008,5.597104244
+2018,Female,,England,South East,,,,Undefined,Units,Percentage (%),E12000008,11.27495056
+2018,Female,18 to 24,England,South West,,,,Undefined,Units,Percentage (%),E12000009,18.41668764
+2018,Female,25 to 34,England,South West,,,,Undefined,Units,Percentage (%),E12000009,18.49722368
+2018,Female,35 to 44,England,South West,,,,Undefined,Units,Percentage (%),E12000009,15.4325207
+2018,Female,45 to 54,England,South West,,,,Undefined,Units,Percentage (%),E12000009,14.39932007
+2018,Female,55 to 64,England,South West,,,,Undefined,Units,Percentage (%),E12000009,11.04908648
+2018,Female,65 and over,England,South West,,,,Undefined,Units,Percentage (%),E12000009,5.81862937
+2018,Female,,England,South West,,,,Undefined,Units,Percentage (%),E12000009,12.42259261
 2014,,,England,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),E92000001,12.4671
 2014,,,England,,Intermediate occupations,,,Undefined,Units,Percentage (%),E92000001,19.2044
 2014,,,England,,Routine and manual,,,Undefined,Units,Percentage (%),E92000001,29.6123
@@ -2396,7 +2396,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2016,,,England,,Routine and manual,,,Undefined,Units,Percentage (%),E92000001,26.5482
 2016,,,England,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),E92000001,20.2461
 2016,,,Wales,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),W92000004,11.0664
-2016,,,Wales,,Intermediate occupations,,,Undefined,Units,Percentage (%),W92000004,16.6379999999999
+2016,,,Wales,,Intermediate occupations,,,Undefined,Units,Percentage (%),W92000004,16.638
 2016,,,Wales,,Routine and manual,,,Undefined,Units,Percentage (%),W92000004,27.2094
 2016,,,Wales,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),W92000004,23.8204
 2016,,,Scotland,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),S92000003,10.4221
@@ -2424,33 +2424,33 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2017,,,Scotland,,Routine and manual,,,Undefined,Units,Percentage (%),S92000003,27.8185
 2017,,,Scotland,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),S92000003,23.1807
 2017,,,Northern Ireland,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),N92000002,9.8549
-2017,,,Northern Ireland,,Intermediate occupations,,,Undefined,Units,Percentage (%),N92000002,14.6759999999999
+2017,,,Northern Ireland,,Intermediate occupations,,,Undefined,Units,Percentage (%),N92000002,14.676
 2017,,,Northern Ireland,,Routine and manual,,,Undefined,Units,Percentage (%),N92000002,24.1282
 2017,,,Northern Ireland,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),N92000002,24.8163
 2017,,,,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),,10.1915
 2017,,,,,Intermediate occupations,,,Undefined,Units,Percentage (%),,16.2228
 2017,,,,,Routine and manual,,,Undefined,Units,Percentage (%),,25.9223
 2017,,,,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),,20.2382
-2018,,,England,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),E92000001,10.1714300702591
-2018,,,England,,Intermediate occupations,,,Undefined,Units,Percentage (%),E92000001,15.7521834435496
-2018,,,England,,Routine and manual,,,Undefined,Units,Percentage (%),E92000001,25.3972455801983
-2018,,,England,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),E92000001,18.5252195923753
-2018,,,Wales,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),W92000004,10.4249192428908
-2018,,,Wales,,Intermediate occupations,,,Undefined,Units,Percentage (%),W92000004,15.8189935611244
-2018,,,Wales,,Routine and manual,,,Undefined,Units,Percentage (%),W92000004,27.0981473971987
-2018,,,Wales,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),W92000004,23.7825755819729
-2018,,,Scotland,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),S92000003,10.0488056433615
-2018,,,Scotland,,Intermediate occupations,,,Undefined,Units,Percentage (%),S92000003,15.56384601192
-2018,,,Scotland,,Routine and manual,,,Undefined,Units,Percentage (%),S92000003,26.3685142515788
-2018,,,Scotland,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),S92000003,23.8786005857799
-2018,,,Northern Ireland,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),N92000002,9.71851805747895
-2018,,,Northern Ireland,,Intermediate occupations,,,Undefined,Units,Percentage (%),N92000002,13.1916053420551
-2018,,,Northern Ireland,,Routine and manual,,,Undefined,Units,Percentage (%),N92000002,22.4105232910826
-2018,,,Northern Ireland,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),N92000002,23.1775043936731
-2018,,,,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),,10.1621552240001
-2018,,,,,Intermediate occupations,,,Undefined,Units,Percentage (%),,15.6666466988464
-2018,,,,,Routine and manual,,,Undefined,Units,Percentage (%),,25.4849537171461
-2018,,,,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),,19.4643121401513
+2018,,,England,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),E92000001,10.17143007
+2018,,,England,,Intermediate occupations,,,Undefined,Units,Percentage (%),E92000001,15.75218344
+2018,,,England,,Routine and manual,,,Undefined,Units,Percentage (%),E92000001,25.39724558
+2018,,,England,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),E92000001,18.52521959
+2018,,,Wales,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),W92000004,10.42491924
+2018,,,Wales,,Intermediate occupations,,,Undefined,Units,Percentage (%),W92000004,15.81899356
+2018,,,Wales,,Routine and manual,,,Undefined,Units,Percentage (%),W92000004,27.0981474
+2018,,,Wales,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),W92000004,23.78257558
+2018,,,Scotland,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),S92000003,10.04880564
+2018,,,Scotland,,Intermediate occupations,,,Undefined,Units,Percentage (%),S92000003,15.56384601
+2018,,,Scotland,,Routine and manual,,,Undefined,Units,Percentage (%),S92000003,26.36851425
+2018,,,Scotland,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),S92000003,23.87860059
+2018,,,Northern Ireland,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),N92000002,9.718518057
+2018,,,Northern Ireland,,Intermediate occupations,,,Undefined,Units,Percentage (%),N92000002,13.19160534
+2018,,,Northern Ireland,,Routine and manual,,,Undefined,Units,Percentage (%),N92000002,22.41052329
+2018,,,Northern Ireland,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),N92000002,23.17750439
+2018,,,,,Managerial and professional occupations,,,Undefined,Units,Percentage (%),,10.16215522
+2018,,,,,Intermediate occupations,,,Undefined,Units,Percentage (%),,15.6666467
+2018,,,,,Routine and manual,,,Undefined,Units,Percentage (%),,25.48495372
+2018,,,,,"Never worked, long term unemployed, and not elsewhere classified",,,Undefined,Units,Percentage (%),,19.46431214
 2014,,,England,,,White,,Undefined,Units,Percentage (%),E92000001,18.4959
 2014,,,England,,,Mixed,,Undefined,Units,Percentage (%),E92000001,24.4186
 2014,,,England,,,Asian,,Undefined,Units,Percentage (%),E92000001,10.8242
@@ -2559,7 +2559,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2016,Female,,,,,Chinese,,Undefined,Units,Percentage (%),,4.0184
 2016,Female,,,,,Black,,Undefined,Units,Percentage (%),,7.6653
 2016,Female,,,,,Other,,Undefined,Units,Percentage (%),,7.9888
-2017,,,England,,,White,,Undefined,Units,Percentage (%),E92000001,15.3929999999999
+2017,,,England,,,White,,Undefined,Units,Percentage (%),E92000001,15.393
 2017,,,England,,,Mixed,,Undefined,Units,Percentage (%),E92000001,20.5047
 2017,,,England,,,Asian,,Undefined,Units,Percentage (%),E92000001,9.2671
 2017,,,England,,,Chinese,,Undefined,Units,Percentage (%),E92000001,8.6277
@@ -2595,42 +2595,42 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2017,Female,,,,,Chinese,,Undefined,Units,Percentage (%),,5.294
 2017,Female,,,,,Black,,Undefined,Units,Percentage (%),,6.8336
 2017,Female,,,,,Other,,Undefined,Units,Percentage (%),,10.7011
-2018,,,England,,,White,,Undefined,Units,Percentage (%),E92000001,14.950132052011
-2018,,,England,,,Mixed,,Undefined,Units,Percentage (%),E92000001,20.3890540767079
-2018,,,England,,,Asian,,Undefined,Units,Percentage (%),E92000001,9.0961381640261
-2018,,,England,,,Chinese,,Undefined,Units,Percentage (%),E92000001,7.71410592642333
-2018,,,England,,,Black,,Undefined,Units,Percentage (%),E92000001,11.0075288738224
-2018,,,England,,,Other,,Undefined,Units,Percentage (%),E92000001,15.4667048673939
-2018,,,,,,White,,Undefined,Units,Percentage (%),,15.1766974612173
-2018,,,,,,Mixed,,Undefined,Units,Percentage (%),,20.38535502654
-2018,,,,,,Asian,,Undefined,Units,Percentage (%),,9.15161431384076
-2018,,,,,,Chinese,,Undefined,Units,Percentage (%),,7.87698734358565
-2018,,,,,,Black,,Undefined,Units,Percentage (%),,10.8726492438824
-2018,,,,,,Other,,Undefined,Units,Percentage (%),,15.4365402872946
-2018,Male,,England,,,White,,Undefined,Units,Percentage (%),E92000001,16.3373900042519
-2018,Male,,England,,,Mixed,,Undefined,Units,Percentage (%),E92000001,23.0523811744951
-2018,Male,,England,,,Asian,,Undefined,Units,Percentage (%),E92000001,14.8357788605882
-2018,Male,,England,,,Chinese,,Undefined,Units,Percentage (%),E92000001,14.3315767157308
-2018,Male,,England,,,Black,,Undefined,Units,Percentage (%),E92000001,16.7356531957955
-2018,Male,,England,,,Other,,Undefined,Units,Percentage (%),E92000001,22.244938763901
-2018,Male,,,,,White,,Undefined,Units,Percentage (%),,16.4933096002071
-2018,Male,,,,,Mixed,,Undefined,Units,Percentage (%),,23.2366627742823
-2018,Male,,,,,Asian,,Undefined,Units,Percentage (%),,14.9801960110353
-2018,Male,,,,,Chinese,,Undefined,Units,Percentage (%),,14.0573125196815
-2018,Male,,,,,Black,,Undefined,Units,Percentage (%),,16.3621233931075
-2018,Male,,,,,Other,,Undefined,Units,Percentage (%),,22.4470932281942
-2018,Female,,England,,,White,,Undefined,Units,Percentage (%),E92000001,13.617458575359
-2018,Female,,England,,,Mixed,,Undefined,Units,Percentage (%),E92000001,17.9996317467756
-2018,Female,,England,,,Asian,,Undefined,Units,Percentage (%),E92000001,3.33292962485754
-2018,Female,,England,,,Chinese,,Undefined,Units,Percentage (%),E92000001,2.95499263066948
-2018,Female,,England,,,Black,,Undefined,Units,Percentage (%),E92000001,6.04012976498497
-2018,Female,,England,,,Other,,Undefined,Units,Percentage (%),E92000001,8.85251217340647
-2018,Female,,,,,White,,Undefined,Units,Percentage (%),,13.9187525351203
-2018,Female,,,,,Mixed,,Undefined,Units,Percentage (%),,17.8308493445861
-2018,Female,,,,,Asian,,Undefined,Units,Percentage (%),,3.31914513611808
-2018,Female,,,,,Chinese,,Undefined,Units,Percentage (%),,3.41929706157201
-2018,Female,,,,,Black,,Undefined,Units,Percentage (%),,6.08702279894436
-2018,Female,,,,,Other,,Undefined,Units,Percentage (%),,8.59152523792406
+2018,,,England,,,White,,Undefined,Units,Percentage (%),E92000001,14.95013205
+2018,,,England,,,Mixed,,Undefined,Units,Percentage (%),E92000001,20.38905408
+2018,,,England,,,Asian,,Undefined,Units,Percentage (%),E92000001,9.096138164
+2018,,,England,,,Chinese,,Undefined,Units,Percentage (%),E92000001,7.714105926
+2018,,,England,,,Black,,Undefined,Units,Percentage (%),E92000001,11.00752887
+2018,,,England,,,Other,,Undefined,Units,Percentage (%),E92000001,15.46670487
+2018,,,,,,White,,Undefined,Units,Percentage (%),,15.17669746
+2018,,,,,,Mixed,,Undefined,Units,Percentage (%),,20.38535503
+2018,,,,,,Asian,,Undefined,Units,Percentage (%),,9.151614314
+2018,,,,,,Chinese,,Undefined,Units,Percentage (%),,7.876987344
+2018,,,,,,Black,,Undefined,Units,Percentage (%),,10.87264924
+2018,,,,,,Other,,Undefined,Units,Percentage (%),,15.43654029
+2018,Male,,England,,,White,,Undefined,Units,Percentage (%),E92000001,16.33739
+2018,Male,,England,,,Mixed,,Undefined,Units,Percentage (%),E92000001,23.05238117
+2018,Male,,England,,,Asian,,Undefined,Units,Percentage (%),E92000001,14.83577886
+2018,Male,,England,,,Chinese,,Undefined,Units,Percentage (%),E92000001,14.33157672
+2018,Male,,England,,,Black,,Undefined,Units,Percentage (%),E92000001,16.7356532
+2018,Male,,England,,,Other,,Undefined,Units,Percentage (%),E92000001,22.24493876
+2018,Male,,,,,White,,Undefined,Units,Percentage (%),,16.4933096
+2018,Male,,,,,Mixed,,Undefined,Units,Percentage (%),,23.23666277
+2018,Male,,,,,Asian,,Undefined,Units,Percentage (%),,14.98019601
+2018,Male,,,,,Chinese,,Undefined,Units,Percentage (%),,14.05731252
+2018,Male,,,,,Black,,Undefined,Units,Percentage (%),,16.36212339
+2018,Male,,,,,Other,,Undefined,Units,Percentage (%),,22.44709323
+2018,Female,,England,,,White,,Undefined,Units,Percentage (%),E92000001,13.61745858
+2018,Female,,England,,,Mixed,,Undefined,Units,Percentage (%),E92000001,17.99963175
+2018,Female,,England,,,Asian,,Undefined,Units,Percentage (%),E92000001,3.332929625
+2018,Female,,England,,,Chinese,,Undefined,Units,Percentage (%),E92000001,2.954992631
+2018,Female,,England,,,Black,,Undefined,Units,Percentage (%),E92000001,6.040129765
+2018,Female,,England,,,Other,,Undefined,Units,Percentage (%),E92000001,8.852512173
+2018,Female,,,,,White,,Undefined,Units,Percentage (%),,13.91875254
+2018,Female,,,,,Mixed,,Undefined,Units,Percentage (%),,17.83084934
+2018,Female,,,,,Asian,,Undefined,Units,Percentage (%),,3.319145136
+2018,Female,,,,,Chinese,,Undefined,Units,Percentage (%),,3.419297062
+2018,Female,,,,,Black,,Undefined,Units,Percentage (%),,6.087022799
+2018,Female,,,,,Other,,Undefined,Units,Percentage (%),,8.591525238
 2014,,,England,,,,India,Undefined,Units,Percentage (%),E92000001,5.5685
 2014,,,England,,,,Republic of Ireland,Undefined,Units,Percentage (%),E92000001,16.5024
 2014,,,England,,,,Pakistan,Undefined,Units,Percentage (%),E92000001,13.4718
@@ -2645,7 +2645,7 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2014,,,,,,,Republic of Ireland,Undefined,Units,Percentage (%),,17.227
 2014,,,,,,,Pakistan,Undefined,Units,Percentage (%),,13.4628
 2014,,,,,,,Poland,Undefined,Units,Percentage (%),,32.5926
-2014,,,,,,,England,Undefined,Units,Percentage (%),,18.0909999999999
+2014,,,,,,,England,Undefined,Units,Percentage (%),,18.091
 2014,,,,,,,Northern Ireland,Undefined,Units,Percentage (%),,17.7073
 2014,,,,,,,Scotland,Undefined,Units,Percentage (%),,20.6066
 2014,,,,,,,Wales,Undefined,Units,Percentage (%),,18.6466
@@ -2709,25 +2709,25 @@ Year,Sex,Age,Country,Region,Socio-economic classification,Ethnicity,Country of b
 2017,,,,,,,Northern Ireland,Undefined,Units,Percentage (%),,15.5232
 2017,,,,,,,Scotland,Undefined,Units,Percentage (%),,16.7959
 2017,,,,,,,Wales,Undefined,Units,Percentage (%),,15.6846
-2017,,,,,,,UK (but do not know the country),Undefined,Units,Percentage (%),,12.8809999999999
+2017,,,,,,,UK (but do not know the country),Undefined,Units,Percentage (%),,12.881
 2017,,,,,,,Other,Undefined,Units,Percentage (%),,15.4797
-2018,,,England,,,,India,Undefined,Units,Percentage (%),E92000001,5.23223159036992
-2018,,,England,,,,Republic of Ireland,Undefined,Units,Percentage (%),E92000001,11.5875105617889
-2018,,,England,,,,Pakistan,Undefined,Units,Percentage (%),E92000001,10.6345904316408
-2018,,,England,,,,Poland,Undefined,Units,Percentage (%),E92000001,24.7731800656452
-2018,,,England,,,,England,Undefined,Units,Percentage (%),E92000001,14.6097534377649
-2018,,,England,,,,Northern Ireland,Undefined,Units,Percentage (%),E92000001,11.155439703663
-2018,,,England,,,,Scotland,Undefined,Units,Percentage (%),E92000001,13.5807427213624
-2018,,,England,,,,Wales,Undefined,Units,Percentage (%),E92000001,11.3357487580848
-2018,,,England,,,,UK (but do not know the country),Undefined,Units,Percentage (%),E92000001,10.3807128609834
-2018,,,England,,,,Other,Undefined,Units,Percentage (%),E92000001,14.3957516813521
-2018,,,,,,,India,Undefined,Units,Percentage (%),,5.3048070979237
-2018,,,,,,,Republic of Ireland,Undefined,Units,Percentage (%),,12.3122096558871
-2018,,,,,,,Pakistan,Undefined,Units,Percentage (%),,10.6753760176172
-2018,,,,,,,Poland,Undefined,Units,Percentage (%),,25.9431401869724
-2018,,,,,,,England,Undefined,Units,Percentage (%),,14.5552564905818
-2018,,,,,,,Northern Ireland,Undefined,Units,Percentage (%),,14.1106438314671
-2018,,,,,,,Scotland,Undefined,Units,Percentage (%),,16.5288713397709
-2018,,,,,,,Wales,Undefined,Units,Percentage (%),,15.4112469101558
-2018,,,,,,,UK (but do not know the country),Undefined,Units,Percentage (%),,9.71271808149929
-2018,,,,,,,Other,Undefined,Units,Percentage (%),,14.5598581147056
+2018,,,England,,,,India,Undefined,Units,Percentage (%),E92000001,5.23223159
+2018,,,England,,,,Republic of Ireland,Undefined,Units,Percentage (%),E92000001,11.58751056
+2018,,,England,,,,Pakistan,Undefined,Units,Percentage (%),E92000001,10.63459043
+2018,,,England,,,,Poland,Undefined,Units,Percentage (%),E92000001,24.77318007
+2018,,,England,,,,England,Undefined,Units,Percentage (%),E92000001,14.60975344
+2018,,,England,,,,Northern Ireland,Undefined,Units,Percentage (%),E92000001,11.1554397
+2018,,,England,,,,Scotland,Undefined,Units,Percentage (%),E92000001,13.58074272
+2018,,,England,,,,Wales,Undefined,Units,Percentage (%),E92000001,11.33574876
+2018,,,England,,,,UK (but do not know the country),Undefined,Units,Percentage (%),E92000001,10.38071286
+2018,,,England,,,,Other,Undefined,Units,Percentage (%),E92000001,14.39575168
+2018,,,,,,,India,Undefined,Units,Percentage (%),,5.304807098
+2018,,,,,,,Republic of Ireland,Undefined,Units,Percentage (%),,12.31220966
+2018,,,,,,,Pakistan,Undefined,Units,Percentage (%),,10.67537602
+2018,,,,,,,Poland,Undefined,Units,Percentage (%),,25.94314019
+2018,,,,,,,England,Undefined,Units,Percentage (%),,14.55525649
+2018,,,,,,,Northern Ireland,Undefined,Units,Percentage (%),,14.11064383
+2018,,,,,,,Scotland,Undefined,Units,Percentage (%),,16.52887134
+2018,,,,,,,Wales,Undefined,Units,Percentage (%),,15.41124691
+2018,,,,,,,UK (but do not know the country),Undefined,Units,Percentage (%),,9.712718081
+2018,,,,,,,Other,Undefined,Units,Percentage (%),,14.55985811
