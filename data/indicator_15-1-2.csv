@@ -1,4 +1,40 @@
 Year,Country,Region,Ecosystem type,Units,Unit measure,Unit multiplier,GeoCode,Value
+1999,,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),,3147471.0
+1999,,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),,1928044.0
+1999,,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),,61.2569265928105
+2003,,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),,3147471.0
+2003,,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),,2265243.0
+2003,,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),,71.9702580262058
+2007,,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),,3147471.0
+2007,,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),,2302763.0
+2007,,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),,73.1623261977632
+2011,,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),,3147471.0
+2011,,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),,2419184.0
+2011,,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),,76.8612006274244
+2015,,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),,3147471.0
+2015,,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),,2419451.0
+2015,,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),,76.8696836285386
+2019,,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),,3147471.0
+2019,,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),,2419935.0
+2019,,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),,76.8850610537794
+1999,England,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E92000001,1276154.0
+1999,England,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E92000001,974965.0
+1999,England,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E92000001,76.3986948283671
+2003,England,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E92000001,1276154.0
+2003,England,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E92000001,1008938.0
+2003,England,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E92000001,79.0608343507132
+2007,England,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E92000001,1276154.0
+2007,England,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E92000001,1014857.0
+2007,England,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E92000001,79.5246498463352
+2011,England,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E92000001,1276154.0
+2011,England,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E92000001,1017250.0
+2011,England,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E92000001,79.7121663999799
+2015,England,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E92000001,1276154.0
+2015,England,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E92000001,1017253.0
+2015,England,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E92000001,79.7124014813259
+2019,England,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E92000001,1276154.0
+2019,England,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E92000001,1017736.0
+2019,England,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E92000001,79.750249578029
 1999,England,East Midlands,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E12000004,62373.0
 1999,England,East Midlands,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E12000004,28787.0
 1999,England,East Midlands,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E12000004,46.1529828611739
@@ -2663,21 +2699,3 @@ Year,Country,Region,Ecosystem type,Units,Unit measure,Unit multiplier,GeoCode,Va
 2019,Northern Ireland,,Built-up areas and gardens,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),N92000002,624.0
 2019,Northern Ireland,,Built-up areas and gardens,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),N92000002,274.0
 2019,Northern Ireland,,Built-up areas and gardens,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),N92000002,44.0
-1999,England,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E92000001,1276154.0
-1999,England,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E92000001,628.493022075272
-1999,England,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E92000001,974965.0
-2003,England,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E92000001,1276154.0
-2003,England,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E92000001,676.23401210129
-2003,England,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E92000001,1008938.0
-2007,England,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E92000001,1276154.0
-2007,England,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E92000001,687.904652850385
-2007,England,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E92000001,1014857.0
-2011,England,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E92000001,1276154.0
-2011,England,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E92000001,690.571898567947
-2011,England,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E92000001,1017250.0
-2015,England,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E92000001,1276154.0
-2015,England,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E92000001,690.574341611674
-2015,England,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E92000001,1017253.0
-2019,England,,,Area of Key Biodiversity Areas (ha),Hectares (ha),Area of Key Biodiversity Areas (ha),E92000001,1276154.0
-2019,England,,,Area of Key Biodiversity Areas within protected areas (%),Percentage (%),Area of Key Biodiversity Areas within protected areas (%),E92000001,691.081773771326
-2019,England,,,Area of Key Biodiversity Areas within protected areas (ha),Hectares (ha),Area of Key Biodiversity Areas within protected areas (ha),E92000001,1017736.0
