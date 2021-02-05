@@ -1,4 +1,4 @@
-Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability status,Country,Region,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+Year,Series,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability status,Country,Region,Observation status,Unit multiplier,Unit measure,GeoCode,Value
 1997,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,,Undefined,Units,GBP (£),E92000001,10.19
 1997,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,,Undefined,Units,GBP (£),E92000001,7.06
 1997,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,,Undefined,Units,GBP (£),E92000001,8.14
@@ -41,7 +41,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 1997,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,Wales,,Undefined,Units,GBP (£),W92000004,5.55
 1997,1. Annual survey of hours and earnings (ASHE),Men,,,,,,Wales,,Undefined,Units,GBP (£),W92000004,8.76
 1997,1. Annual survey of hours and earnings (ASHE),Women,,,,,,Wales,,Undefined,Units,GBP (£),W92000004,6.84
-1997,1. Annual survey of hours and earnings (ASHE),,,,,,,Wales,,Undefined,Units,GBP (£),W92000004,8.0
+1997,1. Annual survey of hours and earnings (ASHE),,,,,,,Wales,,Undefined,Units,GBP (£),W92000004,8
 1997,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,Wales,,Undefined,Units,GBP (£),W92000004,8.34
 1997,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,Wales,,Undefined,Units,GBP (£),W92000004,5.73
 1998,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,,Undefined,Units,GBP (£),E92000001,10.77
@@ -51,7 +51,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 1998,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,,Undefined,Units,GBP (£),E92000001,10.65
 1998,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,,Undefined,Units,GBP (£),E92000001,7.93
 1998,1. Annual survey of hours and earnings (ASHE),,,,,,,England,,Undefined,Units,GBP (£),E92000001,9.54
-1998,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,,Undefined,Units,GBP (£),E92000001,10.0
+1998,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,,Undefined,Units,GBP (£),E92000001,10
 1998,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,,Undefined,Units,GBP (£),E92000001,6.38
 1998,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,9.13
 1998,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,8.35
@@ -100,7 +100,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 1999,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,,Undefined,Units,GBP (£),E92000001,6.67
 1999,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,9.41
 1999,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,6.62
-1999,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,8.0
+1999,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,8
 1999,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,5.95
 1999,1. Annual survey of hours and earnings (ASHE),Men,,,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,9.3
 1999,1. Annual survey of hours and earnings (ASHE),Women,,,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,7.47
@@ -142,7 +142,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2000,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,,Undefined,Units,GBP (£),E92000001,8.7
 2000,1. Annual survey of hours and earnings (ASHE),,,,,,,England,,Undefined,Units,GBP (£),E92000001,10.41
 2000,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,,Undefined,Units,GBP (£),E92000001,10.91
-2000,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,,Undefined,Units,GBP (£),E92000001,7.0
+2000,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,,Undefined,Units,GBP (£),E92000001,7
 2000,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,9.76
 2000,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,6.13
 2000,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,8.3
@@ -210,7 +210,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2001,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,,,Undefined,Units,GBP (£),,7.72
 2001,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,,,Undefined,Units,GBP (£),,9.79
 2001,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,,,Undefined,Units,GBP (£),,7.03
-2001,1. Annual survey of hours and earnings (ASHE),Men,,,,,,,,Undefined,Units,GBP (£),,12.0
+2001,1. Annual survey of hours and earnings (ASHE),Men,,,,,,,,Undefined,Units,GBP (£),,12
 2001,1. Annual survey of hours and earnings (ASHE),Women,,,,,,,,Undefined,Units,GBP (£),,9.06
 2001,1. Annual survey of hours and earnings (ASHE),,,,,,,,,Undefined,Units,GBP (£),,10.78
 2001,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,,,Undefined,Units,GBP (£),,11.33
@@ -247,7 +247,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2002,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,9.62
 2002,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,7.45
 2002,1. Annual survey of hours and earnings (ASHE),Men,,,,,,Scotland,,Undefined,Units,GBP (£),S92000003,11.74
-2002,1. Annual survey of hours and earnings (ASHE),Women,,,,,,Scotland,,Undefined,Units,GBP (£),S92000003,9.0
+2002,1. Annual survey of hours and earnings (ASHE),Women,,,,,,Scotland,,Undefined,Units,GBP (£),S92000003,9
 2002,1. Annual survey of hours and earnings (ASHE),,,,,,,Scotland,,Undefined,Units,GBP (£),S92000003,10.49
 2002,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,11.01
 2002,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,7.55
@@ -310,7 +310,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2003,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,Wales,,Undefined,Units,GBP (£),W92000004,9.68
 2003,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,Wales,,Undefined,Units,GBP (£),W92000004,7.31
 2003,1. Annual survey of hours and earnings (ASHE),Men,,,,,,Wales,,Undefined,Units,GBP (£),W92000004,11.05
-2003,1. Annual survey of hours and earnings (ASHE),Women,,,,,,Wales,,Undefined,Units,GBP (£),W92000004,9.0
+2003,1. Annual survey of hours and earnings (ASHE),Women,,,,,,Wales,,Undefined,Units,GBP (£),W92000004,9
 2003,1. Annual survey of hours and earnings (ASHE),,,,,,,Wales,,Undefined,Units,GBP (£),W92000004,10.19
 2003,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,Wales,,Undefined,Units,GBP (£),W92000004,10.67
 2003,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,Wales,,Undefined,Units,GBP (£),W92000004,7.35
@@ -347,7 +347,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2004,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,,,Undefined,Units,GBP (£),,8.13
 2004,1. Annual survey of hours and earnings (ASHE),Men,,,,,,,,Undefined,Units,GBP (£),,13.25
 2004,1. Annual survey of hours and earnings (ASHE),Women,,,,,,,,Undefined,Units,GBP (£),,10.3
-2004,1. Annual survey of hours and earnings (ASHE),,,,,,,,,Undefined,Units,GBP (£),,12.0
+2004,1. Annual survey of hours and earnings (ASHE),,,,,,,,,Undefined,Units,GBP (£),,12
 2004,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,,,Undefined,Units,GBP (£),,12.6
 2004,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,,,Undefined,Units,GBP (£),,8.32
 2004,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,Wales,,Undefined,Units,GBP (£),W92000004,11.65
@@ -430,7 +430,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2006,1. Annual survey of hours and earnings (ASHE),Women,,,,,,Scotland,,Undefined,Units,GBP (£),S92000003,10.9
 2006,1. Annual survey of hours and earnings (ASHE),,,,,,,Scotland,,Undefined,Units,GBP (£),S92000003,12.16
 2006,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,12.73
-2006,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,9.0
+2006,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,9
 2006,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,,,Undefined,Units,GBP (£),,14.5
 2006,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,,,Undefined,Units,GBP (£),,10.47
 2006,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,,,Undefined,Units,GBP (£),,11.98
@@ -511,7 +511,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2008,1. Annual survey of hours and earnings (ASHE),Women,,,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,11.33
 2008,1. Annual survey of hours and earnings (ASHE),,,,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,12.06
 2008,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,12.23
-2008,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,11.0
+2008,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,11
 2008,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,14.42
 2008,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,9.4
 2008,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,12.55
@@ -555,7 +555,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2009,1. Annual survey of hours and earnings (ASHE),Men,,,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,13.31
 2009,1. Annual survey of hours and earnings (ASHE),Women,,,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,11.73
 2009,1. Annual survey of hours and earnings (ASHE),,,,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,12.59
-2009,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,13.0
+2009,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,13
 2009,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,Northern Ireland,,Undefined,Units,GBP (£),N92000002,10.25
 2009,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,15.01
 2009,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,10.07
@@ -606,7 +606,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2010,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,10.22
 2010,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,13.48
 2010,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,10.11
-2010,1. Annual survey of hours and earnings (ASHE),Men,,,,,,Scotland,,Undefined,Units,GBP (£),S92000003,15.0
+2010,1. Annual survey of hours and earnings (ASHE),Men,,,,,,Scotland,,Undefined,Units,GBP (£),S92000003,15
 2010,1. Annual survey of hours and earnings (ASHE),Women,,,,,,Scotland,,Undefined,Units,GBP (£),S92000003,12.54
 2010,1. Annual survey of hours and earnings (ASHE),,,,,,,Scotland,,Undefined,Units,GBP (£),S92000003,13.87
 2010,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,Scotland,,Undefined,Units,GBP (£),S92000003,14.59
@@ -1023,7 +1023,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),Men,,,,,,,,Undefined,Units,GBP (£),,18.6
 2019,1. Annual survey of hours and earnings (ASHE),Women,,,,,,,,Undefined,Units,GBP (£),,15.57
 2019,1. Annual survey of hours and earnings (ASHE),,,,,,,,,Undefined,Units,GBP (£),,17.25
-2019,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,,,Undefined,Units,GBP (£),,18.0
+2019,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,,,Undefined,Units,GBP (£),,18
 2019,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,,,Undefined,Units,GBP (£),,13.14
 2019,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,Wales,,Undefined,Units,GBP (£),W92000004,16.14
 2019,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,Wales,,Undefined,Units,GBP (£),W92000004,12.55
@@ -1057,7 +1057,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 1997,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,10.51
 1997,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,London,Undefined,Units,GBP (£),E12000007,7.54
 1997,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,London,Undefined,Units,GBP (£),E12000007,13.64
-1997,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,London,Undefined,Units,GBP (£),E12000007,10.0
+1997,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,London,Undefined,Units,GBP (£),E12000007,10
 1997,1. Annual survey of hours and earnings (ASHE),,,,,,,England,London,Undefined,Units,GBP (£),E12000007,12.09
 1997,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,12.53
 1997,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,London,Undefined,Units,GBP (£),E12000007,7.82
@@ -1135,7 +1135,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 1998,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,East Midlands,Undefined,Units,GBP (£),E12000004,5.8
 1998,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,14.56
 1998,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,London,Undefined,Units,GBP (£),E12000007,8.69
-1998,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,11.0
+1998,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,11
 1998,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,London,Undefined,Units,GBP (£),E12000007,7.96
 1998,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,London,Undefined,Units,GBP (£),E12000007,14.36
 1998,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,London,Undefined,Units,GBP (£),E12000007,10.47
@@ -1252,7 +1252,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 1999,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,South East,Undefined,Units,GBP (£),E12000008,6.96
 1999,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,South West,Undefined,Units,GBP (£),E12000009,10.03
 1999,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,South West,Undefined,Units,GBP (£),E12000009,7.06
-1999,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,South West,Undefined,Units,GBP (£),E12000009,8.0
+1999,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,South West,Undefined,Units,GBP (£),E12000009,8
 1999,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,South West,Undefined,Units,GBP (£),E12000009,6.26
 1999,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,South West,Undefined,Units,GBP (£),E12000009,9.91
 1999,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,South West,Undefined,Units,GBP (£),E12000009,7.5
@@ -1445,7 +1445,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2002,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,7.26
 2002,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,East of England,Undefined,Units,GBP (£),E12000006,12.25
 2002,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,East of England,Undefined,Units,GBP (£),E12000006,9.15
-2002,1. Annual survey of hours and earnings (ASHE),,,,,,,England,East of England,Undefined,Units,GBP (£),E12000006,11.0
+2002,1. Annual survey of hours and earnings (ASHE),,,,,,,England,East of England,Undefined,Units,GBP (£),E12000006,11
 2002,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,11.61
 2002,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,7.36
 2002,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,East Midlands,Undefined,Units,GBP (£),E12000004,11.15
@@ -1462,7 +1462,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2002,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,13.9
 2002,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,London,Undefined,Units,GBP (£),E12000007,9.28
 2002,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,London,Undefined,Units,GBP (£),E12000007,17.98
-2002,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,London,Undefined,Units,GBP (£),E12000007,13.0
+2002,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,London,Undefined,Units,GBP (£),E12000007,13
 2002,1. Annual survey of hours and earnings (ASHE),,,,,,,England,London,Undefined,Units,GBP (£),E12000007,15.87
 2002,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,16.59
 2002,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,London,Undefined,Units,GBP (£),E12000007,9.99
@@ -1707,7 +1707,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2005,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,London,Undefined,Units,GBP (£),E12000007,19.48
 2005,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,London,Undefined,Units,GBP (£),E12000007,14.5
 2005,1. Annual survey of hours and earnings (ASHE),,,,,,,England,London,Undefined,Units,GBP (£),E12000007,17.32
-2005,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,18.0
+2005,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,18
 2005,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,London,Undefined,Units,GBP (£),E12000007,11.83
 2005,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,12.2
 2005,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,8.17
@@ -1720,7 +1720,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2005,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,7.67
 2005,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,12.88
 2005,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,8.72
-2005,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,11.0
+2005,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,11
 2005,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,8.35
 2005,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,North West,Undefined,Units,GBP (£),E12000002,12.66
 2005,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,North West,Undefined,Units,GBP (£),E12000002,10.27
@@ -1943,7 +1943,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2008,1. Annual survey of hours and earnings (ASHE),,,,,,,England,East Midlands,Undefined,Units,GBP (£),E12000004,12.54
 2008,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,East Midlands,Undefined,Units,GBP (£),E12000004,13.11
 2008,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,East Midlands,Undefined,Units,GBP (£),E12000004,8.96
-2008,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,22.0
+2008,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,22
 2008,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,London,Undefined,Units,GBP (£),E12000007,14.04
 2008,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,16.67
 2008,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,London,Undefined,Units,GBP (£),E12000007,12.47
@@ -1958,9 +1958,9 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2008,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,8.73
 2008,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,North East,Undefined,Units,GBP (£),E12000001,12.98
 2008,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,North East,Undefined,Units,GBP (£),E12000001,10.74
-2008,1. Annual survey of hours and earnings (ASHE),,,,,,,England,North East,Undefined,Units,GBP (£),E12000001,12.0
+2008,1. Annual survey of hours and earnings (ASHE),,,,,,,England,North East,Undefined,Units,GBP (£),E12000001,12
 2008,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,12.53
-2008,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,9.0
+2008,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,9
 2008,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,14.18
 2008,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,10.59
 2008,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,12.23
@@ -2070,7 +2070,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2009,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,South West,Undefined,Units,GBP (£),E12000009,13.69
 2009,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,South West,Undefined,Units,GBP (£),E12000009,10.66
 2009,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,14.59
-2009,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,11.0
+2009,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,11
 2009,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,12.32
 2009,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,9.82
 2009,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,14.39
@@ -2117,7 +2117,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2010,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,13.99
 2010,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,11.08
 2010,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,12.47
-2010,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,10.0
+2010,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,10
 2010,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,North East,Undefined,Units,GBP (£),E12000001,13.8
 2010,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,North East,Undefined,Units,GBP (£),E12000001,11.79
 2010,1. Annual survey of hours and earnings (ASHE),,,,,,,England,North East,Undefined,Units,GBP (£),E12000001,12.88
@@ -2170,7 +2170,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2010,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,Yorkshire and the Humber,Undefined,Units,GBP (£),E12000003,10.14
 2011,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,15.34
 2011,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,11.44
-2011,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,13.0
+2011,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,13
 2011,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,10.57
 2011,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,East of England,Undefined,Units,GBP (£),E12000006,15.09
 2011,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,East of England,Undefined,Units,GBP (£),E12000006,12.27
@@ -2196,7 +2196,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2011,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,London,Undefined,Units,GBP (£),E12000007,21.4
 2011,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,London,Undefined,Units,GBP (£),E12000007,13.77
 2011,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,14.12
-2011,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,13.0
+2011,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,13
 2011,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,12.78
 2011,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,North East,Undefined,Units,GBP (£),E12000001,10.07
 2011,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,North East,Undefined,Units,GBP (£),E12000001,14.04
@@ -2211,7 +2211,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2011,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,North West,Undefined,Units,GBP (£),E12000002,14.45
 2011,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,North West,Undefined,Units,GBP (£),E12000002,12.15
 2011,1. Annual survey of hours and earnings (ASHE),,,,,,,England,North West,Undefined,Units,GBP (£),E12000002,13.42
-2011,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,14.0
+2011,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,14
 2011,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,10.48
 2011,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,South East,Undefined,Units,GBP (£),E12000008,17.35
 2011,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,South East,Undefined,Units,GBP (£),E12000008,12.12
@@ -2414,7 +2414,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2014,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,15.86
 2014,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,11.7
 2014,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,13.39
-2014,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,11.0
+2014,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,East of England,Undefined,Units,GBP (£),E12000006,11
 2014,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,East of England,Undefined,Units,GBP (£),E12000006,15.57
 2014,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,East of England,Undefined,Units,GBP (£),E12000006,12.68
 2014,1. Annual survey of hours and earnings (ASHE),,,,,,,England,East of England,Undefined,Units,GBP (£),E12000006,14.32
@@ -2451,7 +2451,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2014,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,11.13
 2014,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,13.51
 2014,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,10.61
-2014,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,North West,Undefined,Units,GBP (£),E12000002,15.0
+2014,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,North West,Undefined,Units,GBP (£),E12000002,15
 2014,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,North West,Undefined,Units,GBP (£),E12000002,12.72
 2014,1. Annual survey of hours and earnings (ASHE),,,,,,,England,North West,Undefined,Units,GBP (£),E12000002,13.98
 2014,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,14.6
@@ -2782,7 +2782,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2018,1. Annual survey of hours and earnings (ASHE),,,Part Time,,,,England,North West,Undefined,Units,GBP (£),E12000002,11.95
 2018,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,,,,England,South East,Undefined,Units,GBP (£),E12000008,18.94
 2018,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,South East,Undefined,Units,GBP (£),E12000008,13.99
-2018,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,South East,Undefined,Units,GBP (£),E12000008,16.0
+2018,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,South East,Undefined,Units,GBP (£),E12000008,16
 2018,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,South East,Undefined,Units,GBP (£),E12000008,12.65
 2018,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,South East,Undefined,Units,GBP (£),E12000008,18.59
 2018,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,South East,Undefined,Units,GBP (£),E12000008,15.11
@@ -2883,7 +2883,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,13.66
 2019,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,15.19
 2019,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,12.45
-2019,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,17.0
+2019,1. Annual survey of hours and earnings (ASHE),Men,,,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,17
 2019,1. Annual survey of hours and earnings (ASHE),Women,,,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,14.45
 2019,1. Annual survey of hours and earnings (ASHE),,,,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,15.9
 2019,1. Annual survey of hours and earnings (ASHE),,,Full Time,,,,England,West Midlands,Undefined,Units,GBP (£),E12000005,16.48
@@ -3091,7 +3091,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,22 to 29,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,13.05
 2011,1. Annual survey of hours and earnings (ASHE),,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,11.96
 2012,1. Annual survey of hours and earnings (ASHE),,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,11.98
-2013,1. Annual survey of hours and earnings (ASHE),,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,12.0
+2013,1. Annual survey of hours and earnings (ASHE),,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,12
 2014,1. Annual survey of hours and earnings (ASHE),,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,12.02
 2015,1. Annual survey of hours and earnings (ASHE),,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,12.17
 2016,1. Annual survey of hours and earnings (ASHE),,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,12.5
@@ -3147,7 +3147,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2012,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,13.02
 2013,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,12.92
 2014,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,12.74
-2015,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,13.0
+2015,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,13
 2016,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,13.5
 2017,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,13.73
 2018,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,14.76
@@ -3361,7 +3361,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),,,Part Time,60 and over,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,11.95
 2011,1. Annual survey of hours and earnings (ASHE),Women,,,60 and over,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,10.67
 2012,1. Annual survey of hours and earnings (ASHE),Women,,,60 and over,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,10.82
-2013,1. Annual survey of hours and earnings (ASHE),Women,,,60 and over,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,11.0
+2013,1. Annual survey of hours and earnings (ASHE),Women,,,60 and over,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,11
 2014,1. Annual survey of hours and earnings (ASHE),Women,,,60 and over,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,11.07
 2015,1. Annual survey of hours and earnings (ASHE),Women,,,60 and over,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,11.27
 2016,1. Annual survey of hours and earnings (ASHE),Women,,,60 and over,Administrative and secretarial occupations,,,,Undefined,Units,GBP (£),,11.38
@@ -3570,7 +3570,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2012,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,22 to 29,All,,,,Undefined,Units,GBP (£),,8.72
 2013,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,22 to 29,All,,,,Undefined,Units,GBP (£),,8.83
 2014,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,22 to 29,All,,,,Undefined,Units,GBP (£),,9.05
-2015,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,22 to 29,All,,,,Undefined,Units,GBP (£),,9.0
+2015,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,22 to 29,All,,,,Undefined,Units,GBP (£),,9
 2016,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,22 to 29,All,,,,Undefined,Units,GBP (£),,9.68
 2017,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,22 to 29,All,,,,Undefined,Units,GBP (£),,9.98
 2018,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,22 to 29,All,,,,Undefined,Units,GBP (£),,11.01
@@ -3698,7 +3698,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2014,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,40 to 49,All,,,,Undefined,Units,GBP (£),,15.86
 2015,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,40 to 49,All,,,,Undefined,Units,GBP (£),,16.08
 2016,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,40 to 49,All,,,,Undefined,Units,GBP (£),,16.49
-2017,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,40 to 49,All,,,,Undefined,Units,GBP (£),,17.0
+2017,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,40 to 49,All,,,,Undefined,Units,GBP (£),,17
 2018,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,40 to 49,All,,,,Undefined,Units,GBP (£),,17.83
 2019,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,40 to 49,All,,,,Undefined,Units,GBP (£),,18.65
 2011,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,40 to 49,All,,,,Undefined,Units,GBP (£),,11.34
@@ -3894,7 +3894,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2012,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,60 and over,All,,,,Undefined,Units,GBP (£),,13.37
 2013,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,60 and over,All,,,,Undefined,Units,GBP (£),,13.85
 2014,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,60 and over,All,,,,Undefined,Units,GBP (£),,14.01
-2015,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,60 and over,All,,,,Undefined,Units,GBP (£),,14.0
+2015,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,60 and over,All,,,,Undefined,Units,GBP (£),,14
 2016,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,60 and over,All,,,,Undefined,Units,GBP (£),,14.65
 2017,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,60 and over,All,,,,Undefined,Units,GBP (£),,14.7
 2018,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,60 and over,All,,,,Undefined,Units,GBP (£),,15.38
@@ -3916,7 +3916,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2016,1. Annual survey of hours and earnings (ASHE),,,Full Time,,All,,,,Undefined,Units,GBP (£),,16.45
 2017,1. Annual survey of hours and earnings (ASHE),,,Full Time,,All,,,,Undefined,Units,GBP (£),,16.91
 2018,1. Annual survey of hours and earnings (ASHE),,,Full Time,,All,,,,Undefined,Units,GBP (£),,17.48
-2019,1. Annual survey of hours and earnings (ASHE),,,Full Time,,All,,,,Undefined,Units,GBP (£),,18.0
+2019,1. Annual survey of hours and earnings (ASHE),,,Full Time,,All,,,,Undefined,Units,GBP (£),,18
 2011,1. Annual survey of hours and earnings (ASHE),,,Part Time,,All,,,,Undefined,Units,GBP (£),,10.9
 2012,1. Annual survey of hours and earnings (ASHE),,,Part Time,,All,,,,Undefined,Units,GBP (£),,10.89
 2013,1. Annual survey of hours and earnings (ASHE),,,Part Time,,All,,,,Undefined,Units,GBP (£),,11.1
@@ -3984,7 +3984,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2012,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,10.53
 2013,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,9.67
 2014,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,9.69
-2015,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,10.0
+2015,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,10
 2016,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,10.1
 2017,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,10.76
 2018,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,11.11
@@ -4014,7 +4014,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2015,1. Annual survey of hours and earnings (ASHE),Women,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,9.47
 2016,1. Annual survey of hours and earnings (ASHE),Women,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,9.52
 2017,1. Annual survey of hours and earnings (ASHE),Women,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,9.71
-2018,1. Annual survey of hours and earnings (ASHE),Women,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,10.0
+2018,1. Annual survey of hours and earnings (ASHE),Women,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,10
 2019,1. Annual survey of hours and earnings (ASHE),Women,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,10.66
 2011,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,8.3
 2012,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,9.22
@@ -4043,7 +4043,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2017,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,11.32
 2018,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,11.73
 2019,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,11.53
-2011,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,9.0
+2011,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,9
 2012,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,11.81
 2013,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,10.46
 2014,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,18 to 21,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,10.11
@@ -4072,7 +4072,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),,,,22 to 29,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,14.84
 2011,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,13.25
 2012,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,13.7
-2013,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,14.0
+2013,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,14
 2014,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,13.99
 2015,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,13.95
 2016,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,14.95
@@ -4185,13 +4185,13 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2015,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,16.95
 2016,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,16.75
 2017,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,17.38
-2018,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,18.0
+2018,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,18
 2019,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,18.07
 2011,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,13.7
 2012,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,14.44
 2013,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,14.15
 2014,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,14.24
-2015,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,14.0
+2015,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,14
 2016,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,13.99
 2017,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,14.37
 2018,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,14.8
@@ -4252,7 +4252,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),,,Part Time,40 to 49,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,15.72
 2011,1. Annual survey of hours and earnings (ASHE),Women,,,40 to 49,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,15.85
 2012,1. Annual survey of hours and earnings (ASHE),Women,,,40 to 49,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,15.88
-2013,1. Annual survey of hours and earnings (ASHE),Women,,,40 to 49,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,16.0
+2013,1. Annual survey of hours and earnings (ASHE),Women,,,40 to 49,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,16
 2014,1. Annual survey of hours and earnings (ASHE),Women,,,40 to 49,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,16.5
 2015,1. Annual survey of hours and earnings (ASHE),Women,,,40 to 49,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,16.73
 2016,1. Annual survey of hours and earnings (ASHE),Women,,,40 to 49,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,16.93
@@ -4444,7 +4444,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2015,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,17.51
 2016,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,18.28
 2017,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,19.03
-2018,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,19.0
+2018,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,19
 2019,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,19.93
 2011,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,60 and over,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,16.86
 2012,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,60 and over,Associate professional and technical occupations,,,,Undefined,Units,GBP (£),,17.7
@@ -4474,7 +4474,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2018,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,8.22
 2019,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,8.79
 2011,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,6.87
-2012,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,7.0
+2012,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,7
 2013,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,7.22
 2014,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,7.07
 2015,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,7.38
@@ -4646,7 +4646,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),,,Full Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,11.13
 2011,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,8.99
 2012,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.04
-2013,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.0
+2013,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9
 2014,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,8.87
 2015,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.05
 2016,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.51
@@ -4701,7 +4701,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2011,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.75
 2012,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.54
 2013,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.58
-2014,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.0
+2014,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9
 2015,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.4
 2016,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10.07
 2017,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,30 to 39,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10.43
@@ -4759,11 +4759,11 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2015,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.26
 2016,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.65
 2017,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.89
-2018,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10.0
+2018,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10
 2019,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10.52
 2011,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10.85
 2012,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10.87
-2013,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,11.0
+2013,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,11
 2014,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10.84
 2015,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10.65
 2016,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,11.09
@@ -4874,7 +4874,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2013,1. Annual survey of hours and earnings (ASHE),,,,60 and over,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.37
 2014,1. Annual survey of hours and earnings (ASHE),,,,60 and over,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.33
 2015,1. Annual survey of hours and earnings (ASHE),,,,60 and over,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.61
-2016,1. Annual survey of hours and earnings (ASHE),,,,60 and over,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10.0
+2016,1. Annual survey of hours and earnings (ASHE),,,,60 and over,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10
 2017,1. Annual survey of hours and earnings (ASHE),,,,60 and over,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,9.98
 2018,1. Annual survey of hours and earnings (ASHE),,,,60 and over,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10.21
 2019,1. Annual survey of hours and earnings (ASHE),,,,60 and over,"Caring, leisure and other service occupations",,,,Undefined,Units,GBP (£),,10.8
@@ -4962,7 +4962,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2011,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,6.67
 2012,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,6.87
 2013,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,6.98
-2014,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,7.0
+2014,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,7
 2015,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,7.34
 2016,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,7.78
 2017,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,7.89
@@ -5007,7 +5007,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2011,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,6.68
 2012,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,6.89
 2013,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,6.93
-2014,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,7.0
+2014,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,7
 2015,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,7.35
 2016,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,7.71
 2017,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Elementary occupations,,,,Undefined,Units,GBP (£),,7.88
@@ -5037,11 +5037,11 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2014,1. Annual survey of hours and earnings (ASHE),,,,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,7.96
 2015,1. Annual survey of hours and earnings (ASHE),,,,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,8.15
 2016,1. Annual survey of hours and earnings (ASHE),,,,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,8.61
-2017,1. Annual survey of hours and earnings (ASHE),,,,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,9.0
+2017,1. Annual survey of hours and earnings (ASHE),,,,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,9
 2018,1. Annual survey of hours and earnings (ASHE),,,,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,9.38
 2019,1. Annual survey of hours and earnings (ASHE),,,,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,9.76
 2011,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,7.8
-2012,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,8.0
+2012,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,8
 2013,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,8.01
 2014,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,8.14
 2015,1. Annual survey of hours and earnings (ASHE),,,Full Time,22 to 29,Elementary occupations,,,,Undefined,Units,GBP (£),,8.32
@@ -5254,7 +5254,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2015,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,9.92
 2016,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,10.19
 2017,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,10.55
-2018,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,11.0
+2018,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,11
 2019,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,11.38
 2011,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,9.69
 2012,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,9.64
@@ -5268,7 +5268,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2011,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,7.82
 2012,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,7.95
 2013,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,7.91
-2014,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,8.0
+2014,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,8
 2015,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,8.37
 2016,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,8.59
 2017,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Elementary occupations,,,,Undefined,Units,GBP (£),,9.1
@@ -5411,7 +5411,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,60 and over,Elementary occupations,,,,Undefined,Units,GBP (£),,9.43
 2011,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Elementary occupations,,,,Undefined,Units,GBP (£),,8.69
 2012,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Elementary occupations,,,,Undefined,Units,GBP (£),,8.84
-2013,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Elementary occupations,,,,Undefined,Units,GBP (£),,9.0
+2013,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Elementary occupations,,,,Undefined,Units,GBP (£),,9
 2014,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Elementary occupations,,,,Undefined,Units,GBP (£),,9.22
 2015,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Elementary occupations,,,,Undefined,Units,GBP (£),,9.45
 2016,1. Annual survey of hours and earnings (ASHE),Men,,,60 and over,Elementary occupations,,,,Undefined,Units,GBP (£),,9.76
@@ -5609,7 +5609,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2013,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,16.67
 2014,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,19.39
 2015,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,16.32
-2016,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,16.0
+2016,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,16
 2017,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,17.27
 2018,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,17.64
 2019,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,15.93
@@ -5809,7 +5809,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2015,1. Annual survey of hours and earnings (ASHE),Men,,,50 to 59,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,29.03
 2016,1. Annual survey of hours and earnings (ASHE),Men,,,50 to 59,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,30.15
 2017,1. Annual survey of hours and earnings (ASHE),Men,,,50 to 59,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,30.87
-2018,1. Annual survey of hours and earnings (ASHE),Men,,,50 to 59,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,32.0
+2018,1. Annual survey of hours and earnings (ASHE),Men,,,50 to 59,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,32
 2019,1. Annual survey of hours and earnings (ASHE),Men,,,50 to 59,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,32.48
 2011,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,50 to 59,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,28.78
 2012,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,50 to 59,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,30.28
@@ -5841,7 +5841,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2011,1. Annual survey of hours and earnings (ASHE),,,Full Time,60 and over,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,22.1
 2012,1. Annual survey of hours and earnings (ASHE),,,Full Time,60 and over,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,23.48
 2013,1. Annual survey of hours and earnings (ASHE),,,Full Time,60 and over,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,24.17
-2014,1. Annual survey of hours and earnings (ASHE),,,Full Time,60 and over,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,24.0
+2014,1. Annual survey of hours and earnings (ASHE),,,Full Time,60 and over,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,24
 2015,1. Annual survey of hours and earnings (ASHE),,,Full Time,60 and over,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,24.5
 2016,1. Annual survey of hours and earnings (ASHE),,,Full Time,60 and over,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,24.47
 2017,1. Annual survey of hours and earnings (ASHE),,,Full Time,60 and over,"Managers, directors and senior officials",,,,Undefined,Units,GBP (£),,25.5
@@ -5917,7 +5917,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2015,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,8.05
 2016,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,8.62
 2017,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,8.79
-2018,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.0
+2018,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9
 2019,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.3
 2011,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,7.72
 2012,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,7.73
@@ -6124,7 +6124,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2015,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,8.51
 2016,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,8.84
 2017,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.35
-2018,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.0
+2018,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9
 2019,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,10.27
 2011,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,10.47
 2012,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,10.6
@@ -6159,10 +6159,10 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2014,1. Annual survey of hours and earnings (ASHE),,,,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.35
 2015,1. Annual survey of hours and earnings (ASHE),,,,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.6
 2016,1. Annual survey of hours and earnings (ASHE),,,,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.87
-2017,1. Annual survey of hours and earnings (ASHE),,,,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,12.0
+2017,1. Annual survey of hours and earnings (ASHE),,,,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,12
 2018,1. Annual survey of hours and earnings (ASHE),,,,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,12.35
 2019,1. Annual survey of hours and earnings (ASHE),,,,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,12.82
-2011,1. Annual survey of hours and earnings (ASHE),,,Full Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.0
+2011,1. Annual survey of hours and earnings (ASHE),,,Full Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11
 2012,1. Annual survey of hours and earnings (ASHE),,,Full Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.2
 2013,1. Annual survey of hours and earnings (ASHE),,,Full Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.38
 2014,1. Annual survey of hours and earnings (ASHE),,,Full Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.46
@@ -6175,7 +6175,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2012,1. Annual survey of hours and earnings (ASHE),,,Part Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.12
 2013,1. Annual survey of hours and earnings (ASHE),,,Part Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.08
 2014,1. Annual survey of hours and earnings (ASHE),,,Part Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,8.85
-2015,1. Annual survey of hours and earnings (ASHE),,,Part Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.0
+2015,1. Annual survey of hours and earnings (ASHE),,,Part Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9
 2016,1. Annual survey of hours and earnings (ASHE),,,Part Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.58
 2017,1. Annual survey of hours and earnings (ASHE),,,Part Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.6
 2018,1. Annual survey of hours and earnings (ASHE),,,Part Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,10.61
@@ -6236,7 +6236,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.05
 2011,1. Annual survey of hours and earnings (ASHE),,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,10.73
 2012,1. Annual survey of hours and earnings (ASHE),,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,10.88
-2013,1. Annual survey of hours and earnings (ASHE),,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.0
+2013,1. Annual survey of hours and earnings (ASHE),,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11
 2014,1. Annual survey of hours and earnings (ASHE),,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.19
 2015,1. Annual survey of hours and earnings (ASHE),,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.43
 2016,1. Annual survey of hours and earnings (ASHE),,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.66
@@ -6270,7 +6270,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2017,1. Annual survey of hours and earnings (ASHE),Women,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.65
 2018,1. Annual survey of hours and earnings (ASHE),Women,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,10.04
 2019,1. Annual survey of hours and earnings (ASHE),Women,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,10.3
-2011,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.0
+2011,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9
 2012,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,8.97
 2013,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.09
 2014,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.37
@@ -6288,7 +6288,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2017,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,8.95
 2018,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.16
 2019,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,9.32
-2011,1. Annual survey of hours and earnings (ASHE),Men,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.0
+2011,1. Annual survey of hours and earnings (ASHE),Men,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11
 2012,1. Annual survey of hours and earnings (ASHE),Men,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.14
 2013,1. Annual survey of hours and earnings (ASHE),Men,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.24
 2014,1. Annual survey of hours and earnings (ASHE),Men,,,50 to 59,"Process, plant and machine operatives",,,,Undefined,Units,GBP (£),,11.49
@@ -6403,7 +6403,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2015,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Professional occupations,,,,Undefined,Units,GBP (£),,10.45
 2016,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Professional occupations,,,,Undefined,Units,GBP (£),,10.88
 2017,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Professional occupations,,,,Undefined,Units,GBP (£),,13.21
-2018,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Professional occupations,,,,Undefined,Units,GBP (£),,11.0
+2018,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Professional occupations,,,,Undefined,Units,GBP (£),,11
 2019,1. Annual survey of hours and earnings (ASHE),,,,18 to 21,Professional occupations,,,,Undefined,Units,GBP (£),,11.52
 2011,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,Professional occupations,,,,Undefined,Units,GBP (£),,9.85
 2012,1. Annual survey of hours and earnings (ASHE),,,Full Time,18 to 21,Professional occupations,,,,Undefined,Units,GBP (£),,10.65
@@ -6501,7 +6501,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2012,1. Annual survey of hours and earnings (ASHE),Women,,,22 to 29,Professional occupations,,,,Undefined,Units,GBP (£),,16.03
 2013,1. Annual survey of hours and earnings (ASHE),Women,,,22 to 29,Professional occupations,,,,Undefined,Units,GBP (£),,15.99
 2014,1. Annual survey of hours and earnings (ASHE),Women,,,22 to 29,Professional occupations,,,,Undefined,Units,GBP (£),,15.78
-2015,1. Annual survey of hours and earnings (ASHE),Women,,,22 to 29,Professional occupations,,,,Undefined,Units,GBP (£),,16.0
+2015,1. Annual survey of hours and earnings (ASHE),Women,,,22 to 29,Professional occupations,,,,Undefined,Units,GBP (£),,16
 2016,1. Annual survey of hours and earnings (ASHE),Women,,,22 to 29,Professional occupations,,,,Undefined,Units,GBP (£),,16.21
 2017,1. Annual survey of hours and earnings (ASHE),Women,,,22 to 29,Professional occupations,,,,Undefined,Units,GBP (£),,16.3
 2018,1. Annual survey of hours and earnings (ASHE),Women,,,22 to 29,Professional occupations,,,,Undefined,Units,GBP (£),,16.4
@@ -6580,7 +6580,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,Professional occupations,,,,Undefined,Units,GBP (£),,22.7
 2011,1. Annual survey of hours and earnings (ASHE),Women,,,30 to 39,Professional occupations,,,,Undefined,Units,GBP (£),,19.35
 2012,1. Annual survey of hours and earnings (ASHE),Women,,,30 to 39,Professional occupations,,,,Undefined,Units,GBP (£),,19.69
-2013,1. Annual survey of hours and earnings (ASHE),Women,,,30 to 39,Professional occupations,,,,Undefined,Units,GBP (£),,20.0
+2013,1. Annual survey of hours and earnings (ASHE),Women,,,30 to 39,Professional occupations,,,,Undefined,Units,GBP (£),,20
 2014,1. Annual survey of hours and earnings (ASHE),Women,,,30 to 39,Professional occupations,,,,Undefined,Units,GBP (£),,19.98
 2015,1. Annual survey of hours and earnings (ASHE),Women,,,30 to 39,Professional occupations,,,,Undefined,Units,GBP (£),,20.07
 2016,1. Annual survey of hours and earnings (ASHE),Women,,,30 to 39,Professional occupations,,,,Undefined,Units,GBP (£),,20.33
@@ -6711,7 +6711,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2015,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Professional occupations,,,,Undefined,Units,GBP (£),,24.03
 2016,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Professional occupations,,,,Undefined,Units,GBP (£),,26.23
 2017,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Professional occupations,,,,Undefined,Units,GBP (£),,25.33
-2018,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Professional occupations,,,,Undefined,Units,GBP (£),,28.0
+2018,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Professional occupations,,,,Undefined,Units,GBP (£),,28
 2019,1. Annual survey of hours and earnings (ASHE),Men,,Part Time,40 to 49,Professional occupations,,,,Undefined,Units,GBP (£),,28.79
 2011,1. Annual survey of hours and earnings (ASHE),,,,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,23.26
 2012,1. Annual survey of hours and earnings (ASHE),,,,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,22.95
@@ -6750,9 +6750,9 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2018,1. Annual survey of hours and earnings (ASHE),Women,,,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,22.31
 2019,1. Annual survey of hours and earnings (ASHE),Women,,,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,23.29
 2011,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,21.07
-2012,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,21.0
+2012,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,21
 2013,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,21.06
-2014,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,21.0
+2014,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,21
 2015,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,21.49
 2016,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,21.57
 2017,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Professional occupations,,,,Undefined,Units,GBP (£),,22.03
@@ -7057,7 +7057,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),,,Full Time,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,12.27
 2011,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,7.68
 2012,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,7.82
-2013,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,8.0
+2013,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,8
 2014,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,8.1
 2015,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,8.24
 2016,1. Annual survey of hours and earnings (ASHE),,,Part Time,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,8.78
@@ -7093,7 +7093,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,9.65
 2011,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,10.41
 2012,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,10.2
-2013,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,10.0
+2013,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,10
 2014,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,10.01
 2015,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,10.17
 2016,1. Annual survey of hours and earnings (ASHE),Men,,,30 to 39,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,10.63
@@ -7176,7 +7176,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2012,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,10.95
 2013,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,10.91
 2014,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,10.82
-2015,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,11.0
+2015,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,11
 2016,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,11.26
 2017,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,11.62
 2018,1. Annual survey of hours and earnings (ASHE),Men,,,40 to 49,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,12.12
@@ -7264,7 +7264,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2019,1. Annual survey of hours and earnings (ASHE),Men,,,50 to 59,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,12.36
 2011,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,50 to 59,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,11.27
 2012,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,50 to 59,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,10.97
-2013,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,50 to 59,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,11.0
+2013,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,50 to 59,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,11
 2014,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,50 to 59,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,11.25
 2015,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,50 to 59,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,11.53
 2016,1. Annual survey of hours and earnings (ASHE),Men,,Full Time,50 to 59,Sales and customer service occupations,,,,Undefined,Units,GBP (£),,11.98
@@ -7415,7 +7415,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2017,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,18 to 21,Skilled trades occupations,,,,Undefined,Units,GBP (£),,7.67
 2018,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,18 to 21,Skilled trades occupations,,,,Undefined,Units,GBP (£),,7.72
 2019,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,18 to 21,Skilled trades occupations,,,,Undefined,Units,GBP (£),,7.15
-2011,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Skilled trades occupations,,,,Undefined,Units,GBP (£),,8.0
+2011,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Skilled trades occupations,,,,Undefined,Units,GBP (£),,8
 2012,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Skilled trades occupations,,,,Undefined,Units,GBP (£),,8.23
 2013,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Skilled trades occupations,,,,Undefined,Units,GBP (£),,8.34
 2014,1. Annual survey of hours and earnings (ASHE),Men,,,18 to 21,Skilled trades occupations,,,,Undefined,Units,GBP (£),,8.16
@@ -7728,7 +7728,7 @@ Year,Units,Sex,Sex by disability,Working Pattern,Age,Occupation,Disability statu
 2015,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Skilled trades occupations,,,,Undefined,Units,GBP (£),,10.12
 2016,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Skilled trades occupations,,,,Undefined,Units,GBP (£),,10.38
 2017,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Skilled trades occupations,,,,Undefined,Units,GBP (£),,10.5
-2018,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Skilled trades occupations,,,,Undefined,Units,GBP (£),,11.0
+2018,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Skilled trades occupations,,,,Undefined,Units,GBP (£),,11
 2019,1. Annual survey of hours and earnings (ASHE),Women,,Full Time,50 to 59,Skilled trades occupations,,,,Undefined,Units,GBP (£),,11.36
 2011,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,50 to 59,Skilled trades occupations,,,,Undefined,Units,GBP (£),,7.94
 2012,1. Annual survey of hours and earnings (ASHE),Women,,Part Time,50 to 59,Skilled trades occupations,,,,Undefined,Units,GBP (£),,8.14
