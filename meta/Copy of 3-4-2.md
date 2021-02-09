@@ -43,8 +43,9 @@ source_active_6: false
 indicator_sort_order: 03-04-02
 other_info: >-
   1) Figures are for deaths registered, rather than deaths occurring in each calendar year. Due to the length of time it takes to complete a coroner's inquest, it can take months or even years for a suicide to be registered. 2) The large increase seen in Northern Ireland between 2004 and
-  2006 coincides with a change to the Coroners’ Service. Prior to April 2006, there were seven Coroners’ districts in Northern Ireland. Following a review of the Coroners’ Service, the separate districts were amalgamated into one centralised Coroners’ Service.  <table style="width:100%">
-  <tr>
+  2006 coincides with a change to the Coroners’ Service. Prior to April 2006, there were seven Coroners’ districts in Northern Ireland. Following a review of the Coroners’ Service, the separate districts were amalgamated into one centralised Coroners’ Service.
+  <table style="width:100%">
+      <tr>
         <th>Firstname</th>
         <th>Lastname</th>
         <th>Age</th>
@@ -58,9 +59,8 @@ other_info: >-
         <td>Eve</td>
         <td>Jackson</td>
         <td>94</td>
-      </tr>
-    </table> Data
-  follows the UN specification for this indicator. This indicator has been identified in collaboration with topic experts.
+  </tr>
+    </table> Data follows the UN specification for this indicator. This indicator has been identified in collaboration with topic experts.
 ---
 #### In **2018**… 
 * There were 6,507 suicides registered in the UK, an age-standardised rate of 11.2 deaths per 100,000 population; the latest rate is significantly higher than that in 2017 and represents the first increase since 2013.
