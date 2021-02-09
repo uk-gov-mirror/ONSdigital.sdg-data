@@ -12,8 +12,23 @@ goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 
 national_geographical_coverage: United Kingdom
 computation_units: Rate per 100,000 population
 computation_definitions: >-
-  Data on suicide concern all deaths that were assigned underlying cause of intentional self-harm (for those aged 10 years and above). We also include deaths caused by injury or poisoning of undetermined intent (for those aged 15 years and above), based on the assumption that the majority
-  of these deaths will be suicide. This is referred to as the National Statistics definition of suicide. ICD–10–CM codes for nonfatal suicide attempts and intentional self-harm include - X71–X83
+  <table style="width:100%">
+        <tr>
+          <th>Firstname</th>
+          <th>Lastname</th>
+          <th>Age</th>
+        </tr>
+        <tr>
+          <td>Jill</td>
+          <td>Smith</td>
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>Eve</td>
+  <td>Jackson</td>
+          <td>94</td>
+        </tr>
+      </table>
 computation_calculations: Age-standardised mortality rates (age-specific mortality rates when 5-year age group selected)
 reporting_status: complete
 data_non_statistical: false
@@ -44,23 +59,7 @@ indicator_sort_order: 03-04-02
 other_info: >-
   1) Figures are for deaths registered, rather than deaths occurring in each calendar year. Due to the length of time it takes to complete a coroner's inquest, it can take months or even years for a suicide to be registered. 2) The large increase seen in Northern Ireland between 2004 and
   2006 coincides with a change to the Coroners’ Service. Prior to April 2006, there were seven Coroners’ districts in Northern Ireland. Following a review of the Coroners’ Service, the separate districts were amalgamated into one centralised Coroners’ Service.
-  <table style="width:100%">
-      <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
-        <th>Age</th>
-      </tr>
-      <tr>
-        <td>Jill</td>
-        <td>Smith</td>
-        <td>50</td>
-      </tr>
-      <tr>
-        <td>Eve</td>
-        <td>Jackson</td>
-        <td>94</td>
-  </tr>
-    </table> Data follows the UN specification for this indicator. This indicator has been identified in collaboration with topic experts.
+  Data follows the UN specification for this indicator. This indicator has been identified in collaboration with topic experts.
 ---
 #### In **2018**… 
 * There were 6,507 suicides registered in the UK, an age-standardised rate of 11.2 deaths per 100,000 population; the latest rate is significantly higher than that in 2017 and represents the first increase since 2013.
