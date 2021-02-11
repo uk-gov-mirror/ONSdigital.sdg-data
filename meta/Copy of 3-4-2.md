@@ -25,10 +25,10 @@ computation_definitions: >-
         </tr>
         <tr>
           <td>Eve</td>
-  <td>Jackson</td>
+          <td>Jackson</td>
           <td>94</td>
         </tr>
-      </table>
+  </table>
 computation_calculations: Age-standardised mortality rates (age-specific mortality rates when 5-year age group selected)
 reporting_status: complete
 data_non_statistical: false
