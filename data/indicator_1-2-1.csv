@@ -1,4 +1,4 @@
-Year,Sex,Age,Observation status,Unit multiplier,Unit measure,Value
+Year,Sex,COMPOSITE_BREAKDOWN,Observation status,Unit multiplier,Unit measure,Value
 2005,,,Undefined,Units,Percentage (%),19.0
 2005,,15 and under,Undefined,Units,Percentage (%),23.3
 2005,,16 to 24,Undefined,Units,Percentage (%),23.4
