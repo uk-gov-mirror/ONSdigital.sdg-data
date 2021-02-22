@@ -20,7 +20,7 @@ def alter_meta(meta):
         meta['goal_meta_link'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
         if indicator_id in list(tier_df.index):
             meta['un_designated_tier']=tier_df.loc[indicator_id][0]
-    meta['graph_title']='global_indicators.'+id_parts[0] + '-' + id_parts[1] + '-' + id_parts[2]+'-title'
+    meta['graph_title']="Graph title when metadata doesn't exist"
     return meta
   
 open_sdg_build(config='config_data.yml', alter_meta=alter_meta)
