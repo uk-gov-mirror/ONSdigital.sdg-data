@@ -20,6 +20,11 @@ site_dir: _site
 # Currently this needs to be a prose.io config, and defaults to '_prose.yml'.
 schema_file: _prose.yml
 
+
+# Inputs
+inputs:
+  - class: InputSdmxMeta
+
 # Source directory
 # ----------------
 # This identifies the directory that holds the 'data' and 'meta' folders.
