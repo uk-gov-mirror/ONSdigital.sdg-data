@@ -20,6 +20,9 @@ site_dir: _site
 # Currently this needs to be a prose.io config, and defaults to '_prose.yml'.
 schema_file: _prose.yml
 
+# CSVW Output
+csvw: true
+
 # Source directory
 # ----------------
 # This identifies the directory that holds the 'data' and 'meta' folders.
