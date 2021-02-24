@@ -19,8 +19,9 @@ def alter_meta(meta):
         meta['goal_meta_link'] = 'United Nations Sustainable Development Goals metadata for target '+target_id
         if indicator_id in list(tier_df.index):
             meta['un_designated_tier']=tier_df.loc[indicator_id][0]
-    
     meta['graph_title']="Graph title when metadata doesn't exist"
+    if 'indicator_name' not in meta:
+        meta['indicator_name']="indicator_name is missing for this indicator"
     return meta
 
 # Validate the indicators.
