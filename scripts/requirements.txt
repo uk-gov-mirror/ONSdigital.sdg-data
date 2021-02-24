@@ -1,2 +1,2 @@
 git+https://github.com/dougmet/yamlmd
-git+git://github.com/brockfanning/sdg-build@sdmx-output-str-type
+git+git://github.com/brockfanning/sdg-build-1@sdmx-output-str-type
