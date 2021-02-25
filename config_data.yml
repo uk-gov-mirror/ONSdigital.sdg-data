@@ -47,6 +47,24 @@ reporting_status_extra_fields: []
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
     reference_area: 826
+    dimension_map:
+      REF_AREA|826: ''
+    reference_area: 524
+    import_codes: true
+    drop_singleton_dimensions: false
+    drop_dimensions:
+      - UPPER_BOUND
+      - LOWER_BOUND
+      - UNIT_MULT
+      - COMMENT_OBS
+      - SOURCE_DETAIL
+      - BASE_PER
+      - NATURE
+      - DATA_LAST_UPDATE
+      - FREQ
+      - REPORTING_TYPE
+      - TIME_DETAIL
+      - OBS_STATUS
   
 # Map layers
 # ----------
