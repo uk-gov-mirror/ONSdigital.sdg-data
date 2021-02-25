@@ -35,6 +35,10 @@ translations:
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
     tag: 1.2.0
+  - class: TranslationInputSdmx
+    source: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
+    dimension_map:
+      REF_AREA|826: ''
 
 # Reporting status extra fields
 # -----------------------------
@@ -49,7 +53,6 @@ inputs:
     reference_area: 826
     dimension_map:
       REF_AREA|826: ''
-    reference_area: 524
     import_codes: true
     drop_singleton_dimensions: false
     drop_dimensions:
