@@ -32,11 +32,11 @@ src_dir: ''
 # tags or branches should be indicated after an "@" symbol. The default is the
 # GitHub repository 'sdg-translations'.
 translations:
-  - class: TranslationInputSdgTranslations
-    source: https://github.com/open-sdg/sdg-translations.git
-    tag: 1.2.0
   - class: TranslationInputSdmx
     source: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
+  - class: TranslationInputSdgTranslations
+    source: https://github.com/open-sdg/sdg-translations.git
+    tag: master
 
 # Reporting status extra fields
 # -----------------------------
