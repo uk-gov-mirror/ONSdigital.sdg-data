@@ -37,8 +37,6 @@ translations:
     tag: 1.2.0
   - class: TranslationInputSdmx
     source: https://registry.sdmx.org/ws/public/sdmxapi/rest/datastructure/IAEG-SDGs/SDG/latest/?format=sdmx-2.1&detail=full&references=children
-    dimension_map:
-      REF_AREA|826: ''
 
 # Reporting status extra fields
 # -----------------------------
