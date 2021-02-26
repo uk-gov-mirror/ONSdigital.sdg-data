@@ -52,7 +52,6 @@ inputs:
     dimension_map:
       REF_AREA|826: ''
     import_codes: true
-    drop_singleton_dimensions: false
     drop_dimensions:
       - UPPER_BOUND
       - LOWER_BOUND
