@@ -48,7 +48,8 @@ reporting_status_extra_fields: []
 # Inputs
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
-    reference_area: 826+827+828+829
+    dimension_query:
+      REF_AREA: 826+827+828+829
     dimension_map:
       REF_AREA|826: ''
     import_codes: true
