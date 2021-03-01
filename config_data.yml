@@ -42,6 +42,14 @@ translations:
 # fields, beyond the default "status by goal" report.
 reporting_status_extra_fields: []
 
+#Inputs
+inputs:
+  - class: InputCsvData
+    path_pattern: data/*-*.csv
+  - class: InputCsvMeta
+    path_pattern: csvmeta/*-*.csv
+    metadata_mapping: metadata_mapping.csv
+
 # Map layers
 # ----------
 # This allows the build to generate one or more GeoJSON files to be used by
