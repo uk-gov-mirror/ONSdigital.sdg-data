@@ -50,6 +50,7 @@ inputs:
   - class: InputSdmxMl_UnitedNationsApi
     dimension_query:
       REF_AREA: 826+827+828+829
+      SEX: F
     dimension_map:
       REF_AREA|826: ''
     import_codes: true
