@@ -1,2 +1,2 @@
 git+https://github.com/dougmet/yamlmd
-brockfanning/sdg-build-1@meta-file-input-tweaks
+git+git://github.com/brockfanning/sdg-build-1@meta-file-input-tweaks
