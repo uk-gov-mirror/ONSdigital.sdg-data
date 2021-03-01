@@ -4,8 +4,10 @@ Geographical coverage,national_geographical_coverage
 Unit of measurement,computation_units
 Definitions,computation_definitions
 Calculations,computation_calculations
-Other information,other_information
+Other information,other_info
+Data footnote,data_footnote
 Indicator name,indicator_name
+Indicator number,indicator_number
 Target name,target
 UN designated tier,un_designated_tier
 UN custodian agency,un_custodian_agency
@@ -61,3 +63,9 @@ Source 4 next release,source_next_release_4
 Source 4 statistical classification,source_statistical_classification_4
 Source 4 contact details,source_contact_4
 Source 4 other information,source_other_info_4
+Source 1 active,source_active_1
+Source 2 active,source_active_2
+Source 3 active,source_active_3
+Source 4 active,source_active_4
+Source 5 active,source_active_5
+Source 6 active,source_active_6
