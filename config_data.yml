@@ -69,6 +69,8 @@ map_layers:
     id_property: lad16cd
     output_subfolder: local_authorities
     filename_prefix: indicator_
+    
+csvw: true
 
 # Git
 # ---
