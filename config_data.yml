@@ -71,6 +71,8 @@ map_layers:
     filename_prefix: indicator_
     
 csvw: true
+datapackage:
+  sorting: default
 
 # Git
 # ---
